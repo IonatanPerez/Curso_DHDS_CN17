@@ -1,0 +1,2824 @@
+ORDERNUMBER	SALES	MONTH_ID	YEAR_ID	PRODUCTLINE	COUNTRY
+10107	2871	2	2003	Motorcycles	USA
+10121	2765.9	5	2003	Motorcycles	France
+10134	3884.34	7	2003	Motorcycles	France
+10145	3746.7	8	2003	Motorcycles	USA
+10159	5205.27	10	2003	Motorcycles	USA
+10168	3479.76	10	2003	Motorcycles	USA
+10180	2497.77	11	2003	Motorcycles	France
+10188	5512.32	11	2003	Motorcycles	Norway
+10201	2168.54	12	2003	Motorcycles	USA
+10211	4708.44	1	2004	Motorcycles	France
+10223	3965.66	2	2004	Motorcycles	Australia
+10237	2333.12	4	2004	Motorcycles	USA
+10251	3188.64	5	2004	Motorcycles	USA
+10263	3676.76	6	2004	Motorcycles	USA
+10275	4177.35	7	2004	Motorcycles	France
+10285	4099.68	8	2004	Motorcycles	USA
+10299	2597.39	9	2004	Motorcycles	Finland
+10309	4394.38	10	2004	Motorcycles	Norway
+10318	4358.04	11	2004	Motorcycles	USA
+10329	4396.14	11	2004	Motorcycles	USA
+10341	7737.93	11	2004	Motorcycles	Austria
+10361	1451	12	2004	Motorcycles	Australia
+10375	733.11	2	2005	Motorcycles	France
+10388	3207.12	3	2005	Motorcycles	USA
+10403	2434.56	4	2005	Motorcycles	UK
+10417	7516.08	5	2005	Motorcycles	Spain
+10103	5404.62	1	2003	Classic Cars	Norway
+10112	7209.11	3	2003	Classic Cars	Sweden
+10126	7329.06	5	2003	Classic Cars	Spain
+10140	7374.1	7	2003	Classic Cars	USA
+10150	10993.5	9	2003	Classic Cars	Singapore
+10163	4860.24	10	2003	Classic Cars	USA
+10174	8014.82	11	2003	Classic Cars	Australia
+10183	5372.57	11	2003	Classic Cars	USA
+10194	7290.36	11	2003	Classic Cars	France
+10206	9064.89	12	2003	Classic Cars	Canada
+10215	6075.3	1	2004	Classic Cars	USA
+10228	6463.23	3	2004	Classic Cars	USA
+10245	6120.34	5	2004	Classic Cars	USA
+10258	7680.64	6	2004	Classic Cars	Japan
+10270	4905.39	7	2004	Classic Cars	Australia
+10280	8014.82	8	2004	Classic Cars	Italy
+10291	7136.19	9	2004	Classic Cars	Sweden
+10304	10172.7	10	2004	Classic Cars	France
+10312	11623.7	10	2004	Classic Cars	USA
+10322	6000.4	11	2004	Classic Cars	USA
+10333	3003	11	2004	Classic Cars	USA
+10347	3944.7	11	2004	Classic Cars	Australia
+10357	5691.84	12	2004	Classic Cars	USA
+10369	4514.92	1	2005	Classic Cars	USA
+10381	8254.8	2	2005	Classic Cars	USA
+10391	2416.56	3	2005	Classic Cars	Australia
+10411	4140.23	5	2005	Classic Cars	Canada
+10424	12001	5	2005	Classic Cars	Spain
+10107	3896.49	2	2003	Motorcycles	USA
+10120	2793.86	4	2003	Motorcycles	Australia
+10134	3307.77	7	2003	Motorcycles	France
+10145	5192.95	8	2003	Motorcycles	USA
+10159	5016.83	10	2003	Motorcycles	USA
+10168	3660.93	10	2003	Motorcycles	USA
+10180	4695.6	11	2003	Motorcycles	France
+10188	3660.92	11	2003	Motorcycles	Norway
+10201	3025.92	12	2003	Motorcycles	USA
+10210	3009.09	1	2004	Motorcycles	Japan
+10223	5422.39	2	2004	Motorcycles	Australia
+10236	2852.08	4	2004	Motorcycles	USA
+10251	5756.52	5	2004	Motorcycles	USA
+10263	4472	6	2004	Motorcycles	USA
+10275	2904.44	7	2004	Motorcycles	France
+10285	6484.59	8	2004	Motorcycles	USA
+10298	3757.26	9	2004	Motorcycles	France
+10308	4043.96	10	2004	Motorcycles	USA
+10318	5566.5	11	2004	Motorcycles	USA
+10329	3176	11	2004	Motorcycles	USA
+10339	2756.8	11	2004	Motorcycles	Japan
+10361	1329.9	12	2004	Motorcycles	Australia
+10374	5288.01	2	2005	Motorcycles	Australia
+10388	2225.5	3	2005	Motorcycles	USA
+10402	5833.8	4	2005	Motorcycles	France
+10417	5887.35	5	2005	Motorcycles	Spain
+10107	6065.55	2	2003	Motorcycles	USA
+10120	9264.86	4	2003	Motorcycles	Australia
+10134	7023.98	7	2003	Motorcycles	France
+10145	5176.38	8	2003	Motorcycles	USA
+10159	4132.7	10	2003	Motorcycles	USA
+10168	4183	10	2003	Motorcycles	USA
+10180	8892.9	11	2003	Motorcycles	France
+10188	8714.7	11	2003	Motorcycles	Norway
+10201	8065.89	12	2003	Motorcycles	USA
+10210	6123.4	1	2004	Motorcycles	Japan
+10223	9774.03	2	2004	Motorcycles	Australia
+10237	7023.9	4	2004	Motorcycles	USA
+10251	7078.23	5	2004	Motorcycles	USA
+10263	8336.94	6	2004	Motorcycles	USA
+10275	6901.92	7	2004	Motorcycles	France
+10285	5438.07	8	2004	Motorcycles	USA
+10299	6683.34	9	2004	Motorcycles	Finland
+10308	4570.4	10	2004	Motorcycles	USA
+10318	7667.14	11	2004	Motorcycles	USA
+10329	5868.2	11	2004	Motorcycles	USA
+10339	2990.13	11	2004	Motorcycles	Japan
+10362	3664.1	1	2005	Motorcycles	USA
+10374	3834.38	2	2005	Motorcycles	Australia
+10388	1822.17	3	2005	Motorcycles	USA
+10403	11886.6	4	2005	Motorcycles	UK
+10417	9218.16	5	2005	Motorcycles	Spain
+10105	7208	2	2003	Classic Cars	Denmark
+10119	5004.8	4	2003	Classic Cars	Austria
+10129	4398.24	6	2003	Classic Cars	UK
+10143	5597.76	8	2003	Classic Cars	USA
+10155	4526.08	10	2003	Classic Cars	Finland
+10167	5924.16	10	2003	Classic Cars	Sweden
+10178	3492.48	11	2003	Classic Cars	France
+10186	3854.24	11	2003	Classic Cars	UK
+10197	5324.4	11	2003	Classic Cars	Spain
+10209	5197.92	1	2004	Classic Cars	USA
+10222	5997.6	2	2004	Classic Cars	USA
+10248	2910.4	5	2004	Classic Cars	USA
+10261	3378.24	6	2004	Classic Cars	Canada
+10273	3508.8	7	2004	Classic Cars	Belgium
+10283	2992	8	2004	Classic Cars	Canada
+10295	3427.2	9	2004	Classic Cars	USA
+10307	2692.8	10	2004	Classic Cars	USA
+10316	4128.96	11	2004	Classic Cars	UK
+10325	3051.71	11	2004	Classic Cars	Norway
+10337	1201.25	11	2004	Classic Cars	USA
+10350	1962.22	12	2004	Classic Cars	Spain
+10359	2624.64	12	2004	Classic Cars	France
+10373	4046.25	1	2005	Classic Cars	Finland
+10384	4846.7	2	2005	Classic Cars	USA
+10395	3370.56	3	2005	Classic Cars	France
+10400	9661.44	4	2005	Classic Cars	USA
+10414	2764.88	5	2005	Classic Cars	USA
+10103	5398.26	1	2003	Classic Cars	Norway
+10114	4305.28	4	2003	Classic Cars	France
+10126	3347.74	5	2003	Classic Cars	Spain
+10140	3188.12	7	2003	Classic Cars	USA
+10150	3191.2	9	2003	Classic Cars	Singapore
+10164	3536.82	10	2003	Classic Cars	Austria
+10175	5362.83	11	2003	Classic Cars	UK
+10183	3433.36	11	2003	Classic Cars	USA
+10194	4263.74	11	2003	Classic Cars	France
+10207	4076.19	12	2003	Classic Cars	USA
+10217	7020.48	2	2004	Classic Cars	Singapore
+10229	6426.5	3	2004	Classic Cars	USA
+10245	4591.72	5	2004	Classic Cars	USA
+10259	4033.38	6	2004	Classic Cars	Singapore
+10270	4302.08	7	2004	Classic Cars	Australia
+10281	7020.64	8	2004	Classic Cars	USA
+10291	3855.9	9	2004	Classic Cars	Sweden
+10305	6680.78	10	2004	Classic Cars	USA
+10313	6678	10	2004	Classic Cars	Canada
+10322	2851.54	11	2004	Classic Cars	USA
+10334	3188.12	11	2004	Classic Cars	Sweden
+10347	4428	11	2004	Classic Cars	Australia
+10357	5780.92	12	2004	Classic Cars	USA
+10370	2297.05	1	2005	Classic Cars	Australia
+10381	6231.54	2	2005	Classic Cars	USA
+10391	1735.3	3	2005	Classic Cars	Australia
+10411	4427.73	5	2005	Classic Cars	Canada
+10425	5894.94	5	2005	Classic Cars	France
+10108	5265.15	3	2003	Classic Cars	Philippines
+10122	7599.9	5	2003	Classic Cars	France
+10135	8008.56	7	2003	Classic Cars	USA
+10147	9245.76	9	2003	Classic Cars	USA
+10159	8296.35	10	2003	Classic Cars	USA
+10169	5019.9	11	2003	Classic Cars	Australia
+10181	5411.07	11	2003	Classic Cars	Norway
+10191	3840.9	11	2003	Classic Cars	Germany
+10203	3930.4	12	2003	Classic Cars	Spain
+10211	7498.9	1	2004	Classic Cars	France
+10225	4517.91	2	2004	Classic Cars	Switzerland
+10238	5774.72	4	2004	Classic Cars	Denmark
+10253	3922.56	6	2004	Classic Cars	UK
+10266	9160.36	7	2004	Classic Cars	Italy
+10276	9631	8	2004	Classic Cars	USA
+10287	3432.24	8	2004	Classic Cars	Switzerland
+10300	5521.89	10	2003	Classic Cars	Germany
+10310	6934.62	10	2004	Classic Cars	Germany
+10320	6876.11	11	2004	Classic Cars	Sweden
+10329	2930.27	11	2004	Classic Cars	USA
+10341	3584.25	11	2004	Classic Cars	Austria
+10363	2817.87	1	2005	Classic Cars	Finland
+10375	3420	2	2005	Classic Cars	France
+10389	2575.04	3	2005	Classic Cars	Sweden
+10419	1961.28	5	2005	Classic Cars	Austria
+10105	8690.36	2	2003	Classic Cars	Denmark
+10117	6034.38	4	2003	Classic Cars	Singapore
+10127	11279.2	6	2003	Classic Cars	USA
+10142	8023.29	8	2003	Classic Cars	USA
+10153	4904	9	2003	Classic Cars	Spain
+10165	8594.52	10	2003	Classic Cars	Singapore
+10176	7474.5	11	2003	Classic Cars	Italy
+10185	3883.74	11	2003	Classic Cars	USA
+10196	8887.7	11	2003	Classic Cars	USA
+10208	8602.92	1	2004	Classic Cars	France
+10220	7181.44	2	2004	Classic Cars	Ireland
+10231	8378.58	3	2004	Classic Cars	Spain
+10247	10606.2	5	2004	Classic Cars	Finland
+10272	5818.4	7	2004	Classic Cars	USA
+10282	7071.27	8	2004	Classic Cars	USA
+10293	8411.56	9	2004	Classic Cars	Italy
+10306	6570.76	10	2004	Classic Cars	UK
+10314	7975.44	10	2004	Classic Cars	Denmark
+10325	2688	11	2004	Classic Cars	Norway
+10336	1888.26	11	2004	Classic Cars	France
+10348	2513.28	11	2004	Classic Cars	Spain
+10359	4764.48	12	2004	Classic Cars	France
+10371	3560.64	1	2005	Classic Cars	USA
+10382	3823.64	2	2005	Classic Cars	USA
+10395	2280.96	3	2005	Classic Cars	France
+10413	8677.8	5	2005	Classic Cars	USA
+10103	3394.98	1	2003	Trucks and Buses	Norway
+10113	3415.44	3	2003	Trucks and Buses	USA
+10126	2439.57	5	2003	Trucks and Buses	Spain
+10140	4829.8	7	2003	Trucks and Buses	USA
+10150	4100.1	9	2003	Trucks and Buses	Singapore
+10164	6563.06	10	2003	Trucks and Buses	Austria
+10174	6817.22	11	2003	Trucks and Buses	Australia
+10183	6163.94	11	2003	Trucks and Buses	USA
+10194	4933.92	11	2003	Trucks and Buses	France
+10206	4056.36	12	2003	Trucks and Buses	Canada
+10216	5759.42	2	2004	Trucks and Buses	France
+10229	3451	3	2004	Trucks and Buses	USA
+10245	5920.4	5	2004	Trucks and Buses	USA
+10258	6668.24	6	2004	Trucks and Buses	Japan
+10270	4094.72	7	2004	Trucks and Buses	Australia
+10281	2938.5	8	2004	Trucks and Buses	USA
+10291	6387.8	9	2004	Trucks and Buses	Sweden
+10304	6396	10	2004	Trucks and Buses	France
+10313	2669.1	10	2004	Trucks and Buses	Canada
+10322	4784.13	11	2004	Trucks and Buses	USA
+10333	3273.93	11	2004	Trucks and Buses	USA
+10347	3586.43	11	2004	Trucks and Buses	Australia
+10357	5960.36	12	2004	Trucks and Buses	USA
+10370	8470.14	1	2005	Trucks and Buses	Australia
+10381	2952	2	2005	Trucks and Buses	USA
+10391	2464.8	3	2005	Trucks and Buses	Australia
+10411	6232	5	2005	Trucks and Buses	Canada
+10424	7969.36	5	2005	Trucks and Buses	Spain
+10107	3036.6	2	2003	Motorcycles	USA
+10121	8284	5	2003	Motorcycles	France
+10134	2711.2	7	2003	Motorcycles	France
+10145	8339.8	8	2003	Motorcycles	USA
+10159	6238.84	10	2003	Motorcycles	USA
+10169	4639.25	11	2003	Motorcycles	Australia
+10180	6747.6	11	2003	Motorcycles	France
+10189	4512.48	11	2003	Motorcycles	USA
+10201	4029	12	2003	Motorcycles	USA
+10211	4771.8	1	2004	Motorcycles	France
+10224	6087.94	2	2004	Motorcycles	France
+10237	4193.28	4	2004	Motorcycles	USA
+10251	7552.28	5	2004	Motorcycles	USA
+10263	6434.4	6	2004	Motorcycles	USA
+10276	5181.5	8	2004	Motorcycles	USA
+10285	6863.92	8	2004	Motorcycles	USA
+10299	4157.04	9	2004	Motorcycles	Finland
+10309	4660.24	10	2004	Motorcycles	Norway
+10319	4111.8	11	2004	Motorcycles	USA
+10329	3542.64	11	2004	Motorcycles	USA
+10341	8118.55	11	2004	Motorcycles	Austria
+10362	3877.06	1	2005	Motorcycles	USA
+10375	3867.08	2	2005	Motorcycles	France
+10388	5951.44	3	2005	Motorcycles	USA
+10403	8648.64	4	2005	Motorcycles	UK
+10417	3447.78	5	2005	Motorcycles	Spain
+10104	5958.5	1	2003	Classic Cars	Spain
+10117	5911.64	4	2003	Classic Cars	Singapore
+10127	7366.44	6	2003	Classic Cars	USA
+10142	4985.64	8	2003	Classic Cars	USA
+10153	5393.64	9	2003	Classic Cars	Spain
+10165	4880.02	10	2003	Classic Cars	Singapore
+10176	8378.69	11	2003	Classic Cars	Italy
+10185	4038.21	11	2003	Classic Cars	USA
+10196	3807.12	11	2003	Classic Cars	USA
+10208	3142.36	1	2004	Classic Cars	France
+10220	4713.6	2	2004	Classic Cars	Ireland
+10230	7016.31	3	2004	Classic Cars	Germany
+10247	4381.25	5	2004	Classic Cars	Finland
+10272	4283.01	7	2004	Classic Cars	USA
+10282	4364.82	8	2004	Classic Cars	USA
+10293	4242.24	9	2004	Classic Cars	Italy
+10306	4982.7	10	2004	Classic Cars	UK
+10314	6393.54	10	2004	Classic Cars	Denmark
+10324	1466.91	11	2004	Classic Cars	USA
+10336	4059.33	11	2004	Classic Cars	France
+10348	4801.52	11	2004	Classic Cars	Spain
+10358	2711.66	12	2004	Classic Cars	Spain
+10372	5862	1	2005	Classic Cars	Japan
+10382	4071.85	2	2005	Classic Cars	USA
+10413	8236.75	5	2005	Classic Cars	USA
+10108	6130.35	3	2003	Classic Cars	Philippines
+10122	3693.34	5	2003	Classic Cars	France
+10135	6031.68	7	2003	Classic Cars	USA
+10147	3494.94	9	2003	Classic Cars	USA
+10160	5294.14	10	2003	Classic Cars	USA
+10170	5464.69	11	2003	Classic Cars	Austria
+10181	2860.76	11	2003	Classic Cars	Norway
+10191	5590	11	2003	Classic Cars	Germany
+10203	2254.8	12	2003	Classic Cars	Spain
+10212	4946.76	1	2004	Classic Cars	Spain
+10225	2495.5	2	2004	Classic Cars	Switzerland
+10238	3167.38	4	2004	Classic Cars	Denmark
+10253	2402.84	6	2004	Classic Cars	UK
+10266	2454.54	7	2004	Classic Cars	Italy
+10276	5464.69	8	2004	Classic Cars	USA
+10287	4756.5	8	2004	Classic Cars	Switzerland
+10300	3984.6	10	2003	Classic Cars	Germany
+10310	3100.32	10	2004	Classic Cars	Germany
+10320	4850.3	11	2004	Classic Cars	Sweden
+10329	3846.98	11	2004	Classic Cars	USA
+10341	4220.92	11	2004	Classic Cars	Austria
+10363	3288.82	1	2005	Classic Cars	Finland
+10376	3987.2	2	2005	Classic Cars	USA
+10389	1809.5	3	2005	Classic Cars	Sweden
+10419	1092.2	5	2005	Classic Cars	Austria
+10105	4566.05	2	2003	Classic Cars	Denmark
+10117	5938.14	4	2003	Classic Cars	Singapore
+10127	8138.76	6	2003	Classic Cars	USA
+10142	9470.94	8	2003	Classic Cars	USA
+10153	7036.89	9	2003	Classic Cars	Spain
+10165	5559.03	10	2003	Classic Cars	Singapore
+10176	7872.5	11	2003	Classic Cars	Italy
+10185	7886.2	11	2003	Classic Cars	USA
+10196	7232.16	11	2003	Classic Cars	USA
+10208	3114.4	1	2004	Classic Cars	France
+10220	5045.22	2	2004	Classic Cars	Ireland
+10231	6952.12	3	2004	Classic Cars	Spain
+10247	4157.73	5	2004	Classic Cars	Finland
+10272	7962.24	7	2004	Classic Cars	USA
+10282	3778.8	8	2004	Classic Cars	USA
+10293	8253	9	2004	Classic Cars	Italy
+10306	3633.4	10	2004	Classic Cars	UK
+10314	6913.8	10	2004	Classic Cars	Denmark
+10325	2583.6	11	2004	Classic Cars	Norway
+10336	3105.62	11	2004	Classic Cars	France
+10349	4408.56	12	2004	Classic Cars	USA
+10359	3042.41	12	2004	Classic Cars	France
+10372	5941.5	1	2005	Classic Cars	Japan
+10382	3241.9	2	2005	Classic Cars	USA
+10396	6109.29	3	2005	Classic Cars	USA
+10413	3387.78	5	2005	Classic Cars	USA
+10108	3485.82	3	2003	Classic Cars	Philippines
+10122	2042.88	5	2003	Classic Cars	France
+10135	1800.24	7	2003	Classic Cars	USA
+10147	1340.64	9	2003	Classic Cars	USA
+10159	1762.08	10	2003	Classic Cars	USA
+10169	2298.24	11	2003	Classic Cars	Australia
+10181	1628	11	2003	Classic Cars	Norway
+10191	1939.2	11	2003	Classic Cars	Germany
+10203	3651.56	12	2003	Classic Cars	Spain
+10211	2591.96	1	2004	Classic Cars	France
+10225	2864.17	2	2004	Classic Cars	Switzerland
+10238	1484.2	4	2004	Classic Cars	Denmark
+10253	2254.25	6	2004	Classic Cars	UK
+10266	2681.35	7	2004	Classic Cars	Italy
+10276	3184.02	8	2004	Classic Cars	USA
+10287	2846.63	8	2004	Classic Cars	Switzerland
+10300	1685.42	10	2003	Classic Cars	Germany
+10310	3988.6	10	2004	Classic Cars	Germany
+10320	2789.96	11	2004	Classic Cars	Sweden
+10329	3607.56	11	2004	Classic Cars	USA
+10341	3368.16	11	2004	Classic Cars	Austria
+10363	2775.08	1	2005	Classic Cars	Finland
+10377	1627.92	2	2005	Classic Cars	Finland
+10389	2529.36	3	2005	Classic Cars	Sweden
+10419	3065.78	5	2005	Classic Cars	Austria
+10104	4615.78	1	2003	Trucks and Buses	Spain
+10115	5723.78	4	2003	Trucks and Buses	USA
+10127	2559.6	6	2003	Trucks and Buses	USA
+10141	2140.11	8	2003	Trucks and Buses	Finland
+10151	3327.6	9	2003	Trucks and Buses	Finland
+10165	6825.6	10	2003	Trucks and Buses	Singapore
+10175	3543.28	11	2003	Trucks and Buses	UK
+10184	4516.22	11	2003	Trucks and Buses	Spain
+10195	6445.46	11	2003	Trucks and Buses	USA
+10207	3384.36	12	2003	Trucks and Buses	USA
+10219	4891.68	2	2004	Trucks and Buses	USA
+10229	4521.96	3	2004	Trucks and Buses	USA
+10246	5069.66	5	2004	Trucks and Buses	Spain
+10259	6541.2	6	2004	Trucks and Buses	Singapore
+10271	3012.27	7	2004	Trucks and Buses	USA
+10281	5247.18	8	2004	Trucks and Buses	USA
+10292	2214.87	9	2004	Trucks and Buses	USA
+10305	4773.18	10	2004	Trucks and Buses	USA
+10314	6185.7	10	2004	Trucks and Buses	Denmark
+10324	1517.88	11	2004	Trucks and Buses	USA
+10336	6372.6	11	2004	Trucks and Buses	France
+10349	5232.96	12	2004	Trucks and Buses	USA
+10358	2694.72	12	2004	Trucks and Buses	Spain
+10371	1749.79	1	2005	Trucks and Buses	USA
+10382	2130.56	2	2005	Trucks and Buses	USA
+10412	5951.34	5	2005	Trucks and Buses	Spain
+10425	4692.6	5	2005	Trucks and Buses	France
+10108	3731.04	3	2003	Classic Cars	Philippines
+10122	2142	5	2003	Classic Cars	France
+10135	2838.81	7	2003	Classic Cars	USA
+10147	3230.37	9	2003	Classic Cars	USA
+10160	5182	10	2003	Classic Cars	USA
+10170	4391.1	11	2003	Classic Cars	Austria
+10181	4477.32	11	2003	Classic Cars	Norway
+10192	3544.56	11	2003	Classic Cars	USA
+10203	5195.85	12	2003	Classic Cars	Spain
+10212	4180.44	1	2004	Classic Cars	Spain
+10225	2684.43	2	2004	Classic Cars	Switzerland
+10239	1958.88	4	2004	Classic Cars	Finland
+10253	4910.57	6	2004	Classic Cars	UK
+10266	4468.4	7	2004	Classic Cars	Italy
+10277	3127.88	8	2004	Classic Cars	Singapore
+10287	2675.13	8	2004	Classic Cars	Switzerland
+10300	2807.61	10	2003	Classic Cars	Germany
+10310	2504.75	10	2004	Classic Cars	Germany
+10321	2984.88	11	2004	Classic Cars	USA
+10329	2524.86	11	2004	Classic Cars	USA
+10341	4136	11	2004	Classic Cars	Austria
+10363	4068.7	1	2005	Classic Cars	Finland
+10377	5182	2	2005	Classic Cars	Finland
+10389	5243.79	3	2005	Classic Cars	Sweden
+10405	9048.16	4	2005	Classic Cars	France
+10419	3832.64	5	2005	Classic Cars	Austria
+10103	3920	1	2003	Trucks and Buses	Norway
+10113	4916.66	3	2003	Trucks and Buses	USA
+10126	3857	5	2003	Trucks and Buses	Spain
+10140	4181.44	7	2003	Trucks and Buses	USA
+10150	4641	9	2003	Trucks and Buses	Singapore
+10164	3570.12	10	2003	Trucks and Buses	Austria
+10174	4480.32	11	2003	Trucks and Buses	Australia
+10183	2033.64	11	2003	Trucks and Buses	USA
+10194	1960.14	11	2003	Trucks and Buses	France
+10206	3966.78	12	2003	Trucks and Buses	Canada
+10215	5152	1	2004	Trucks and Buses	USA
+10228	3360	3	2004	Trucks and Buses	USA
+10245	3451	5	2004	Trucks and Buses	USA
+10258	5453	6	2004	Trucks and Buses	Japan
+10270	4164.12	7	2004	Trucks and Buses	Australia
+10280	2800.08	8	2004	Trucks and Buses	Italy
+10291	4687.94	9	2004	Trucks and Buses	Sweden
+10304	4508	10	2004	Trucks and Buses	France
+10312	4181.44	10	2004	Trucks and Buses	USA
+10322	2251.04	11	2004	Trucks and Buses	USA
+10333	1167.25	11	2004	Trucks and Buses	USA
+10347	2083.2	11	2004	Trucks and Buses	Australia
+10357	3822	12	2004	Trucks and Buses	USA
+10370	3911.49	1	2005	Trucks and Buses	Australia
+10381	4704	2	2005	Trucks and Buses	USA
+10391	2467.9	3	2005	Trucks and Buses	Australia
+10411	3213	5	2005	Trucks and Buses	Canada
+10424	7182	5	2005	Trucks and Buses	Spain
+10109	4379.18	3	2003	Classic Cars	USA
+10122	5004.8	5	2003	Classic Cars	France
+10136	3644.75	7	2003	Classic Cars	France
+10148	2702.04	9	2003	Classic Cars	Australia
+10161	3764.88	10	2003	Classic Cars	Denmark
+10171	4508	11	2003	Classic Cars	Canada
+10181	5418.16	11	2003	Classic Cars	Norway
+10192	3300.66	11	2003	Classic Cars	USA
+10204	6182.4	12	2003	Classic Cars	USA
+10212	4186.73	1	2004	Classic Cars	Spain
+10225	4529.28	2	2004	Classic Cars	Switzerland
+10240	5628.89	4	2004	Classic Cars	Japan
+10253	3054.48	6	2004	Classic Cars	UK
+10266	2526.51	7	2004	Classic Cars	Italy
+10278	4667.86	8	2004	Classic Cars	USA
+10287	6499.32	8	2004	Classic Cars	Switzerland
+10301	5917.78	10	2003	Classic Cars	Norway
+10310	6231.91	10	2004	Classic Cars	Germany
+10321	5803.14	11	2004	Classic Cars	USA
+10331	6434.02	11	2004	Classic Cars	USA
+10342	6454.4	11	2004	Classic Cars	Australia
+10356	4196.8	12	2004	Classic Cars	France
+10365	2611.8	1	2005	Classic Cars	USA
+10377	5895.05	2	2005	Classic Cars	Finland
+10390	3375.72	3	2005	Classic Cars	USA
+10406	8374.69	4	2005	Classic Cars	Denmark
+10419	4464.24	5	2005	Classic Cars	Austria
+10102	4808.31	1	2003	Vintage Cars	USA
+10111	3288.78	3	2003	Vintage Cars	USA
+10125	3254.72	5	2003	Vintage Cars	Australia
+10139	3184.94	7	2003	Vintage Cars	Australia
+10149	5907.5	9	2003	Vintage Cars	USA
+10162	4389.12	10	2003	Vintage Cars	USA
+10173	5036.16	11	2003	Vintage Cars	Italy
+10182	2183.25	11	2003	Vintage Cars	USA
+10193	3106.88	11	2003	Vintage Cars	Australia
+10205	3735.72	12	2003	Vintage Cars	Spain
+10215	2413.26	1	2004	Vintage Cars	USA
+10227	2953.75	3	2004	Vintage Cars	France
+10244	4684.8	4	2004	Vintage Cars	Spain
+10256	3248.7	6	2004	Vintage Cars	Denmark
+10280	5239.5	8	2004	Vintage Cars	Italy
+10289	4567.98	9	2004	Vintage Cars	Norway
+10304	3535.35	10	2004	Vintage Cars	France
+10312	3843.34	10	2004	Vintage Cars	USA
+10322	3710.9	11	2004	Vintage Cars	USA
+10332	4375.98	11	2004	Vintage Cars	UK
+10346	1516.62	11	2004	Vintage Cars	USA
+10356	2509	12	2004	Vintage Cars	France
+10369	9240.44	1	2005	Vintage Cars	USA
+10380	2515.32	2	2005	Vintage Cars	Spain
+10391	5548.9	3	2005	Vintage Cars	Australia
+10422	4873.05	5	2005	Vintage Cars	USA
+10102	2055.74	1	2003	Vintage Cars	USA
+10111	2354.88	3	2003	Vintage Cars	USA
+10126	2309.58	5	2003	Vintage Cars	Spain
+10139	2113.37	7	2003	Vintage Cars	Australia
+10149	1746.6	9	2003	Vintage Cars	USA
+10162	2304.45	10	2003	Vintage Cars	USA
+10173	2122.08	11	2003	Vintage Cars	Italy
+10182	1742.4	11	2003	Vintage Cars	USA
+10193	2455.02	11	2003	Vintage Cars	Australia
+10205	3053.28	12	2003	Vintage Cars	Spain
+10215	1423.29	1	2004	Vintage Cars	USA
+10227	1504.12	3	2004	Vintage Cars	France
+10244	1164.4	4	2004	Vintage Cars	Spain
+10256	1500.75	6	2004	Vintage Cars	Denmark
+10280	1557.36	8	2004	Vintage Cars	Italy
+10289	1345.68	9	2004	Vintage Cars	Norway
+10304	1795.24	10	2004	Vintage Cars	France
+10312	1105.25	10	2004	Vintage Cars	USA
+10322	2364.88	11	2004	Vintage Cars	USA
+10332	2427.03	11	2004	Vintage Cars	UK
+10347	1237.95	11	2004	Vintage Cars	Australia
+10356	1593.02	12	2004	Vintage Cars	France
+10369	3156.16	1	2005	Vintage Cars	USA
+10381	1320.75	2	2005	Vintage Cars	USA
+10391	4998	3	2005	Vintage Cars	Australia
+10422	1293.75	5	2005	Vintage Cars	USA
+10110	5433.08	3	2003	Classic Cars	UK
+10123	3073.72	5	2003	Classic Cars	France
+10137	4380.2	7	2003	Classic Cars	France
+10148	5848.68	9	2003	Classic Cars	Australia
+10161	6153.73	10	2003	Classic Cars	Denmark
+10172	4965.24	11	2003	Classic Cars	USA
+10181	5435.64	11	2003	Classic Cars	Norway
+10192	4258.36	11	2003	Classic Cars	USA
+10204	4032	12	2003	Classic Cars	USA
+10212	4492.36	1	2004	Classic Cars	Spain
+10226	4161.38	2	2004	Classic Cars	USA
+10241	2508.66	4	2004	Classic Cars	France
+10253	3374.88	6	2004	Classic Cars	UK
+10266	5196.6	7	2004	Classic Cars	Italy
+10278	2604.52	8	2004	Classic Cars	USA
+10288	2936.8	9	2004	Classic Cars	Singapore
+10301	3424.64	10	2003	Classic Cars	Norway
+10311	2923.2	10	2004	Classic Cars	Spain
+10321	4489.76	11	2004	Classic Cars	USA
+10331	4849.24	11	2004	Classic Cars	USA
+10343	5848.92	11	2004	Classic Cars	France
+10367	2758.7	1	2005	Classic Cars	USA
+10378	1449.76	2	2005	Classic Cars	Spain
+10407	7048.14	4	2005	Classic Cars	USA
+10419	5202.94	5	2005	Classic Cars	Austria
+10106	5279.4	2	2003	Planes	Italy
+10119	6916.12	4	2003	Planes	Austria
+10131	2781.66	6	2003	Planes	USA
+10143	5248	8	2003	Planes	USA
+10155	6531.44	10	2003	Planes	Finland
+10167	5763.72	10	2003	Planes	Sweden
+10178	6490.68	11	2003	Planes	France
+10186	6004.8	11	2003	Planes	UK
+10198	7483.98	11	2003	Planes	Philippines
+10210	5719.5	1	2004	Planes	Japan
+10222	6954.08	2	2004	Planes	USA
+10250	8160.3	5	2004	Planes	USA
+10262	6567.96	6	2004	Planes	Spain
+10274	6724	7	2004	Planes	USA
+10284	5747.85	8	2004	Planes	Norway
+10296	5676.84	9	2004	Planes	Germany
+10307	7379.97	10	2004	Planes	USA
+10316	3704.13	11	2004	Planes	UK
+10327	2804.75	11	2004	Planes	Denmark
+10338	5624.79	11	2004	Planes	Belgium
+10351	3881.28	12	2004	Planes	UK
+10373	1611.4	1	2005	Planes	Finland
+10386	1364.25	3	2005	Planes	Spain
+10398	4215.09	3	2005	Planes	France
+10400	6433.82	4	2005	Planes	USA
+10416	4352.16	5	2005	Planes	Italy
+10100	5151	1	2003	Vintage Cars	USA
+10110	6069	3	2003	Vintage Cars	UK
+10124	2856	5	2003	Vintage Cars	USA
+10149	5375.4	9	2003	Vintage Cars	USA
+10162	5176.5	10	2003	Vintage Cars	USA
+10173	3508.8	11	2003	Vintage Cars	Italy
+10182	7554.8	11	2003	Vintage Cars	USA
+10193	3141.6	11	2003	Vintage Cars	Australia
+10204	5890.5	12	2003	Vintage Cars	USA
+10214	5967	1	2004	Vintage Cars	Spain
+10227	3712.8	3	2004	Vintage Cars	France
+10241	7597.3	4	2004	Vintage Cars	France
+10280	3668.6	8	2004	Vintage Cars	Italy
+10288	5875.2	9	2004	Vintage Cars	Singapore
+10302	7310	10	2003	Vintage Cars	UK
+10312	8078.4	10	2004	Vintage Cars	USA
+10331	3257.76	11	2004	Vintage Cars	USA
+10344	7650	11	2004	Vintage Cars	France
+10367	4703.81	1	2005	Vintage Cars	USA
+10379	5399.55	2	2005	Vintage Cars	Spain
+10407	14082.8	4	2005	Vintage Cars	USA
+10420	5283.6	5	2005	Vintage Cars	Australia
+10108	3130.82	3	2003	Classic Cars	Philippines
+10122	3112.34	5	2003	Classic Cars	France
+10135	3806.88	7	2003	Classic Cars	USA
+10147	2142.14	9	2003	Classic Cars	USA
+10160	3364.9	10	2003	Classic Cars	USA
+10170	1262.8	11	2003	Classic Cars	Austria
+10181	1626.24	11	2003	Classic Cars	Norway
+10192	4088.7	11	2003	Classic Cars	USA
+10203	3846.15	12	2003	Classic Cars	Spain
+10212	1339.8	1	2004	Classic Cars	Spain
+10225	3039.96	2	2004	Classic Cars	Switzerland
+10239	3400.32	4	2004	Classic Cars	Finland
+10253	1930.39	6	2004	Classic Cars	UK
+10266	2464.77	7	2004	Classic Cars	Italy
+10278	2634.94	8	2004	Classic Cars	USA
+10287	3625.16	8	2004	Classic Cars	Switzerland
+10300	3788.4	10	2003	Classic Cars	Germany
+10310	1832.6	10	2004	Classic Cars	Germany
+10321	2905.98	11	2004	Classic Cars	USA
+10329	2954.81	11	2004	Classic Cars	USA
+10342	3599.75	11	2004	Classic Cars	Australia
+10363	3686.54	1	2005	Classic Cars	Finland
+10377	2100.56	2	2005	Classic Cars	Finland
+10389	3881.78	3	2005	Classic Cars	Sweden
+10405	4509.12	4	2005	Classic Cars	France
+10419	3273.27	5	2005	Classic Cars	Austria
+10109	4432.7	3	2003	Classic Cars	USA
+10122	4100.99	5	2003	Classic Cars	France
+10136	5274.72	7	2003	Classic Cars	France
+10148	4232	9	2003	Classic Cars	Australia
+10161	6145.44	10	2003	Classic Cars	Denmark
+10171	4680.2	11	2003	Classic Cars	Canada
+10181	3286.08	11	2003	Classic Cars	Norway
+10192	7421.3	11	2003	Classic Cars	USA
+10204	6432.64	12	2003	Classic Cars	USA
+10212	4840.87	1	2004	Classic Cars	Spain
+10226	3892.08	2	2004	Classic Cars	USA
+10240	5526.32	4	2004	Classic Cars	Japan
+10253	4459.62	6	2004	Classic Cars	UK
+10266	6203.4	7	2004	Classic Cars	Italy
+10278	3754.05	8	2004	Classic Cars	USA
+10287	3516.48	8	2004	Classic Cars	Switzerland
+10301	7488.04	10	2003	Classic Cars	Norway
+10310	3448.08	10	2004	Classic Cars	Germany
+10321	3734	11	2004	Classic Cars	USA
+10331	974.1	11	2004	Classic Cars	USA
+10342	3160.74	11	2004	Classic Cars	Australia
+10356	1746.63	12	2004	Classic Cars	France
+10366	4207.84	1	2005	Classic Cars	Belgium
+10377	4352.76	2	2005	Classic Cars	Finland
+10390	1463.7	3	2005	Classic Cars	USA
+10406	7169.28	4	2005	Classic Cars	Denmark
+10419	4594.76	5	2005	Classic Cars	Austria
+10104	3457.92	1	2003	Classic Cars	Spain
+10115	7381.16	4	2003	Classic Cars	USA
+10127	7146.9	6	2003	Classic Cars	USA
+10141	5938.53	8	2003	Classic Cars	Finland
+10151	7110.91	9	2003	Classic Cars	Finland
+10165	5032.95	10	2003	Classic Cars	Singapore
+10176	3667.6	11	2003	Classic Cars	Italy
+10184	7381.16	11	2003	Classic Cars	Spain
+10195	5128.11	11	2003	Classic Cars	USA
+10207	7060.24	12	2003	Classic Cars	USA
+10219	8448.64	2	2004	Classic Cars	USA
+10230	7300.51	3	2004	Classic Cars	Germany
+10246	6549.2	5	2004	Classic Cars	Spain
+10259	5697.9	6	2004	Classic Cars	Singapore
+10271	9169	7	2004	Classic Cars	USA
+10282	3238.63	8	2004	Classic Cars	USA
+10292	4554.94	9	2004	Classic Cars	USA
+10305	3934.44	10	2004	Classic Cars	USA
+10314	5776.26	10	2004	Classic Cars	Denmark
+10324	7207.45	11	2004	Classic Cars	USA
+10336	7460.74	11	2004	Classic Cars	France
+10349	6719.54	12	2004	Classic Cars	USA
+10358	2428	12	2004	Classic Cars	Spain
+10371	2602.25	1	2005	Classic Cars	USA
+10382	2200	2	2005	Classic Cars	USA
+10412	6712.93	5	2005	Classic Cars	Spain
+10425	5318.04	5	2005	Classic Cars	France
+10100	3390	1	2003	Vintage Cars	USA
+10110	1608	3	2003	Vintage Cars	UK
+10124	2262.96	5	2003	Vintage Cars	USA
+10149	1496.64	9	2003	Vintage Cars	USA
+10162	1879.74	10	2003	Vintage Cars	USA
+10173	1495.26	11	2003	Vintage Cars	Italy
+10182	2323.7	11	2003	Vintage Cars	USA
+10193	2491.86	11	2003	Vintage Cars	Australia
+10204	1643.12	12	2003	Vintage Cars	USA
+10214	1322.16	1	2004	Vintage Cars	Spain
+10227	1423.8	3	2004	Vintage Cars	France
+10241	2397.45	4	2004	Vintage Cars	France
+10280	1574	8	2004	Vintage Cars	Italy
+10288	1729	9	2004	Vintage Cars	Singapore
+10303	2255.84	10	2004	Vintage Cars	Spain
+10312	1834.5	10	2004	Vintage Cars	USA
+10332	3201.5	11	2004	Vintage Cars	UK
+10344	2276.4	11	2004	Vintage Cars	France
+10367	8884.8	1	2005	Vintage Cars	USA
+10379	1331.1	2	2005	Vintage Cars	Spain
+10407	3051.3	4	2005	Vintage Cars	USA
+10420	2288.52	5	2005	Vintage Cars	Australia
+10104	3772.61	1	2003	Trucks and Buses	Spain
+10114	4164.42	4	2003	Trucks and Buses	France
+10127	6295.95	6	2003	Trucks and Buses	USA
+10141	6287.66	8	2003	Trucks and Buses	Finland
+10151	5412.54	9	2003	Trucks and Buses	Finland
+10165	5984.14	10	2003	Trucks and Buses	Singapore
+10175	5891.04	11	2003	Trucks and Buses	UK
+10184	5984.14	11	2003	Trucks and Buses	Spain
+10195	3608.15	11	2003	Trucks and Buses	USA
+10207	5752.54	12	2003	Trucks and Buses	USA
+10229	3765.32	3	2004	Trucks and Buses	USA
+10246	2159.96	5	2004	Trucks and Buses	Spain
+10259	3379.94	6	2004	Trucks and Buses	Singapore
+10271	5093.5	7	2004	Trucks and Buses	USA
+10281	5773.44	8	2004	Trucks and Buses	USA
+10292	4528.86	9	2004	Trucks and Buses	USA
+10305	4816.08	10	2004	Trucks and Buses	USA
+10313	3416.78	10	2004	Trucks and Buses	Canada
+10324	1236.84	11	2004	Trucks and Buses	USA
+10334	5814.86	11	2004	Trucks and Buses	Sweden
+10349	5223.48	12	2004	Trucks and Buses	USA
+10358	728.4	12	2004	Trucks and Buses	Spain
+10370	3949	1	2005	Trucks and Buses	Australia
+10383	3843.99	2	2005	Trucks and Buses	Spain
+10412	5498.08	5	2005	Trucks and Buses	Spain
+10425	3777.58	5	2005	Trucks and Buses	France
+10101	3782	1	2003	Vintage Cars	Germany
+10110	3859.68	3	2003	Vintage Cars	UK
+10124	4431.84	5	2003	Vintage Cars	USA
+10149	4950.33	9	2003	Vintage Cars	USA
+10162	4299.7	10	2003	Vintage Cars	USA
+10173	4492.83	11	2003	Vintage Cars	Italy
+10182	2212	11	2003	Vintage Cars	USA
+10193	4642.88	11	2003	Vintage Cars	Australia
+10204	3206.32	12	2003	Vintage Cars	USA
+10214	3604.23	1	2004	Vintage Cars	Spain
+10227	7017.76	3	2004	Vintage Cars	France
+10243	6154.18	4	2004	Vintage Cars	USA
+10280	4750.8	8	2004	Vintage Cars	Italy
+10288	3822.92	9	2004	Vintage Cars	Singapore
+10304	2440.8	10	2004	Vintage Cars	France
+10312	4729.36	10	2004	Vintage Cars	USA
+10322	12536.5	11	2004	Vintage Cars	USA
+10332	2264.15	11	2004	Vintage Cars	UK
+10344	3928.2	11	2004	Vintage Cars	France
+10356	3630.22	12	2004	Vintage Cars	France
+10367	4196.07	1	2005	Vintage Cars	USA
+10380	4931.6	2	2005	Vintage Cars	Spain
+10390	3068.69	3	2005	Vintage Cars	USA
+10409	785.64	4	2005	Vintage Cars	Singapore
+10420	4977	5	2005	Vintage Cars	Australia
+10103	1189.98	1	2003	Trucks and Buses	Norway
+10114	3090.15	4	2003	Trucks and Buses	France
+10126	2795.86	5	2003	Trucks and Buses	Spain
+10140	2851.54	7	2003	Trucks and Buses	USA
+10151	2701.92	9	2003	Trucks and Buses	Finland
+10165	2204.1	10	2003	Trucks and Buses	Singapore
+10175	2840.48	11	2003	Trucks and Buses	UK
+10184	2647.04	11	2003	Trucks and Buses	Spain
+10194	3172.05	11	2003	Trucks and Buses	France
+10207	2585.93	12	2003	Trucks and Buses	USA
+10217	2148.3	2	2004	Trucks and Buses	Singapore
+10229	1667.4	3	2004	Trucks and Buses	USA
+10246	1859.7	5	2004	Trucks and Buses	Spain
+10259	1476.6	6	2004	Trucks and Buses	Singapore
+10271	1732	7	2004	Trucks and Buses	USA
+10281	1674.17	8	2004	Trucks and Buses	USA
+10291	1500.98	9	2004	Trucks and Buses	Sweden
+10305	2192.68	10	2004	Trucks and Buses	USA
+10313	1797.58	10	2004	Trucks and Buses	Canada
+10322	2142.35	11	2004	Trucks and Buses	USA
+10334	2086.92	11	2004	Trucks and Buses	Sweden
+10347	6834.5	11	2004	Trucks and Buses	Australia
+10357	2541.59	12	2004	Trucks and Buses	USA
+10370	2130.92	1	2005	Trucks and Buses	Australia
+10381	1701.7	2	2005	Trucks and Buses	USA
+10391	1694	3	2005	Trucks and Buses	Australia
+10412	2913.53	5	2005	Trucks and Buses	Spain
+10425	935.18	5	2005	Trucks and Buses	France
+10106	3073.26	2	2003	Planes	Italy
+10120	2082.49	4	2003	Planes	Australia
+10133	3394.23	6	2003	Planes	Spain
+10145	2559.6	8	2003	Planes	USA
+10168	1490.16	10	2003	Planes	USA
+10210	3844	1	2004	Planes	Japan
+10223	4724.91	2	2004	Planes	Australia
+10235	1824.72	4	2004	Planes	Canada
+10250	2668.68	5	2004	Planes	USA
+10263	2843.61	6	2004	Planes	USA
+10275	3163.65	7	2004	Planes	France
+10284	2226.11	8	2004	Planes	Norway
+10297	2069.75	9	2004	Planes	Ireland
+10308	2235.33	10	2004	Planes	USA
+10318	3116.43	11	2004	Planes	USA
+10327	4781.7	11	2004	Planes	Denmark
+10339	2810.7	11	2004	Planes	Japan
+10353	3515.67	12	2004	Planes	USA
+10374	2909.34	2	2005	Planes	Australia
+10386	1570.17	3	2005	Planes	Spain
+10398	2613.92	3	2005	Planes	France
+10401	3193.26	4	2005	Planes	USA
+10416	1482.6	5	2005	Planes	Italy
+10107	2055.23	2	2003	Motorcycles	USA
+10120	2674.9	4	2003	Motorcycles	Australia
+10134	1853.4	7	2003	Motorcycles	France
+10145	1490.1	8	2003	Motorcycles	USA
+10159	2162.16	10	2003	Motorcycles	USA
+10168	2814.28	10	2003	Motorcycles	USA
+10180	1605	11	2003	Motorcycles	France
+10188	2093.44	11	2003	Motorcycles	Norway
+10201	1944.3	12	2003	Motorcycles	USA
+10210	1986.8	1	2004	Motorcycles	Japan
+10223	1695.96	2	2004	Motorcycles	Australia
+10236	1281.56	4	2004	Motorcycles	USA
+10251	1774.22	5	2004	Motorcycles	USA
+10263	1997.5	6	2004	Motorcycles	USA
+10275	2353.2	7	2004	Motorcycles	France
+10285	981.2	8	2004	Motorcycles	USA
+10298	1550.72	9	2004	Motorcycles	France
+10308	1771.06	10	2004	Motorcycles	USA
+10318	2213.4	11	2004	Motorcycles	USA
+10329	5266.04	11	2004	Motorcycles	USA
+10339	1864.8	11	2004	Motorcycles	Japan
+10362	1142.41	1	2005	Motorcycles	USA
+10374	1172.6	2	2005	Motorcycles	Australia
+10389	6981	3	2005	Motorcycles	Sweden
+10402	3064.6	4	2005	Motorcycles	France
+10417	2202.48	5	2005	Motorcycles	Spain
+10101	3773.38	1	2003	Vintage Cars	Germany
+10110	5074.39	3	2003	Vintage Cars	UK
+10125	6483.46	5	2003	Vintage Cars	Australia
+10139	7956.46	7	2003	Vintage Cars	Australia
+10149	4230.62	9	2003	Vintage Cars	USA
+10162	7209.12	10	2003	Vintage Cars	USA
+10173	3452.68	11	2003	Vintage Cars	Italy
+10182	3047.73	11	2003	Vintage Cars	USA
+10193	3675.32	11	2003	Vintage Cars	Australia
+10205	7492.4	12	2003	Vintage Cars	Spain
+10214	9534.5	1	2004	Vintage Cars	Spain
+10227	5579.02	3	2004	Vintage Cars	France
+10244	5950.34	4	2004	Vintage Cars	Spain
+10255	3726	6	2004	Vintage Cars	France
+10280	4455	8	2004	Vintage Cars	Italy
+10289	8272.34	9	2004	Vintage Cars	Norway
+10304	3577.6	10	2004	Vintage Cars	France
+10312	3881.25	10	2004	Vintage Cars	USA
+10322	5797.44	11	2004	Vintage Cars	USA
+10332	1264.08	11	2004	Vintage Cars	UK
+10347	4815.3	11	2004	Vintage Cars	Australia
+10356	4462.2	12	2004	Vintage Cars	France
+10367	3033.28	1	2005	Vintage Cars	USA
+10380	990.78	2	2005	Vintage Cars	Spain
+10390	2030.86	3	2005	Vintage Cars	USA
+10421	5433.75	5	2005	Vintage Cars	USA
+10109	3157.44	3	2003	Classic Cars	USA
+10123	5161.2	5	2003	Classic Cars	France
+10137	4346.76	7	2003	Classic Cars	France
+10148	3528.36	9	2003	Classic Cars	Australia
+10161	3187.8	10	2003	Classic Cars	Denmark
+10172	6023.16	11	2003	Classic Cars	USA
+10181	3884.76	11	2003	Classic Cars	Norway
+10192	4965.84	11	2003	Classic Cars	USA
+10204	4169.88	12	2003	Classic Cars	USA
+10212	4910.4	1	2004	Classic Cars	Spain
+10226	3231.36	2	2004	Classic Cars	USA
+10241	6853.44	4	2004	Classic Cars	France
+10253	5177.04	6	2004	Classic Cars	UK
+10266	2824.8	7	2004	Classic Cars	Italy
+10278	4324.32	8	2004	Classic Cars	USA
+10287	5052.96	8	2004	Classic Cars	Switzerland
+10301	3223.44	10	2003	Classic Cars	Norway
+10311	5278.68	10	2004	Classic Cars	Spain
+10321	2851.2	11	2004	Classic Cars	USA
+10331	1687.4	11	2004	Classic Cars	USA
+10343	1308	11	2004	Classic Cars	France
+10366	6144.6	1	2005	Classic Cars	Belgium
+10379	5127.2	2	2005	Classic Cars	Spain
+10407	6386.16	4	2005	Classic Cars	USA
+10419	7695.6	5	2005	Classic Cars	Austria
+10103	2242.89	1	2003	Vintage Cars	Norway
+10112	2539.89	3	2003	Vintage Cars	Sweden
+10126	2795.27	5	2003	Vintage Cars	Spain
+10139	5545.76	7	2003	Vintage Cars	Australia
+10150	4285.46	9	2003	Vintage Cars	Singapore
+10163	3329.09	10	2003	Vintage Cars	USA
+10174	5592.22	11	2003	Vintage Cars	Australia
+10183	3298.55	11	2003	Vintage Cars	USA
+10193	2609.88	11	2003	Vintage Cars	Australia
+10206	3336.29	12	2003	Vintage Cars	Canada
+10215	5510.05	1	2004	Vintage Cars	USA
+10228	2504.4	3	2004	Vintage Cars	USA
+10244	3525.6	4	2004	Vintage Cars	Spain
+10257	4407	6	2004	Vintage Cars	USA
+10270	2983.44	7	2004	Vintage Cars	Australia
+10280	5126.24	8	2004	Vintage Cars	Italy
+10291	5713.79	9	2004	Vintage Cars	Sweden
+10304	4613.8	10	2004	Vintage Cars	France
+10312	3711.1	10	2004	Vintage Cars	USA
+10322	3524.73	11	2004	Vintage Cars	USA
+10333	2795.27	11	2004	Vintage Cars	USA
+10347	4814.4	11	2004	Vintage Cars	Australia
+10357	3572.33	12	2004	Vintage Cars	USA
+10369	4581.36	1	2005	Vintage Cars	USA
+10381	4319.76	2	2005	Vintage Cars	USA
+10391	1448	3	2005	Vintage Cars	Australia
+10423	881.4	5	2005	Vintage Cars	Belgium
+10103	2011.1	1	2003	Vintage Cars	Norway
+10111	1801.24	3	2003	Vintage Cars	USA
+10126	3390.2	5	2003	Vintage Cars	Spain
+10139	1424	7	2003	Vintage Cars	Australia
+10150	1499.1	9	2003	Vintage Cars	Singapore
+10163	3358.08	10	2003	Vintage Cars	USA
+10173	1504.16	11	2003	Vintage Cars	Italy
+10183	2655.12	11	2003	Vintage Cars	USA
+10193	1244.16	11	2003	Vintage Cars	Australia
+10206	1888.88	12	2003	Vintage Cars	Canada
+10215	1820.01	1	2004	Vintage Cars	USA
+10228	2866.95	3	2004	Vintage Cars	USA
+10244	1394.16	4	2004	Vintage Cars	Spain
+10257	2632.28	6	2004	Vintage Cars	USA
+10269	2018.56	7	2004	Vintage Cars	Austria
+10280	2954.53	8	2004	Vintage Cars	Italy
+10291	1871.83	9	2004	Vintage Cars	Sweden
+10304	1559.04	10	2004	Vintage Cars	France
+10312	1880.2	10	2004	Vintage Cars	USA
+10322	1224.67	11	2004	Vintage Cars	USA
+10332	2979.08	11	2004	Vintage Cars	UK
+10347	2208.64	11	2004	Vintage Cars	Australia
+10357	3458.42	12	2004	Vintage Cars	USA
+10369	1237.88	1	2005	Vintage Cars	USA
+10381	2723.2	2	2005	Vintage Cars	USA
+10392	2218.52	3	2005	Vintage Cars	Austria
+10423	1665.32	5	2005	Vintage Cars	Belgium
+10106	3421.04	2	2003	Ships	Italy
+10119	1878.66	4	2003	Ships	Austria
+10130	3853.6	6	2003	Ships	USA
+10143	3442.64	8	2003	Ships	USA
+10155	3482.16	10	2003	Ships	Finland
+10167	3363.52	10	2003	Ships	Sweden
+10178	3350.52	11	2003	Ships	France
+10186	2862.72	11	2003	Ships	UK
+10197	4036.04	11	2003	Ships	Spain
+10209	2817.92	1	2004	Ships	USA
+10222	4636.38	2	2004	Ships	USA
+10248	1553.58	5	2004	Ships	USA
+10262	2697.6	6	2004	Ships	Spain
+10273	3334.04	7	2004	Ships	Belgium
+10283	2059.26	8	2004	Ships	Canada
+10296	2023.14	9	2004	Ships	Germany
+10307	2586.64	10	2004	Ships	USA
+10316	1987.02	11	2004	Ships	UK
+10327	1146.5	11	2004	Ships	Denmark
+10338	2312.24	11	2004	Ships	Belgium
+10350	2793.71	12	2004	Ships	Spain
+10373	1908.28	1	2005	Ships	Finland
+10386	3441.37	3	2005	Ships	Spain
+10398	2023.28	3	2005	Ships	France
+10400	2245.2	4	2005	Ships	USA
+10414	3255.12	5	2005	Ships	USA
+10103	2539.5	1	2003	Vintage Cars	Norway
+10111	4818.15	3	2003	Vintage Cars	USA
+10126	2921.7	5	2003	Vintage Cars	Spain
+10139	1801.2	7	2003	Vintage Cars	Australia
+10150	2804.36	9	2003	Vintage Cars	Singapore
+10163	4900.8	10	2003	Vintage Cars	USA
+10173	2759.31	11	2003	Vintage Cars	Italy
+10183	2488.2	11	2003	Vintage Cars	USA
+10193	2769.89	11	2003	Vintage Cars	Australia
+10206	3581.4	12	2003	Vintage Cars	Canada
+10215	5285.14	1	2004	Vintage Cars	USA
+10228	3181.53	3	2004	Vintage Cars	USA
+10244	3340.51	4	2004	Vintage Cars	Spain
+10257	3138.34	6	2004	Vintage Cars	USA
+10270	4775.08	7	2004	Vintage Cars	Australia
+10280	3006.43	8	2004	Vintage Cars	Italy
+10291	2866.26	9	2004	Vintage Cars	Sweden
+10304	2232.62	10	2004	Vintage Cars	France
+10312	4457.02	10	2004	Vintage Cars	USA
+10322	2257.92	11	2004	Vintage Cars	USA
+10332	1592	11	2004	Vintage Cars	UK
+10347	4948.2	11	2004	Vintage Cars	Australia
+10357	5160.76	12	2004	Vintage Cars	USA
+10369	1978.62	1	2005	Vintage Cars	USA
+10381	4288.2	2	2005	Vintage Cars	USA
+10392	2520.68	3	2005	Vintage Cars	Austria
+10423	1781.22	5	2005	Vintage Cars	Belgium
+10105	3065.04	2	2003	Vintage Cars	Denmark
+10117	3551.34	4	2003	Vintage Cars	Singapore
+10128	5544.02	6	2003	Vintage Cars	Spain
+10142	6034.33	8	2003	Vintage Cars	USA
+10153	3641.57	9	2003	Vintage Cars	Spain
+10166	6930.74	10	2003	Vintage Cars	USA
+10177	3675.63	11	2003	Vintage Cars	Spain
+10185	3442.04	11	2003	Vintage Cars	USA
+10196	6893.81	11	2003	Vintage Cars	USA
+10208	2622.48	1	2004	Vintage Cars	France
+10221	4417.38	2	2004	Vintage Cars	Belgium
+10232	3606.02	3	2004	Vintage Cars	UK
+10248	3802.56	5	2004	Vintage Cars	USA
+10273	5026.4	7	2004	Vintage Cars	Belgium
+10282	6695.53	8	2004	Vintage Cars	USA
+10293	2819.28	9	2004	Vintage Cars	Italy
+10306	3759.04	10	2004	Vintage Cars	UK
+10314	2731.8	10	2004	Vintage Cars	Denmark
+10325	1658.88	11	2004	Vintage Cars	Norway
+10336	5778.24	11	2004	Vintage Cars	France
+10350	5191.12	12	2004	Vintage Cars	Spain
+10372	3862.88	1	2005	Vintage Cars	Japan
+10383	1476.48	2	2005	Vintage Cars	Spain
+10396	5273.73	3	2005	Vintage Cars	USA
+10414	4872.03	5	2005	Vintage Cars	USA
+10104	4556.99	1	2003	Classic Cars	Spain
+10109	8257	3	2003	Classic Cars	USA
+10114	8209.44	4	2003	Classic Cars	France
+10122	3598.5	5	2003	Classic Cars	France
+10127	3837.24	6	2003	Classic Cars	USA
+10136	8331.61	7	2003	Classic Cars	France
+10141	4836.5	8	2003	Classic Cars	Finland
+10148	5418.88	9	2003	Classic Cars	Australia
+10151	3734.01	9	2003	Classic Cars	Finland
+10160	3996.4	10	2003	Classic Cars	USA
+10165	8754.69	10	2003	Classic Cars	Singapore
+10171	5481.45	11	2003	Classic Cars	Canada
+10175	4419.89	11	2003	Classic Cars	UK
+10181	6324.75	11	2003	Classic Cars	Norway
+10184	4409.72	11	2003	Classic Cars	Spain
+10192	3918.46	11	2003	Classic Cars	USA
+10195	7620.5	11	2003	Classic Cars	USA
+10203	8291.04	12	2003	Classic Cars	Spain
+10207	3937.25	12	2003	Classic Cars	USA
+10212	5554.4	1	2004	Classic Cars	Spain
+10225	6407.86	2	2004	Classic Cars	Switzerland
+10229	4172.52	3	2004	Classic Cars	USA
+10239	7083.37	4	2004	Classic Cars	Finland
+10246	7132.68	5	2004	Classic Cars	Spain
+10253	6773.6	6	2004	Classic Cars	UK
+10259	3657.69	6	2004	Classic Cars	Singapore
+10266	4812.55	7	2004	Classic Cars	Italy
+10271	3928.6	7	2004	Classic Cars	USA
+10278	6401.22	8	2004	Classic Cars	USA
+10281	4191.25	8	2004	Classic Cars	USA
+10287	5852.52	8	2004	Classic Cars	Switzerland
+10292	2844.87	9	2004	Classic Cars	USA
+10301	4011.66	10	2003	Classic Cars	Norway
+10305	7455.87	10	2004	Classic Cars	USA
+10310	8940.96	10	2004	Classic Cars	Germany
+10313	4572.25	10	2004	Classic Cars	Canada
+10321	5700.09	11	2004	Classic Cars	USA
+10324	3155.49	11	2004	Classic Cars	USA
+10331	4170.69	11	2004	Classic Cars	USA
+10334	2878.8	11	2004	Classic Cars	Sweden
+10342	5029.5	11	2004	Classic Cars	Australia
+10349	7396.8	12	2004	Classic Cars	USA
+10358	2991.68	12	2004	Classic Cars	Spain
+10366	6275.72	1	2005	Classic Cars	Belgium
+10370	1534.95	1	2005	Classic Cars	Australia
+10377	7264.53	2	2005	Classic Cars	Finland
+10383	6869.05	2	2005	Classic Cars	Spain
+10394	3353.02	3	2005	Classic Cars	Spain
+10405	8289.05	4	2005	Classic Cars	France
+10412	11887.8	5	2005	Classic Cars	Spain
+10419	5926.9	5	2005	Classic Cars	Austria
+10425	3793.16	5	2005	Classic Cars	France
+10105	4330.1	2	2003	Trains	Denmark
+10117	2011.8	4	2003	Trains	Singapore
+10128	4837.18	6	2003	Trains	Spain
+10142	2151.82	8	2003	Trains	USA
+10153	2573.46	9	2003	Trains	Spain
+10165	5344.5	10	2003	Trains	Singapore
+10177	3070.52	11	2003	Trains	Spain
+10185	3952.83	11	2003	Trains	USA
+10196	3564.75	11	2003	Trains	USA
+10208	5614.56	1	2004	Trains	France
+10221	1855.41	2	2004	Trains	Belgium
+10232	4598.4	3	2004	Trains	UK
+10248	5082.42	5	2004	Trains	USA
+10273	5450.59	7	2004	Trains	Belgium
+10282	4174.92	8	2004	Trains	USA
+10293	2418.24	9	2004	Trains	Italy
+10306	3670.4	10	2004	Trains	UK
+10314	2481.7	10	2004	Trains	Denmark
+10326	3807.68	11	2004	Trains	Sweden
+10336	2230.41	11	2004	Trains	France
+10350	3814.64	12	2004	Trains	Spain
+10372	2117.75	1	2005	Trains	Japan
+10383	3340.48	2	2005	Trains	Spain
+10396	2154	3	2005	Trains	USA
+10414	5808.48	5	2005	Trains	USA
+10108	1777.1	3	2003	Classic Cars	Philippines
+10122	1536.57	5	2003	Classic Cars	France
+10135	3510	7	2003	Classic Cars	USA
+10147	3097.44	9	2003	Classic Cars	USA
+10159	1705.41	10	2003	Classic Cars	USA
+10169	2264.32	11	2003	Classic Cars	Australia
+10181	2484.6	11	2003	Classic Cars	Norway
+10191	3415.68	11	2003	Classic Cars	Germany
+10203	2839.32	12	2003	Classic Cars	Spain
+10211	2730	1	2004	Classic Cars	France
+10225	3540.53	2	2004	Classic Cars	Switzerland
+10238	2999.97	4	2004	Classic Cars	Denmark
+10252	1527.8	5	2004	Classic Cars	France
+10265	3907.8	7	2004	Classic Cars	Australia
+10276	2658.48	8	2004	Classic Cars	USA
+10287	3042.68	8	2004	Classic Cars	Switzerland
+10300	3861.2	10	2003	Classic Cars	Germany
+10310	2171.07	10	2004	Classic Cars	Germany
+10319	3403.08	11	2004	Classic Cars	USA
+10329	2245.8	11	2004	Classic Cars	USA
+10342	1668.5	11	2004	Classic Cars	Australia
+10363	2773.8	1	2005	Classic Cars	Finland
+10378	2464	2	2005	Classic Cars	Spain
+10390	5491.6	3	2005	Classic Cars	USA
+10103	4791.82	1	2003	Vintage Cars	Norway
+10111	4178.85	3	2003	Vintage Cars	USA
+10126	3128.92	5	2003	Vintage Cars	Spain
+10139	3095.4	7	2003	Vintage Cars	Australia
+10149	3958.5	9	2003	Vintage Cars	USA
+10163	4991.44	10	2003	Vintage Cars	USA
+10173	2761.96	11	2003	Vintage Cars	Italy
+10182	2848.23	11	2003	Vintage Cars	USA
+10193	2539.84	11	2003	Vintage Cars	Australia
+10206	2444.4	12	2003	Vintage Cars	Canada
+10215	4555.92	1	2004	Vintage Cars	USA
+10227	3666.96	3	2004	Vintage Cars	France
+10244	3035.88	4	2004	Vintage Cars	Spain
+10257	2321.54	6	2004	Vintage Cars	USA
+10280	3474.46	8	2004	Vintage Cars	Italy
+10290	2501.98	9	2004	Vintage Cars	USA
+10304	3958.46	10	2004	Vintage Cars	France
+10312	3535.95	10	2004	Vintage Cars	USA
+10323	3011.91	11	2004	Vintage Cars	Germany
+10333	11336.7	11	2004	Vintage Cars	USA
+10347	2656.94	11	2004	Vintage Cars	Australia
+10357	2604.25	12	2004	Vintage Cars	USA
+10369	3288.6	1	2005	Vintage Cars	USA
+10382	8935.5	2	2005	Vintage Cars	USA
+10392	4035.96	3	2005	Vintage Cars	Austria
+10423	1875.09	5	2005	Vintage Cars	Belgium
+10108	4049.56	3	2003	Classic Cars	Philippines
+10122	2469.39	5	2003	Classic Cars	France
+10135	5432.7	7	2003	Classic Cars	USA
+10147	4405.22	9	2003	Classic Cars	USA
+10159	3638	10	2003	Classic Cars	USA
+10169	4444.92	11	2003	Classic Cars	Australia
+10181	3395.48	11	2003	Classic Cars	Norway
+10191	3414.58	11	2003	Classic Cars	Germany
+10203	5127.04	12	2003	Classic Cars	Spain
+10211	3745.28	1	2004	Classic Cars	France
+10225	4564.08	2	2004	Classic Cars	Switzerland
+10238	6554.24	4	2004	Classic Cars	Denmark
+10252	6749.83	5	2004	Classic Cars	France
+10265	8427.02	7	2004	Classic Cars	Australia
+10276	3924.6	8	2004	Classic Cars	USA
+10287	6761.6	8	2004	Classic Cars	Switzerland
+10300	3786.49	10	2003	Classic Cars	Germany
+10310	6266.12	10	2004	Classic Cars	Germany
+10320	3491	11	2004	Classic Cars	Sweden
+10330	4405.22	11	2004	Classic Cars	Philippines
+10342	6548.3	11	2004	Classic Cars	Australia
+10355	3177.91	12	2004	Classic Cars	Spain
+10363	4142.64	1	2005	Classic Cars	Finland
+10378	4149.07	2	2005	Classic Cars	Spain
+10390	7397	3	2005	Classic Cars	USA
+10109	6241.6	3	2003	Classic Cars	USA
+10123	5331.88	5	2003	Classic Cars	France
+10137	5124.3	7	2003	Classic Cars	France
+10148	3639.44	9	2003	Classic Cars	Australia
+10161	5544	10	2003	Classic Cars	Denmark
+10172	5493.12	11	2003	Classic Cars	USA
+10181	5785.26	11	2003	Classic Cars	Norway
+10192	5340.6	11	2003	Classic Cars	USA
+10204	5735.8	12	2003	Classic Cars	USA
+10212	6357.6	1	2004	Classic Cars	Spain
+10226	7343.9	2	2004	Classic Cars	USA
+10240	5959.22	4	2004	Classic Cars	Japan
+10253	4029.38	6	2004	Classic Cars	UK
+10266	5035.14	7	2004	Classic Cars	Italy
+10278	4116.8	8	2004	Classic Cars	USA
+10287	4310.55	8	2004	Classic Cars	Switzerland
+10301	6446.7	10	2003	Classic Cars	Norway
+10311	3616.64	10	2004	Classic Cars	Spain
+10321	4232.76	11	2004	Classic Cars	USA
+10331	1765.66	11	2004	Classic Cars	USA
+10343	3734.72	11	2004	Classic Cars	France
+10367	4808.38	1	2005	Classic Cars	USA
+10379	2266.56	2	2005	Classic Cars	Spain
+10406	10468.9	4	2005	Classic Cars	Denmark
+10419	5589.14	5	2005	Classic Cars	Austria
+10108	2914.11	3	2003	Motorcycles	Philippines
+10122	1740.9	5	2003	Motorcycles	France
+10135	2266.2	7	2003	Motorcycles	USA
+10146	3155.58	9	2003	Motorcycles	USA
+10159	1357.86	10	2003	Motorcycles	USA
+10169	2598.82	11	2003	Motorcycles	Australia
+10180	1057.56	11	2003	Motorcycles	France
+10191	3127.82	11	2003	Motorcycles	Germany
+10211	2488.14	1	2004	Motorcycles	France
+10224	2220.72	2	2004	Motorcycles	France
+10237	1357.72	4	2004	Motorcycles	USA
+10252	1638.04	5	2004	Motorcycles	France
+10264	2626.08	6	2004	Motorcycles	USA
+10276	1661.88	8	2004	Motorcycles	USA
+10286	2173.6	8	2004	Motorcycles	France
+10299	2182.05	9	2004	Motorcycles	Finland
+10310	2819.88	10	2004	Motorcycles	Germany
+10319	2598.64	11	2004	Motorcycles	USA
+10330	2019.27	11	2004	Motorcycles	Philippines
+10342	1454.7	11	2004	Motorcycles	Australia
+10355	1657.57	12	2004	Motorcycles	Spain
+10363	2851.84	1	2005	Motorcycles	Finland
+10378	4609.64	2	2005	Motorcycles	Spain
+10390	5079.96	3	2005	Motorcycles	USA
+10403	1879.92	4	2005	Motorcycles	UK
+10106	4774.86	2	2003	Vintage Cars	Italy
+10119	2687.04	4	2003	Vintage Cars	Austria
+10130	3423.75	6	2003	Vintage Cars	USA
+10143	3455.76	8	2003	Vintage Cars	USA
+10155	3622.97	10	2003	Vintage Cars	Finland
+10167	3599.58	10	2003	Vintage Cars	Sweden
+10178	5386.56	11	2003	Vintage Cars	France
+10186	4918.78	11	2003	Vintage Cars	UK
+10197	2538.8	11	2003	Vintage Cars	Spain
+10209	2498.6	1	2004	Vintage Cars	USA
+10222	3858.75	2	2004	Vintage Cars	USA
+10249	5600.5	5	2004	Vintage Cars	USA
+10262	4103.46	6	2004	Vintage Cars	Spain
+10273	4287.5	7	2004	Vintage Cars	Belgium
+10283	5795.54	8	2004	Vintage Cars	Canada
+10296	1863.4	9	2004	Vintage Cars	Germany
+10307	4166.88	10	2004	Vintage Cars	USA
+10316	4080.07	11	2004	Vintage Cars	UK
+10328	3815.48	11	2004	Vintage Cars	Italy
+10338	5526.45	11	2004	Vintage Cars	Belgium
+10351	3374.6	12	2004	Vintage Cars	UK
+10373	3024.5	1	2005	Vintage Cars	Finland
+10386	1266.1	3	2005	Vintage Cars	Spain
+10398	4811.85	3	2005	Vintage Cars	France
+10400	7307.42	4	2005	Vintage Cars	USA
+10415	6209.25	5	2005	Vintage Cars	Australia
+10104	5348.5	1	2003	Classic Cars	Spain
+10117	2780.58	4	2003	Classic Cars	Singapore
+10127	3447	6	2003	Classic Cars	USA
+10142	3791.52	8	2003	Classic Cars	USA
+10152	4524.1	9	2003	Classic Cars	Australia
+10165	3337.6	10	2003	Classic Cars	Singapore
+10176	5532.12	11	2003	Classic Cars	Italy
+10185	5096.91	11	2003	Classic Cars	USA
+10196	4537.08	11	2003	Classic Cars	USA
+10207	6146.8	12	2003	Classic Cars	USA
+10220	8258	2	2004	Classic Cars	Ireland
+10230	7238.28	3	2004	Classic Cars	Germany
+10247	6756	5	2004	Classic Cars	Finland
+10272	3734	7	2004	Classic Cars	USA
+10282	4674.8	8	2004	Classic Cars	USA
+10292	7140.76	9	2004	Classic Cars	USA
+10306	3600.65	10	2004	Classic Cars	UK
+10314	4206.74	10	2004	Classic Cars	Denmark
+10324	5379.71	11	2004	Classic Cars	USA
+10337	5679.36	11	2004	Classic Cars	USA
+10349	4394.84	12	2004	Classic Cars	USA
+10358	2528.25	12	2004	Classic Cars	Spain
+10372	7031.52	1	2005	Classic Cars	Japan
+10383	5340.9	2	2005	Classic Cars	Spain
+10394	6376.58	3	2005	Classic Cars	Spain
+10413	6896.75	5	2005	Classic Cars	USA
+10100	1903.22	1	2003	Vintage Cars	USA
+10110	2499.56	3	2003	Vintage Cars	UK
+10124	3081.24	5	2003	Vintage Cars	USA
+10148	3598.22	9	2003	Vintage Cars	Australia
+10162	3912.09	10	2003	Vintage Cars	USA
+10173	1584.66	11	2003	Vintage Cars	Italy
+10182	3942.72	11	2003	Vintage Cars	USA
+10193	2341.2	11	2003	Vintage Cars	Australia
+10204	2482.11	12	2003	Vintage Cars	USA
+10213	3602.02	1	2004	Vintage Cars	UK
+10227	3566.94	3	2004	Vintage Cars	France
+10241	3787.98	4	2004	Vintage Cars	France
+10280	3704.05	8	2004	Vintage Cars	Italy
+10288	2834.65	9	2004	Vintage Cars	Singapore
+10302	3392.26	10	2003	Vintage Cars	UK
+10311	3358.31	10	2004	Vintage Cars	Spain
+10332	7310	11	2004	Vintage Cars	UK
+10344	2203.11	11	2004	Vintage Cars	France
+10367	2696.96	1	2005	Vintage Cars	USA
+10380	3376.64	2	2005	Vintage Cars	Spain
+10407	541.14	4	2005	Vintage Cars	USA
+10420	6134.7	5	2005	Vintage Cars	Australia
+10105	3382.5	2	2003	Vintage Cars	Denmark
+10117	2240.66	4	2003	Vintage Cars	Singapore
+10128	3962.88	6	2003	Vintage Cars	Spain
+10142	1685.28	8	2003	Vintage Cars	USA
+10153	1834.36	9	2003	Vintage Cars	Spain
+10166	1916.98	10	2003	Vintage Cars	USA
+10177	2611	11	2003	Vintage Cars	Spain
+10185	3630.28	11	2003	Vintage Cars	USA
+10197	5090.5	11	2003	Vintage Cars	Spain
+10208	3949.65	1	2004	Vintage Cars	France
+10221	3491.67	2	2004	Vintage Cars	Belgium
+10232	2059.19	3	2004	Vintage Cars	UK
+10248	3170.16	5	2004	Vintage Cars	USA
+10261	1790.6	6	2004	Vintage Cars	Canada
+10273	2345.97	7	2004	Vintage Cars	Belgium
+10283	3580.88	8	2004	Vintage Cars	Canada
+10293	4946.06	9	2004	Vintage Cars	Italy
+10306	3525.6	10	2004	Vintage Cars	UK
+10315	3602.16	10	2004	Vintage Cars	France
+10326	4300.5	11	2004	Vintage Cars	Sweden
+10337	4498.19	11	2004	Vintage Cars	USA
+10350	3023.1	12	2004	Vintage Cars	Spain
+10372	3562.49	1	2005	Vintage Cars	Japan
+10383	1640.24	2	2005	Vintage Cars	Spain
+10396	4739.4	3	2005	Vintage Cars	USA
+10414	1207.68	5	2005	Vintage Cars	USA
+10103	4228.2	1	2003	Trucks and Buses	Norway
+10114	4815.45	4	2003	Trucks and Buses	France
+10126	7083	5	2003	Trucks and Buses	Spain
+10140	4601.2	7	2003	Trucks and Buses	USA
+10150	6467.02	9	2003	Trucks and Buses	Singapore
+10164	5012.55	10	2003	Trucks and Buses	Austria
+10175	5121.59	11	2003	Trucks and Buses	UK
+10183	2441.04	11	2003	Trucks and Buses	USA
+10194	4262.08	11	2003	Trucks and Buses	France
+10207	6658.02	12	2003	Trucks and Buses	USA
+10217	4509.08	2	2004	Trucks and Buses	Singapore
+10229	4716.23	3	2004	Trucks and Buses	USA
+10245	2390.22	5	2004	Trucks and Buses	USA
+10259	4666.62	6	2004	Trucks and Buses	Singapore
+10270	5383.08	7	2004	Trucks and Buses	Australia
+10281	2482.25	8	2004	Trucks and Buses	USA
+10291	5288.64	9	2004	Trucks and Buses	Sweden
+10305	2184.38	10	2004	Trucks and Buses	USA
+10313	2881.76	10	2004	Trucks and Buses	Canada
+10323	6203.06	11	2004	Trucks and Buses	Germany
+10334	6763.47	11	2004	Trucks and Buses	Sweden
+10347	5884.65	11	2004	Trucks and Buses	Australia
+10357	3559.64	12	2004	Trucks and Buses	USA
+10370	1668.37	1	2005	Trucks and Buses	Australia
+10382	4890.6	2	2005	Trucks and Buses	USA
+10411	5235.72	5	2005	Trucks and Buses	Canada
+10425	4325.16	5	2005	Trucks and Buses	France
+10103	1938.89	1	2003	Vintage Cars	Norway
+10113	2490.5	3	2003	Vintage Cars	USA
+10126	2314.69	5	2003	Vintage Cars	Spain
+10140	1254.83	7	2003	Vintage Cars	USA
+10150	1282.8	9	2003	Vintage Cars	Singapore
+10164	1345.75	10	2003	Vintage Cars	Austria
+10174	2194.22	11	2003	Vintage Cars	Australia
+10183	1972	11	2003	Vintage Cars	USA
+10194	1835.98	11	2003	Vintage Cars	France
+10206	1119.93	12	2003	Vintage Cars	Canada
+10215	2082.88	1	2004	Vintage Cars	USA
+10229	1569.75	3	2004	Vintage Cars	USA
+10245	2694.15	5	2004	Vintage Cars	USA
+10258	1257.27	6	2004	Vintage Cars	Japan
+10270	2567.84	7	2004	Vintage Cars	Australia
+10281	2634.28	8	2004	Vintage Cars	USA
+10291	1502.78	9	2004	Vintage Cars	Sweden
+10304	1676.2	10	2004	Vintage Cars	France
+10312	2217.15	10	2004	Vintage Cars	USA
+10324	6832.02	11	2004	Vintage Cars	USA
+10333	1916.64	11	2004	Vintage Cars	USA
+10348	7110.8	11	2004	Vintage Cars	Spain
+10358	5302.8	12	2004	Vintage Cars	Spain
+10370	2730	1	2005	Vintage Cars	Australia
+10382	7827.3	2	2005	Vintage Cars	USA
+10411	2095.45	5	2005	Vintage Cars	Canada
+10424	1556.62	5	2005	Vintage Cars	Spain
+10108	5565.12	3	2003	Classic Cars	Philippines
+10122	3583.16	5	2003	Classic Cars	France
+10135	4705.18	7	2003	Classic Cars	USA
+10146	4444.54	9	2003	Classic Cars	USA
+10159	4618.88	10	2003	Classic Cars	USA
+10169	4910.4	11	2003	Classic Cars	Australia
+10180	5565.12	11	2003	Classic Cars	France
+10191	4237.76	11	2003	Classic Cars	Germany
+10211	5673.58	1	2004	Classic Cars	France
+10225	5260.15	2	2004	Classic Cars	Switzerland
+10238	6350.96	4	2004	Classic Cars	Denmark
+10252	3559.4	5	2004	Classic Cars	France
+10264	2410.6	6	2004	Classic Cars	USA
+10276	5713.92	8	2004	Classic Cars	USA
+10287	4300.32	8	2004	Classic Cars	Switzerland
+10299	7947.31	9	2004	Classic Cars	Finland
+10310	5356.8	10	2004	Classic Cars	Germany
+10319	7901.1	11	2004	Classic Cars	USA
+10330	6101	11	2004	Classic Cars	Philippines
+10342	6276.46	11	2004	Classic Cars	Australia
+10355	4203.5	12	2004	Classic Cars	Spain
+10363	1629.04	1	2005	Classic Cars	Finland
+10378	3289.86	2	2005	Classic Cars	Spain
+10390	6862.94	3	2005	Classic Cars	USA
+10110	2574.18	3	2003	Classic Cars	UK
+10124	1327.79	5	2003	Classic Cars	USA
+10148	2356.25	9	2003	Classic Cars	Australia
+10161	2013.5	10	2003	Classic Cars	Denmark
+10173	2807.22	11	2003	Classic Cars	Italy
+10182	3072.96	11	2003	Classic Cars	USA
+10193	1906.5	11	2003	Classic Cars	Australia
+10204	3431.7	12	2003	Classic Cars	USA
+10213	2084.75	1	2004	Classic Cars	UK
+10227	2136.01	3	2004	Classic Cars	France
+10241	2009.7	4	2004	Classic Cars	France
+10267	2719.8	7	2004	Classic Cars	USA
+10279	1575.08	8	2004	Classic Cars	Spain
+10288	1688.43	9	2004	Classic Cars	Singapore
+10302	1672.1	10	2003	Classic Cars	UK
+10311	1674.75	10	2004	Classic Cars	Spain
+10332	3472.98	11	2004	Classic Cars	UK
+10344	1649.18	11	2004	Classic Cars	France
+10367	3751	1	2005	Classic Cars	USA
+10380	4536	2	2005	Classic Cars	Spain
+10407	4421.34	4	2005	Classic Cars	USA
+10420	2078.28	5	2005	Classic Cars	Australia
+10110	3069	3	2003	Classic Cars	UK
+10124	1713.8	5	2003	Classic Cars	USA
+10148	1506.5	9	2003	Classic Cars	Australia
+10161	2692.12	10	2003	Classic Cars	Denmark
+10172	2422.08	11	2003	Classic Cars	USA
+10182	3488.34	11	2003	Classic Cars	USA
+10192	2583.34	11	2003	Classic Cars	USA
+10204	1249.4	12	2003	Classic Cars	USA
+10212	3374.71	1	2004	Classic Cars	Spain
+10226	1265.46	2	2004	Classic Cars	USA
+10241	1681.46	4	2004	Classic Cars	France
+10267	3204	7	2004	Classic Cars	USA
+10279	2398.72	8	2004	Classic Cars	Spain
+10288	2381.04	9	2004	Classic Cars	Singapore
+10301	1944.54	10	2003	Classic Cars	Norway
+10311	2273.7	10	2004	Classic Cars	Spain
+10321	2116.5	11	2004	Classic Cars	USA
+10332	1307.32	11	2004	Classic Cars	UK
+10344	1726.37	11	2004	Classic Cars	France
+10367	1267.77	1	2005	Classic Cars	USA
+10380	3441.82	2	2005	Classic Cars	Spain
+10407	1987.18	4	2005	Classic Cars	USA
+10420	3880.2	5	2005	Classic Cars	Australia
+10104	1942.15	1	2003	Classic Cars	Spain
+10115	3259.92	4	2003	Classic Cars	USA
+10127	1213.8	6	2003	Classic Cars	USA
+10141	1086.6	8	2003	Classic Cars	Finland
+10152	1632.75	9	2003	Classic Cars	Australia
+10165	1734	10	2003	Classic Cars	Singapore
+10176	1857.06	11	2003	Classic Cars	Italy
+10184	1863.41	11	2003	Classic Cars	Spain
+10195	2924.68	11	2003	Classic Cars	USA
+10207	2294.18	12	2003	Classic Cars	USA
+10220	1457.82	2	2004	Classic Cars	Ireland
+10230	1955.88	3	2004	Classic Cars	Germany
+10246	2314.4	5	2004	Classic Cars	Spain
+10259	1310.96	6	2004	Classic Cars	Singapore
+10271	2913.3	7	2004	Classic Cars	USA
+10282	1357.78	8	2004	Classic Cars	USA
+10292	2150	9	2004	Classic Cars	USA
+10305	2783.25	10	2004	Classic Cars	USA
+10314	2339.92	10	2004	Classic Cars	Denmark
+10324	1729	11	2004	Classic Cars	USA
+10336	5972.4	11	2004	Classic Cars	France
+10349	2275.2	12	2004	Classic Cars	USA
+10358	2673.44	12	2004	Classic Cars	Spain
+10371	2431.75	1	2005	Classic Cars	USA
+10383	2018.72	2	2005	Classic Cars	Spain
+10394	1558.99	3	2005	Classic Cars	Spain
+10412	1104.6	5	2005	Classic Cars	Spain
+10425	2575.1	5	2005	Classic Cars	France
+10107	2845.75	2	2003	Motorcycles	USA
+10120	3431.75	4	2003	Motorcycles	Australia
+10134	3273.9	7	2003	Motorcycles	France
+10145	4119.4	8	2003	Motorcycles	USA
+10159	5355.68	10	2003	Motorcycles	USA
+10168	5747.5	10	2003	Motorcycles	USA
+10180	5355.36	11	2003	Motorcycles	France
+10188	2535.75	11	2003	Motorcycles	Norway
+10201	4351.23	12	2003	Motorcycles	USA
+10211	2254	1	2004	Motorcycles	France
+10223	2921.28	2	2004	Motorcycles	Australia
+10237	2299	4	2004	Motorcycles	USA
+10251	2637.18	5	2004	Motorcycles	USA
+10263	4307.52	6	2004	Motorcycles	USA
+10275	2153.76	7	2004	Motorcycles	France
+10285	3716.88	8	2004	Motorcycles	USA
+10299	5455.76	9	2004	Motorcycles	Finland
+10309	2650.62	10	2004	Motorcycles	Norway
+10318	6437.28	11	2004	Motorcycles	USA
+10329	2633.4	11	2004	Motorcycles	USA
+10339	2278.53	11	2004	Motorcycles	Japan
+10362	4846	1	2005	Motorcycles	USA
+10374	4197.1	2	2005	Motorcycles	Australia
+10389	4597.65	3	2005	Motorcycles	Sweden
+10403	5287.7	4	2005	Motorcycles	UK
+10417	3550.05	5	2005	Motorcycles	Spain
+10110	1721.73	3	2003	Classic Cars	UK
+10123	2993.5	5	2003	Classic Cars	France
+10137	1295.06	7	2003	Classic Cars	France
+10148	2671.95	9	2003	Classic Cars	Australia
+10161	1226.59	10	2003	Classic Cars	Denmark
+10172	1453.84	11	2003	Classic Cars	USA
+10181	1830.22	11	2003	Classic Cars	Norway
+10192	2530.01	11	2003	Classic Cars	USA
+10204	2241.45	12	2003	Classic Cars	USA
+10212	2399.85	1	2004	Classic Cars	Spain
+10226	1557.72	2	2004	Classic Cars	USA
+10241	845.25	4	2004	Classic Cars	France
+10266	1352.4	7	2004	Classic Cars	Italy
+10278	1584.8	8	2004	Classic Cars	USA
+10288	2616	9	2004	Classic Cars	Singapore
+10301	1129.04	10	2003	Classic Cars	Norway
+10311	2218.5	10	2004	Classic Cars	Spain
+10321	2028.48	11	2004	Classic Cars	USA
+10332	1759.2	11	2004	Classic Cars	UK
+10343	977.67	11	2004	Classic Cars	France
+10367	1463	1	2005	Classic Cars	USA
+10379	3970.56	2	2005	Classic Cars	Spain
+10407	2576	4	2005	Classic Cars	USA
+10420	2233.69	5	2005	Classic Cars	Australia
+10106	2481.64	2	2003	Planes	Italy
+10120	4651.53	4	2003	Planes	Australia
+10133	3858.1	6	2003	Planes	Spain
+10145	3501.6	8	2003	Planes	USA
+10168	6433.7	10	2003	Planes	USA
+10210	2658.96	1	2004	Planes	Japan
+10223	3608.76	2	2004	Planes	Australia
+10235	2214.67	4	2004	Planes	Canada
+10250	2747.53	5	2004	Planes	USA
+10262	3310.92	6	2004	Planes	Spain
+10275	2380	7	2004	Planes	France
+10284	2310.88	8	2004	Planes	Norway
+10297	4061.76	9	2004	Planes	Ireland
+10308	3493.7	10	2004	Planes	USA
+10316	2872.25	11	2004	Planes	UK
+10328	4114.38	11	2004	Planes	Italy
+10339	1063.65	11	2004	Planes	Japan
+10353	2008.44	12	2004	Planes	USA
+10374	4328.6	2	2005	Planes	Australia
+10386	1376.43	3	2005	Planes	Spain
+10398	5552.16	3	2005	Planes	France
+10401	3659.02	4	2005	Planes	USA
+10416	4165.61	5	2005	Planes	Italy
+10101	1404	1	2003	Vintage Cars	Germany
+10110	710.2	3	2003	Vintage Cars	UK
+10124	1702.8	5	2003	Vintage Cars	USA
+10149	1194.84	9	2003	Vintage Cars	USA
+10162	1007.14	10	2003	Vintage Cars	USA
+10173	977.43	11	2003	Vintage Cars	Italy
+10182	1436.76	11	2003	Vintage Cars	USA
+10193	759.46	11	2003	Vintage Cars	Australia
+10205	1189.44	12	2003	Vintage Cars	Spain
+10214	683.8	1	2004	Vintage Cars	Spain
+10227	1226.82	3	2004	Vintage Cars	France
+10243	974.82	4	2004	Vintage Cars	USA
+10280	577.6	8	2004	Vintage Cars	Italy
+10288	1106.93	9	2004	Vintage Cars	Singapore
+10304	694.6	10	2004	Vintage Cars	France
+10312	1152.06	10	2004	Vintage Cars	USA
+10322	2624	11	2004	Vintage Cars	USA
+10332	3685.95	11	2004	Vintage Cars	UK
+10344	703.6	11	2004	Vintage Cars	France
+10356	9720	12	2004	Vintage Cars	France
+10367	834.67	1	2005	Vintage Cars	USA
+10380	2257.92	2	2005	Vintage Cars	Spain
+10391	8344.71	3	2005	Vintage Cars	Australia
+10409	1801.94	4	2005	Vintage Cars	Singapore
+10420	1209.6	5	2005	Vintage Cars	Australia
+10107	3155.14	2	2003	Motorcycles	USA
+10120	2848.86	4	2003	Motorcycles	Australia
+10134	3570.29	7	2003	Motorcycles	France
+10145	3902.41	8	2003	Motorcycles	USA
+10158	1474.66	10	2003	Motorcycles	Norway
+10168	2186.89	10	2003	Motorcycles	USA
+10180	1919.4	11	2003	Motorcycles	France
+10188	3656	11	2003	Motorcycles	Norway
+10201	1847	12	2003	Motorcycles	USA
+10210	1851	1	2004	Motorcycles	Japan
+10223	2633.78	2	2004	Motorcycles	Australia
+10236	3153.6	4	2004	Motorcycles	USA
+10250	2803.2	5	2004	Motorcycles	USA
+10263	2311.02	6	2004	Motorcycles	USA
+10275	2399.4	7	2004	Motorcycles	France
+10285	2733.12	8	2004	Motorcycles	USA
+10297	2096.32	9	2004	Motorcycles	Ireland
+10308	2971.34	10	2004	Motorcycles	USA
+10318	2257.58	11	2004	Motorcycles	USA
+10329	3493.91	11	2004	Motorcycles	USA
+10340	4398.9	11	2004	Motorcycles	Spain
+10363	3595.62	1	2005	Motorcycles	Finland
+10375	2443.29	2	2005	Motorcycles	France
+10389	3988.6	3	2005	Motorcycles	Sweden
+10402	5168.4	4	2005	Motorcycles	France
+10416	2803.2	5	2005	Motorcycles	Italy
+10105	6341.21	2	2003	Ships	Denmark
+10117	5189.78	4	2003	Ships	Singapore
+10129	6027.75	6	2003	Ships	UK
+10142	3366	8	2003	Ships	USA
+10153	5456.4	9	2003	Ships	Spain
+10167	3812.16	10	2003	Ships	Sweden
+10177	6083	11	2003	Ships	Spain
+10185	3170.7	11	2003	Ships	USA
+10197	4534.6	11	2003	Ships	Spain
+10208	4301.15	1	2004	Ships	France
+10221	6804.63	2	2004	Ships	Belgium
+10232	5652.94	3	2004	Ships	UK
+10248	6960.48	5	2004	Ships	USA
+10261	4512.6	6	2004	Ships	Canada
+10273	2784.76	7	2004	Ships	Belgium
+10283	5316.36	8	2004	Ships	Canada
+10293	2941.89	9	2004	Ships	Italy
+10306	3207.4	10	2004	Ships	UK
+10315	4215.05	10	2004	Ships	France
+10326	4333.29	11	2004	Ships	Sweden
+10337	2087.13	11	2004	Ships	USA
+10350	1711.22	12	2004	Ships	Spain
+10372	3910.53	1	2005	Ships	Japan
+10384	2255.12	2	2005	Ships	USA
+10396	5720.75	3	2005	Ships	USA
+10414	3335.23	5	2005	Ships	USA
+10101	2472.96	1	2003	Vintage Cars	Germany
+10110	1729.65	3	2003	Vintage Cars	UK
+10124	995.5	5	2003	Vintage Cars	USA
+10149	2414.72	9	2003	Vintage Cars	USA
+10162	1560.47	10	2003	Vintage Cars	USA
+10173	1112.94	11	2003	Vintage Cars	Italy
+10182	1138.94	11	2003	Vintage Cars	USA
+10193	1012.4	11	2003	Vintage Cars	Australia
+10205	913.92	12	2003	Vintage Cars	Spain
+10214	2349.06	1	2004	Vintage Cars	Spain
+10227	1161.12	3	2004	Vintage Cars	France
+10244	1764.75	4	2004	Vintage Cars	Spain
+10255	1690.9	6	2004	Vintage Cars	France
+10280	2137.05	8	2004	Vintage Cars	Italy
+10289	2177.1	9	2004	Vintage Cars	Norway
+10304	1734.48	10	2004	Vintage Cars	France
+10312	865.49	10	2004	Vintage Cars	USA
+10322	3500.1	11	2004	Vintage Cars	USA
+10332	2223.52	11	2004	Vintage Cars	UK
+10345	2311.68	11	2004	Vintage Cars	France
+10356	828.36	12	2004	Vintage Cars	France
+10367	856.52	1	2005	Vintage Cars	USA
+10380	1845.45	2	2005	Vintage Cars	Spain
+10391	4042.08	3	2005	Vintage Cars	Australia
+10421	1828	5	2005	Vintage Cars	USA
+10103	3680.28	1	2003	Trucks and Buses	Norway
+10114	2925.09	4	2003	Trucks and Buses	France
+10126	3415.77	5	2003	Trucks and Buses	Spain
+10140	5105.14	7	2003	Trucks and Buses	USA
+10151	5098.8	9	2003	Trucks and Buses	Finland
+10165	4661.76	10	2003	Trucks and Buses	Singapore
+10175	2969.96	11	2003	Trucks and Buses	UK
+10184	3496.32	11	2003	Trucks and Buses	Spain
+10194	5760.93	11	2003	Trucks and Buses	France
+10207	6819.04	12	2003	Trucks and Buses	USA
+10217	3148.88	2	2004	Trucks and Buses	Singapore
+10229	5704.32	3	2004	Trucks and Buses	USA
+10246	3520.6	5	2004	Trucks and Buses	Spain
+10259	5285.62	6	2004	Trucks and Buses	Singapore
+10271	5605.05	7	2004	Trucks and Buses	USA
+10281	2779.5	8	2004	Trucks and Buses	USA
+10291	5398.08	9	2004	Trucks and Buses	Sweden
+10305	3189.6	10	2004	Trucks and Buses	USA
+10313	5581.8	10	2004	Trucks and Buses	Canada
+10324	3820.44	11	2004	Trucks and Buses	USA
+10334	5528.04	11	2004	Trucks and Buses	Sweden
+10348	5981.42	11	2004	Trucks and Buses	Spain
+10358	5684.65	12	2004	Trucks and Buses	Spain
+10371	3449.4	1	2005	Trucks and Buses	USA
+10382	2654.4	2	2005	Trucks and Buses	USA
+10412	8498	5	2005	Trucks and Buses	Spain
+10425	5510.54	5	2005	Trucks and Buses	France
+10108	2060.45	3	2003	Motorcycles	Philippines
+10121	2460.16	5	2003	Motorcycles	France
+10135	1787.56	7	2003	Motorcycles	USA
+10145	1645.65	8	2003	Motorcycles	USA
+10159	2169.18	10	2003	Motorcycles	USA
+10169	2816.18	11	2003	Motorcycles	Australia
+10180	2521.05	11	2003	Motorcycles	France
+10190	3199.98	11	2003	Motorcycles	Spain
+10211	1338.12	1	2004	Motorcycles	France
+10224	2972.58	2	2004	Motorcycles	France
+10237	2070.9	4	2004	Motorcycles	USA
+10252	3092.6	5	2004	Motorcycles	France
+10264	2408.7	6	2004	Motorcycles	USA
+10276	3472.54	8	2004	Motorcycles	USA
+10285	2263.28	8	2004	Motorcycles	USA
+10299	2194.17	9	2004	Motorcycles	Finland
+10309	1346.4	10	2004	Motorcycles	Norway
+10319	2533.63	11	2004	Motorcycles	USA
+10330	3403.26	11	2004	Motorcycles	Philippines
+10341	3307.2	11	2004	Motorcycles	Austria
+10355	2896.65	12	2004	Motorcycles	Spain
+10363	2632.89	1	2005	Motorcycles	Finland
+10375	2046	2	2005	Motorcycles	France
+10390	2279.55	3	2005	Motorcycles	USA
+10403	2150.55	4	2005	Motorcycles	UK
+10110	3360.45	3	2003	Classic Cars	UK
+10124	2326.4	5	2003	Classic Cars	USA
+10148	1545.6	9	2003	Classic Cars	Australia
+10161	2144.6	10	2003	Classic Cars	Denmark
+10172	1639.22	11	2003	Classic Cars	USA
+10182	2649.6	11	2003	Classic Cars	USA
+10192	3845.6	11	2003	Classic Cars	USA
+10204	4527.04	12	2003	Classic Cars	USA
+10212	3966.3	1	2004	Classic Cars	Spain
+10227	4142.58	3	2004	Classic Cars	France
+10241	4441.5	4	2004	Classic Cars	France
+10267	3315.12	7	2004	Classic Cars	USA
+10279	3918.53	8	2004	Classic Cars	Spain
+10288	2830.45	9	2004	Classic Cars	Singapore
+10302	5298.86	10	2003	Classic Cars	UK
+10311	2620.8	10	2004	Classic Cars	Spain
+10321	2181	11	2004	Classic Cars	USA
+10332	3382.08	11	2004	Classic Cars	UK
+10346	2876.75	11	2004	Classic Cars	USA
+10368	4107.2	1	2005	Classic Cars	USA
+10380	1350	2	2005	Classic Cars	Spain
+10407	7182	4	2005	Classic Cars	USA
+10420	3933.93	5	2005	Classic Cars	Australia
+10104	1742.4	1	2003	Classic Cars	Spain
+10114	721.44	4	2003	Classic Cars	France
+10127	1489.41	6	2003	Classic Cars	USA
+10141	891.03	8	2003	Classic Cars	Finland
+10151	1209.3	9	2003	Classic Cars	Finland
+10165	859.14	10	2003	Classic Cars	Singapore
+10175	1151.44	11	2003	Classic Cars	UK
+10184	1336.44	11	2003	Classic Cars	Spain
+10195	905.28	11	2003	Classic Cars	USA
+10207	1247.4	12	2003	Classic Cars	USA
+10219	846.51	2	2004	Classic Cars	USA
+10229	1085.04	3	2004	Classic Cars	USA
+10246	1767.43	5	2004	Classic Cars	Spain
+10259	1030.44	6	2004	Classic Cars	Singapore
+10271	1585.36	7	2004	Classic Cars	USA
+10281	813.2	8	2004	Classic Cars	USA
+10292	1172.34	9	2004	Classic Cars	USA
+10305	1510.56	10	2004	Classic Cars	USA
+10314	1448.07	10	2004	Classic Cars	Denmark
+10324	3338.1	11	2004	Classic Cars	USA
+10335	1225.29	11	2004	Classic Cars	USA
+10349	1336.68	12	2004	Classic Cars	USA
+10358	2985.84	12	2004	Classic Cars	Spain
+10371	5545.8	1	2005	Classic Cars	USA
+10383	6089.6	2	2005	Classic Cars	Spain
+10394	1789.4	3	2005	Classic Cars	Spain
+10412	1082.1	5	2005	Classic Cars	Spain
+10425	1030.44	5	2005	Classic Cars	France
+10106	3659.32	2	2003	Planes	Italy
+10119	2443.6	4	2003	Planes	Austria
+10131	2349.9	6	2003	Planes	USA
+10143	1646.19	8	2003	Planes	USA
+10155	1670.26	10	2003	Planes	Finland
+10167	1467.48	10	2003	Planes	Sweden
+10178	2748.56	11	2003	Planes	France
+10186	1522.4	11	2003	Planes	UK
+10198	3255.36	11	2003	Planes	Philippines
+10209	3535.03	1	2004	Planes	USA
+10222	2608.96	2	2004	Planes	USA
+10249	1356.4	5	2004	Planes	USA
+10262	1611.36	6	2004	Planes	Spain
+10274	2603.2	7	2004	Planes	USA
+10284	2219.7	8	2004	Planes	Norway
+10296	1496.25	9	2004	Planes	Germany
+10307	1884	10	2004	Planes	USA
+10316	2166.14	11	2004	Planes	UK
+10328	2828.16	11	2004	Planes	Italy
+10339	6214.45	11	2004	Planes	Japan
+10351	1867	12	2004	Planes	UK
+10373	2676.72	1	2005	Planes	Finland
+10386	2182.44	3	2005	Planes	Spain
+10398	1611.4	3	2005	Planes	France
+10400	1479.84	4	2005	Planes	USA
+10415	1424.22	5	2005	Planes	Australia
+10110	5942.28	3	2003	Classic Cars	UK
+10124	2348.75	5	2003	Classic Cars	USA
+10148	4392.12	9	2003	Classic Cars	Australia
+10161	2759.75	10	2003	Classic Cars	Denmark
+10173	2728.03	11	2003	Classic Cars	Italy
+10182	2395.8	11	2003	Classic Cars	USA
+10192	3052.33	11	2003	Classic Cars	USA
+10204	4242	12	2003	Classic Cars	USA
+10213	2790.45	1	2004	Classic Cars	UK
+10227	4340.49	3	2004	Classic Cars	France
+10241	2762.2	4	2004	Classic Cars	France
+10267	4645.72	7	2004	Classic Cars	USA
+10279	5580.96	8	2004	Classic Cars	Spain
+10288	6539.04	9	2004	Classic Cars	Singapore
+10302	5548.95	10	2003	Classic Cars	UK
+10311	4595.41	10	2004	Classic Cars	Spain
+10332	1859.44	11	2004	Classic Cars	UK
+10346	2093.76	11	2004	Classic Cars	USA
+10368	4223.13	1	2005	Classic Cars	USA
+10380	1596.76	2	2005	Classic Cars	Spain
+10407	5820.35	4	2005	Classic Cars	USA
+10420	5296.5	5	2005	Classic Cars	Australia
+10109	930.9	3	2003	Classic Cars	USA
+10122	1207.44	5	2003	Classic Cars	France
+10135	717.4	7	2003	Classic Cars	USA
+10147	1066.75	9	2003	Classic Cars	USA
+10160	1554	10	2003	Classic Cars	USA
+10171	1277.64	11	2003	Classic Cars	Canada
+10181	1578.79	11	2003	Classic Cars	Norway
+10192	917.7	11	2003	Classic Cars	USA
+10203	777	12	2003	Classic Cars	Spain
+10212	1476.28	1	2004	Classic Cars	Spain
+10225	1538.46	2	2004	Classic Cars	Switzerland
+10239	891.2	4	2004	Classic Cars	Finland
+10253	1706.8	6	2004	Classic Cars	UK
+10266	1373.6	7	2004	Classic Cars	Italy
+10278	1205.59	8	2004	Classic Cars	USA
+10287	1427.4	8	2004	Classic Cars	Switzerland
+10301	1649.28	10	2003	Classic Cars	Norway
+10310	1383.03	10	2004	Classic Cars	Germany
+10321	1229.51	11	2004	Classic Cars	USA
+10331	1140.48	11	2004	Classic Cars	USA
+10342	1575.6	11	2004	Classic Cars	Australia
+10355	1386.72	12	2004	Classic Cars	Spain
+10367	5018.4	1	2005	Classic Cars	USA
+10378	5856.85	2	2005	Classic Cars	Spain
+10390	4894.73	3	2005	Classic Cars	USA
+10405	2094.32	4	2005	Classic Cars	France
+10419	640.05	5	2005	Classic Cars	Austria
+10105	3193.52	2	2003	Vintage Cars	Denmark
+10119	3066.7	4	2003	Vintage Cars	Austria
+10129	3883.11	6	2003	Vintage Cars	UK
+10142	4814.25	8	2003	Vintage Cars	USA
+10154	2826.27	10	2003	Vintage Cars	USA
+10167	1593.2	10	2003	Vintage Cars	Sweden
+10177	3266.1	11	2003	Vintage Cars	Spain
+10185	2453.55	11	2003	Vintage Cars	USA
+10197	3910.4	11	2003	Vintage Cars	Spain
+10208	1788	1	2004	Vintage Cars	France
+10222	3328.07	2	2004	Vintage Cars	USA
+10233	3788.4	3	2004	Vintage Cars	USA
+10248	3053.7	5	2004	Vintage Cars	USA
+10261	2005.74	6	2004	Vintage Cars	Canada
+10273	2796.12	7	2004	Vintage Cars	Belgium
+10283	3159.96	8	2004	Vintage Cars	Canada
+10295	3908.62	9	2004	Vintage Cars	USA
+10306	2606.48	10	2004	Vintage Cars	UK
+10315	2081.76	10	2004	Vintage Cars	France
+10326	3519.85	11	2004	Vintage Cars	Sweden
+10339	10758	11	2004	Vintage Cars	Japan
+10350	3021	12	2004	Vintage Cars	Spain
+10373	1891.56	1	2005	Vintage Cars	Finland
+10384	4208.41	2	2005	Vintage Cars	USA
+10396	2246.4	3	2005	Vintage Cars	USA
+10414	6107.4	5	2005	Vintage Cars	USA
+10110	1987.74	3	2003	Classic Cars	UK
+10124	4068.96	5	2003	Classic Cars	USA
+10148	2282.22	9	2003	Classic Cars	Australia
+10161	1541	10	2003	Classic Cars	Denmark
+10172	1951.92	11	2003	Classic Cars	USA
+10182	3107.61	11	2003	Classic Cars	USA
+10192	2328.64	11	2003	Classic Cars	USA
+10204	3184.8	12	2003	Classic Cars	USA
+10212	2149.74	1	2004	Classic Cars	Spain
+10227	3184.8	3	2004	Classic Cars	France
+10241	2114.58	4	2004	Classic Cars	France
+10267	4256.56	7	2004	Classic Cars	USA
+10279	2344.98	8	2004	Classic Cars	Spain
+10288	2328.66	9	2004	Classic Cars	Singapore
+10302	3575.04	10	2003	Classic Cars	UK
+10311	2076	10	2004	Classic Cars	Spain
+10321	3305.25	11	2004	Classic Cars	USA
+10332	1538.55	11	2004	Classic Cars	UK
+10346	3325.92	11	2004	Classic Cars	USA
+10368	3662.52	1	2005	Classic Cars	USA
+10380	3478.64	2	2005	Classic Cars	Spain
+10407	1057.29	4	2005	Classic Cars	USA
+10420	3385.9	5	2005	Classic Cars	Australia
+10108	1892.1	3	2003	Classic Cars	Philippines
+10122	1707.14	5	2003	Classic Cars	France
+10135	1785.51	7	2003	Classic Cars	USA
+10147	2057.4	9	2003	Classic Cars	USA
+10159	3490	10	2003	Classic Cars	USA
+10169	1707.14	11	2003	Classic Cars	Australia
+10181	1506.96	11	2003	Classic Cars	Norway
+10191	2880.48	11	2003	Classic Cars	Germany
+10203	2206.6	12	2003	Classic Cars	Spain
+10211	2351.04	1	2004	Classic Cars	France
+10225	1205.04	2	2004	Classic Cars	Switzerland
+10238	2935.15	4	2004	Classic Cars	Denmark
+10253	1263.84	6	2004	Classic Cars	UK
+10266	2935.15	7	2004	Classic Cars	Italy
+10276	1224.6	8	2004	Classic Cars	USA
+10287	1359.4	8	2004	Classic Cars	Switzerland
+10300	1822.18	10	2003	Classic Cars	Germany
+10310	2163.72	10	2004	Classic Cars	Germany
+10320	1591.98	11	2004	Classic Cars	Sweden
+10331	3078.5	11	2004	Classic Cars	USA
+10342	2997.6	11	2004	Classic Cars	Australia
+10355	2747.8	12	2004	Classic Cars	Spain
+10363	2447.76	1	2005	Classic Cars	Finland
+10378	1910.84	2	2005	Classic Cars	Spain
+10390	2430.64	3	2005	Classic Cars	USA
+10419	2896.3	5	2005	Classic Cars	Austria
+10106	1630.6	2	2003	Vintage Cars	Italy
+10119	1459.6	4	2003	Vintage Cars	Austria
+10131	1716.22	6	2003	Vintage Cars	USA
+10143	2560.47	8	2003	Vintage Cars	USA
+10155	1900.26	10	2003	Vintage Cars	Finland
+10167	2019.84	10	2003	Vintage Cars	Sweden
+10178	1988.28	11	2003	Vintage Cars	France
+10186	1449.84	11	2003	Vintage Cars	UK
+10198	1935.09	11	2003	Vintage Cars	Philippines
+10209	2793.24	1	2004	Vintage Cars	USA
+10222	3025.05	2	2004	Vintage Cars	USA
+10249	1742.5	5	2004	Vintage Cars	USA
+10262	3236.1	6	2004	Vintage Cars	Spain
+10274	1735.92	7	2004	Vintage Cars	USA
+10284	2795.13	8	2004	Vintage Cars	Norway
+10296	1671.52	9	2004	Vintage Cars	Germany
+10307	1576.74	10	2004	Vintage Cars	USA
+10316	3615.71	11	2004	Vintage Cars	UK
+10328	1459.6	11	2004	Vintage Cars	Italy
+10339	2891.01	11	2004	Vintage Cars	Japan
+10351	2598.44	12	2004	Vintage Cars	UK
+10361	3871.92	12	2004	Vintage Cars	Australia
+10373	3036	1	2005	Vintage Cars	Finland
+10386	2231.6	3	2005	Vintage Cars	Spain
+10398	2436.78	3	2005	Vintage Cars	France
+10400	2173.6	4	2005	Vintage Cars	USA
+10415	1254.6	5	2005	Vintage Cars	Australia
+10110	3724.42	3	2003	Classic Cars	UK
+10124	5203	5	2003	Classic Cars	USA
+10148	3469.5	9	2003	Classic Cars	Australia
+10161	3148.2	10	2003	Classic Cars	Denmark
+10172	2167.22	11	2003	Classic Cars	USA
+10182	6244.07	11	2003	Classic Cars	USA
+10192	5566	11	2003	Classic Cars	USA
+10204	4368.96	12	2003	Classic Cars	USA
+10212	4039.26	1	2004	Classic Cars	Spain
+10226	4420.32	2	2004	Classic Cars	USA
+10241	2341.71	4	2004	Classic Cars	France
+10267	5110.98	7	2004	Classic Cars	USA
+10279	6168	8	2004	Classic Cars	Spain
+10288	4873.26	9	2004	Classic Cars	Singapore
+10301	2120.14	10	2003	Classic Cars	Norway
+10311	4236.14	10	2004	Classic Cars	Spain
+10321	1888.95	11	2004	Classic Cars	USA
+10332	1152.58	11	2004	Classic Cars	UK
+10346	2492.88	11	2004	Classic Cars	USA
+10368	1991.6	1	2005	Classic Cars	USA
+10380	3953.18	2	2005	Classic Cars	Spain
+10407	3729.39	4	2005	Classic Cars	USA
+10420	2617.16	5	2005	Classic Cars	Australia
+10105	3983.5	2	2003	Vintage Cars	Denmark
+10119	3169.95	4	2003	Vintage Cars	Austria
+10129	3899.5	6	2003	Vintage Cars	UK
+10143	1851.73	8	2003	Vintage Cars	USA
+10155	2513.41	10	2003	Vintage Cars	Finland
+10167	2431.94	10	2003	Vintage Cars	Sweden
+10178	1514.52	11	2003	Vintage Cars	France
+10186	3079.44	11	2003	Vintage Cars	UK
+10197	1900.36	11	2003	Vintage Cars	Spain
+10209	1974.06	1	2004	Vintage Cars	USA
+10222	3703.46	2	2004	Vintage Cars	USA
+10248	1755.13	5	2004	Vintage Cars	USA
+10262	4273.29	6	2004	Vintage Cars	Spain
+10273	3984.96	7	2004	Vintage Cars	Belgium
+10283	2407.68	8	2004	Vintage Cars	Canada
+10296	1697.3	9	2004	Vintage Cars	Germany
+10307	2011.02	10	2004	Vintage Cars	USA
+10316	2306.25	11	2004	Vintage Cars	UK
+10326	1845	11	2004	Vintage Cars	Sweden
+10339	2493.12	11	2004	Vintage Cars	Japan
+10350	1508.5	12	2004	Vintage Cars	Spain
+10373	2394.3	1	2005	Vintage Cars	Finland
+10385	3164.98	2	2005	Vintage Cars	USA
+10396	3351.09	3	2005	Vintage Cars	USA
+10400	3064.32	4	2005	Vintage Cars	USA
+10414	3891.81	5	2005	Vintage Cars	USA
+10108	5448.8	3	2003	Classic Cars	Philippines
+10122	5494.97	5	2003	Classic Cars	France
+10135	6336.07	7	2003	Classic Cars	USA
+10147	2906.97	9	2003	Classic Cars	USA
+10160	4767.7	10	2003	Classic Cars	USA
+10170	3819.56	11	2003	Classic Cars	Austria
+10181	3861.75	11	2003	Classic Cars	Norway
+10192	6319.35	11	2003	Classic Cars	USA
+10203	6996.42	12	2003	Classic Cars	Spain
+10212	6949.67	1	2004	Classic Cars	Spain
+10225	4550	2	2004	Classic Cars	Switzerland
+10239	4479.63	4	2004	Classic Cars	Finland
+10253	5148	6	2004	Classic Cars	UK
+10266	2932.08	7	2004	Classic Cars	Italy
+10278	3159.75	8	2004	Classic Cars	USA
+10287	4297.32	8	2004	Classic Cars	Switzerland
+10301	7723.5	10	2003	Classic Cars	Norway
+10310	5497.65	10	2004	Classic Cars	Germany
+10321	4052.88	11	2004	Classic Cars	USA
+10331	3135.93	11	2004	Classic Cars	USA
+10342	5013.54	11	2004	Classic Cars	Australia
+10355	5302.72	12	2004	Classic Cars	Spain
+10363	2931.98	1	2005	Classic Cars	Finland
+10378	1757.91	2	2005	Classic Cars	Spain
+10390	6763.05	3	2005	Classic Cars	USA
+10405	11739.7	4	2005	Classic Cars	France
+10419	9240	5	2005	Classic Cars	Austria
+10106	3241.5	2	2003	Planes	Italy
+10119	1968.12	4	2003	Planes	Austria
+10131	4094.5	6	2003	Planes	USA
+10143	1853.32	8	2003	Planes	USA
+10155	3392.84	10	2003	Planes	Finland
+10168	1971.54	10	2003	Planes	USA
+10178	2169.9	11	2003	Planes	France
+10198	2846.17	11	2003	Planes	Philippines
+10210	2018.4	1	2004	Planes	Japan
+10222	2718.72	2	2004	Planes	USA
+10235	1981.65	4	2004	Planes	Canada
+10250	3002.4	5	2004	Planes	USA
+10262	2948.16	6	2004	Planes	Spain
+10275	3357.49	7	2004	Planes	France
+10284	1175.16	8	2004	Planes	Norway
+10296	2292.8	9	2004	Planes	Germany
+10308	3286.49	10	2004	Planes	USA
+10316	2333.7	11	2004	Planes	UK
+10328	2675.05	11	2004	Planes	Italy
+10339	4361.4	11	2004	Planes	Japan
+10351	2018.58	12	2004	Planes	UK
+10361	3710.98	12	2004	Planes	Australia
+10373	2847	1	2005	Planes	Finland
+10386	3006.12	3	2005	Planes	Spain
+10398	2797.84	3	2005	Planes	France
+10401	3843.2	4	2005	Planes	USA
+10416	1351.08	5	2005	Planes	Italy
+10100	1689.03	1	2003	Vintage Cars	USA
+10110	1654.56	3	2003	Vintage Cars	UK
+10124	1528.58	5	2003	Vintage Cars	USA
+10149	1013.48	9	2003	Vintage Cars	USA
+10162	1442.26	10	2003	Vintage Cars	USA
+10173	1163.05	11	2003	Vintage Cars	Italy
+10182	971.98	11	2003	Vintage Cars	USA
+10193	902.66	11	2003	Vintage Cars	Australia
+10204	1295.97	12	2003	Vintage Cars	USA
+10214	1534.72	1	2004	Vintage Cars	Spain
+10227	1185.3	3	2004	Vintage Cars	France
+10242	1698.78	4	2004	Vintage Cars	USA
+10280	1381.05	8	2004	Vintage Cars	Italy
+10288	1340.46	9	2004	Vintage Cars	Singapore
+10303	965.04	10	2004	Vintage Cars	Spain
+10312	1093.99	10	2004	Vintage Cars	USA
+10332	3166.84	11	2004	Vintage Cars	UK
+10346	2143.68	11	2004	Vintage Cars	USA
+10368	1717.64	1	2005	Vintage Cars	USA
+10380	4086.29	2	2005	Vintage Cars	Spain
+10408	553.95	4	2005	Vintage Cars	Japan
+10420	652.35	5	2005	Vintage Cars	Australia
+10104	2921.62	1	2003	Classic Cars	Spain
+10115	5568.64	4	2003	Classic Cars	USA
+10127	1939.8	6	2003	Classic Cars	USA
+10141	3784.8	8	2003	Classic Cars	Finland
+10152	2802.09	9	2003	Classic Cars	Australia
+10165	2384.64	10	2003	Classic Cars	Singapore
+10176	2915.66	11	2003	Classic Cars	Italy
+10184	5795.72	11	2003	Classic Cars	Spain
+10195	3699.88	11	2003	Classic Cars	USA
+10207	2980.6	12	2003	Classic Cars	USA
+10220	5032.74	2	2004	Classic Cars	Ireland
+10230	4737.15	3	2004	Classic Cars	Germany
+10246	6311.2	5	2004	Classic Cars	Spain
+10271	3070.54	7	2004	Classic Cars	USA
+10282	4797.39	8	2004	Classic Cars	USA
+10292	3832.38	9	2004	Classic Cars	USA
+10305	4641.48	10	2004	Classic Cars	USA
+10314	4000.26	10	2004	Classic Cars	Denmark
+10325	5325.76	11	2004	Classic Cars	Norway
+10336	4618.69	11	2004	Classic Cars	France
+10349	3182.97	12	2004	Classic Cars	USA
+10359	2603.04	12	2004	Classic Cars	France
+10371	1408.96	1	2005	Classic Cars	USA
+10383	1972.11	2	2005	Classic Cars	Spain
+10394	5207.75	3	2005	Classic Cars	Spain
+10412	4253.2	5	2005	Classic Cars	Spain
+10103	2873	1	2003	Vintage Cars	Norway
+10111	2253.68	3	2003	Vintage Cars	USA
+10126	3576.12	5	2003	Vintage Cars	Spain
+10139	3276.13	7	2003	Vintage Cars	Australia
+10149	1811.4	9	2003	Vintage Cars	USA
+10163	3845.1	10	2003	Vintage Cars	USA
+10173	2571.14	11	2003	Vintage Cars	Italy
+10183	5035.11	11	2003	Vintage Cars	USA
+10193	2279	11	2003	Vintage Cars	Australia
+10206	3213.87	12	2003	Vintage Cars	Canada
+10215	3532.23	1	2004	Vintage Cars	USA
+10228	3406.59	3	2004	Vintage Cars	USA
+10244	3467.2	4	2004	Vintage Cars	Spain
+10257	3628.94	6	2004	Vintage Cars	USA
+10269	4674.72	7	2004	Vintage Cars	Austria
+10280	1656.69	8	2004	Vintage Cars	Italy
+10290	5171.4	9	2004	Vintage Cars	USA
+10304	3342.57	10	2004	Vintage Cars	France
+10312	4884.88	10	2004	Vintage Cars	USA
+10324	6267.69	11	2004	Vintage Cars	USA
+10333	4424.16	11	2004	Vintage Cars	USA
+10348	1962.09	11	2004	Vintage Cars	Spain
+10358	6847	12	2004	Vintage Cars	Spain
+10369	3476.8	1	2005	Vintage Cars	USA
+10382	4592.61	2	2005	Vintage Cars	USA
+10423	2208.92	5	2005	Vintage Cars	Belgium
+10106	1657.76	2	2003	Planes	Italy
+10120	2479.21	4	2003	Planes	Australia
+10133	3565.92	6	2003	Planes	Spain
+10145	2797.41	8	2003	Planes	USA
+10168	3756	10	2003	Planes	USA
+10210	2840	1	2004	Planes	Japan
+10223	1716.26	2	2004	Planes	Australia
+10235	3245.6	4	2004	Planes	Canada
+10250	2760.94	5	2004	Planes	USA
+10263	1808.4	6	2004	Planes	USA
+10275	1682.37	7	2004	Planes	France
+10284	1491	8	2004	Planes	Norway
+10297	1666.35	9	2004	Planes	Ireland
+10308	3666.08	10	2004	Planes	USA
+10317	2916.2	11	2004	Planes	USA
+10328	2616.98	11	2004	Planes	Italy
+10340	3390.8	11	2004	Planes	Spain
+10353	3146.5	12	2004	Planes	USA
+10361	1561.5	12	2004	Planes	Australia
+10375	10039.6	2	2005	Planes	France
+10386	3167	3	2005	Planes	Spain
+10398	3521.25	3	2005	Planes	France
+10401	4219.28	4	2005	Planes	USA
+10416	3581.76	5	2005	Planes	Italy
+10108	2130.01	3	2003	Classic Cars	Philippines
+10122	2063.06	5	2003	Classic Cars	France
+10135	2008.13	7	2003	Classic Cars	USA
+10147	2004.77	9	2003	Classic Cars	USA
+10159	1543.3	10	2003	Classic Cars	USA
+10169	2269.92	11	2003	Classic Cars	Australia
+10180	1991.92	11	2003	Classic Cars	France
+10191	2916.76	11	2003	Classic Cars	Germany
+10211	2027.52	1	2004	Classic Cars	France
+10225	3235.18	2	2004	Classic Cars	Switzerland
+10238	2062.94	4	2004	Classic Cars	Denmark
+10252	3317.78	5	2004	Classic Cars	France
+10264	3913.69	6	2004	Classic Cars	USA
+10276	3608.64	8	2004	Classic Cars	USA
+10287	3524.8	8	2004	Classic Cars	Switzerland
+10299	2586.88	9	2004	Classic Cars	Finland
+10310	4753.49	10	2004	Classic Cars	Germany
+10319	3684.67	11	2004	Classic Cars	USA
+10331	5715.4	11	2004	Classic Cars	USA
+10343	3098.7	11	2004	Classic Cars	France
+10355	2670.92	12	2004	Classic Cars	Spain
+10363	5154.41	1	2005	Classic Cars	Finland
+10378	4894.17	2	2005	Classic Cars	Spain
+10390	2472.6	3	2005	Classic Cars	USA
+10103	3224.31	1	2003	Trucks and Buses	Norway
+10114	3667.52	4	2003	Trucks and Buses	France
+10126	4141.33	5	2003	Trucks and Buses	Spain
+10140	2829.58	7	2003	Trucks and Buses	USA
+10151	3068.55	9	2003	Trucks and Buses	Finland
+10164	2634.96	10	2003	Trucks and Buses	Austria
+10175	2436.72	11	2003	Trucks and Buses	UK
+10184	4607.36	11	2003	Trucks and Buses	Spain
+10194	3598.99	11	2003	Trucks and Buses	France
+10207	3964.1	12	2003	Trucks and Buses	USA
+10217	2244.9	2	2004	Trucks and Buses	Singapore
+10229	2793	3	2004	Trucks and Buses	USA
+10245	4133.64	5	2004	Trucks and Buses	USA
+10259	3900.6	6	2004	Trucks and Buses	Singapore
+10270	2743.04	7	2004	Trucks and Buses	Australia
+10281	2402.07	8	2004	Trucks and Buses	USA
+10291	2178.54	9	2004	Trucks and Buses	Sweden
+10305	3155.04	10	2004	Trucks and Buses	USA
+10313	2366.28	10	2004	Trucks and Buses	Canada
+10324	1963.6	11	2004	Trucks and Buses	USA
+10335	4746.28	11	2004	Trucks and Buses	USA
+10348	6386.94	11	2004	Trucks and Buses	Spain
+10358	4428	12	2004	Trucks and Buses	Spain
+10371	4044.04	1	2005	Trucks and Buses	USA
+10382	2708.42	2	2005	Trucks and Buses	USA
+10411	2904.72	5	2005	Trucks and Buses	Canada
+10425	3553.88	5	2005	Trucks and Buses	France
+10107	1858	2	2003	Motorcycles	USA
+10120	2461.36	4	2003	Motorcycles	Australia
+10133	2642.01	6	2003	Motorcycles	Spain
+10145	3098.7	8	2003	Motorcycles	USA
+10168	3244.36	10	2003	Motorcycles	USA
+10188	4351.16	11	2003	Motorcycles	Norway
+10210	3675.86	1	2004	Motorcycles	Japan
+10223	2475.27	2	2004	Motorcycles	Australia
+10235	4177.49	4	2004	Motorcycles	Canada
+10250	3282.28	5	2004	Motorcycles	USA
+10263	2477.21	6	2004	Motorcycles	USA
+10275	1883.93	7	2004	Motorcycles	France
+10285	3658.93	8	2004	Motorcycles	USA
+10297	2856.88	9	2004	Motorcycles	Ireland
+10308	1917.84	10	2004	Motorcycles	USA
+10318	5305.36	11	2004	Motorcycles	USA
+10329	2875.95	11	2004	Motorcycles	USA
+10340	6482.85	11	2004	Motorcycles	Spain
+10353	3733.82	12	2004	Motorcycles	USA
+10363	6576.5	1	2005	Motorcycles	Finland
+10375	6353.27	2	2005	Motorcycles	France
+10387	4175.6	3	2005	Motorcycles	Singapore
+10401	4992.61	4	2005	Motorcycles	USA
+10416	4764.6	5	2005	Motorcycles	Italy
+10108	1173.15	3	2003	Motorcycles	Philippines
+10122	1384.46	5	2003	Motorcycles	France
+10135	1327.59	7	2003	Motorcycles	USA
+10145	1109.8	8	2003	Motorcycles	USA
+10159	1239	10	2003	Motorcycles	USA
+10169	1035.58	11	2003	Motorcycles	Australia
+10180	1545.64	11	2003	Motorcycles	France
+10190	1517.54	11	2003	Motorcycles	Spain
+10211	1731.84	1	2004	Motorcycles	France
+10224	1695.49	2	2004	Motorcycles	France
+10237	1045.98	4	2004	Motorcycles	USA
+10252	1738.08	5	2004	Motorcycles	France
+10264	651.8	6	2004	Motorcycles	USA
+10276	988.47	8	2004	Motorcycles	USA
+10285	1518.11	8	2004	Motorcycles	USA
+10299	1013.76	9	2004	Motorcycles	Finland
+10310	1549.8	10	2004	Motorcycles	Germany
+10319	1108.38	11	2004	Motorcycles	USA
+10331	4102.56	11	2004	Motorcycles	USA
+10343	3713.16	11	2004	Motorcycles	France
+10355	1513.54	12	2004	Motorcycles	Spain
+10364	2317.44	1	2005	Motorcycles	France
+10378	3298.4	2	2005	Motorcycles	Spain
+10390	1826.96	3	2005	Motorcycles	USA
+10403	1206.9	4	2005	Motorcycles	UK
+10104	1666.7	1	2003	Trucks and Buses	Spain
+10114	1560.44	4	2003	Trucks and Buses	France
+10127	2337.75	6	2003	Trucks and Buses	USA
+10141	1103.76	8	2003	Trucks and Buses	Finland
+10151	2617.85	9	2003	Trucks and Buses	Finland
+10165	2207.52	10	2003	Trucks and Buses	Singapore
+10175	3165.5	11	2003	Trucks and Buses	UK
+10184	2071.41	11	2003	Trucks and Buses	Spain
+10195	1385.28	11	2003	Trucks and Buses	USA
+10207	1621.62	12	2003	Trucks and Buses	USA
+10219	1931.65	2	2004	Trucks and Buses	USA
+10229	1244.53	3	2004	Trucks and Buses	USA
+10246	1704.5	5	2004	Trucks and Buses	Spain
+10259	1753.2	6	2004	Trucks and Buses	Singapore
+10271	1666.7	7	2004	Trucks and Buses	USA
+10281	1710.89	8	2004	Trucks and Buses	USA
+10292	2326.5	9	2004	Trucks and Buses	USA
+10305	2316	10	2004	Trucks and Buses	USA
+10313	1727.1	10	2004	Trucks and Buses	Canada
+10325	8844.12	11	2004	Trucks and Buses	Norway
+10335	2424	11	2004	Trucks and Buses	USA
+10349	1535.49	12	2004	Trucks and Buses	USA
+10359	6358.68	12	2004	Trucks and Buses	France
+10371	1329.4	1	2005	Trucks and Buses	USA
+10383	1701.76	2	2005	Trucks and Buses	Spain
+10394	2259.72	3	2005	Trucks and Buses	Spain
+10412	925.3	5	2005	Trucks and Buses	Spain
+10425	482.13	5	2005	Trucks and Buses	France
+10104	3227.63	1	2003	Trains	Spain
+10116	1711.26	4	2003	Trains	Belgium
+10127	2054.36	6	2003	Trains	USA
+10142	3131.94	8	2003	Trains	USA
+10152	1681.35	9	2003	Trains	Australia
+10165	2351.36	10	2003	Trains	Singapore
+10176	1408	11	2003	Trains	Italy
+10184	2445.6	11	2003	Trains	Spain
+10195	1804.44	11	2003	Trains	USA
+10207	2544.75	12	2003	Trains	USA
+10220	1056.4	2	2004	Trains	Ireland
+10230	2801.4	3	2004	Trains	Germany
+10247	1988.4	5	2004	Trains	Finland
+10272	2908.35	7	2004	Trains	USA
+10282	2147.4	8	2004	Trains	USA
+10292	2099.63	9	2004	Trains	USA
+10306	2315.18	10	2004	Trains	UK
+10314	2327.15	10	2004	Trains	Denmark
+10325	5377.4	11	2004	Trains	Norway
+10336	2626.01	11	2004	Trains	France
+10350	4406.4	12	2004	Trains	Spain
+10359	4301.22	12	2004	Trains	France
+10371	2986.5	1	2005	Trains	USA
+10383	1587.08	2	2005	Trains	Spain
+10394	1808.4	3	2005	Trains	Spain
+10413	1193.04	5	2005	Trains	USA
+10103	3403.35	1	2003	Trucks and Buses	Norway
+10113	1575.96	3	2003	Trucks and Buses	USA
+10126	1630.2	5	2003	Trucks and Buses	Spain
+10140	1701.28	7	2003	Trucks and Buses	USA
+10150	2850.82	9	2003	Trucks and Buses	Singapore
+10164	2692.06	10	2003	Trucks and Buses	Austria
+10175	2174.42	11	2003	Trucks and Buses	UK
+10183	3167.36	11	2003	Trucks and Buses	USA
+10194	2142.66	11	2003	Trucks and Buses	France
+10206	2117.52	12	2003	Trucks and Buses	Canada
+10217	2419.95	2	2004	Trucks and Buses	Singapore
+10229	2191.2	3	2004	Trucks and Buses	USA
+10245	3043.04	5	2004	Trucks and Buses	USA
+10258	1228.2	6	2004	Trucks and Buses	Japan
+10270	1330.35	7	2004	Trucks and Buses	Australia
+10281	2792.52	8	2004	Trucks and Buses	USA
+10291	2296	9	2004	Trucks and Buses	Sweden
+10304	2629.44	10	2004	Trucks and Buses	France
+10313	1912.16	10	2004	Trucks and Buses	Canada
+10324	8209.44	11	2004	Trucks and Buses	USA
+10333	2431.77	11	2004	Trucks and Buses	USA
+10348	3139.99	11	2004	Trucks and Buses	Spain
+10358	5669.64	12	2004	Trucks and Buses	Spain
+10370	3160.25	1	2005	Trucks and Buses	Australia
+10382	6799.68	2	2005	Trucks and Buses	USA
+10411	1867.32	5	2005	Trucks and Buses	Canada
+10424	2702.04	5	2005	Trucks and Buses	Spain
+10106	2406.36	2	2003	Vintage Cars	Italy
+10120	2094.67	4	2003	Vintage Cars	Australia
+10133	2797.9	6	2003	Vintage Cars	Spain
+10144	1637.2	8	2003	Vintage Cars	Belgium
+10168	2281.91	10	2003	Vintage Cars	USA
+10210	2307.24	1	2004	Vintage Cars	Japan
+10223	1320.8	2	2004	Vintage Cars	Australia
+10235	2642.82	4	2004	Vintage Cars	Canada
+10250	3061	5	2004	Vintage Cars	USA
+10262	3164.4	6	2004	Vintage Cars	Spain
+10275	1791.16	7	2004	Vintage Cars	France
+10284	4093	8	2004	Vintage Cars	Norway
+10297	2234.4	9	2004	Vintage Cars	Ireland
+10308	3037.84	10	2004	Vintage Cars	USA
+10316	1419.84	11	2004	Vintage Cars	UK
+10328	1948.08	11	2004	Vintage Cars	Italy
+10340	2307.24	11	2004	Vintage Cars	Spain
+10353	1780.4	12	2004	Vintage Cars	USA
+10361	3544.17	12	2004	Vintage Cars	Australia
+10375	3619.44	2	2005	Vintage Cars	France
+10388	3918.95	3	2005	Vintage Cars	USA
+10398	1483.02	3	2005	Vintage Cars	France
+10401	4819.26	4	2005	Vintage Cars	USA
+10416	1591.72	5	2005	Vintage Cars	Italy
+10108	3669.78	3	2003	Motorcycles	Philippines
+10121	2168.5	5	2003	Motorcycles	France
+10135	2694	7	2003	Motorcycles	USA
+10145	3251.34	8	2003	Motorcycles	USA
+10159	2347.15	10	2003	Motorcycles	USA
+10169	3920.88	11	2003	Motorcycles	Australia
+10180	2514.6	11	2003	Motorcycles	France
+10190	3600.24	11	2003	Motorcycles	Spain
+10211	4040.03	1	2004	Motorcycles	France
+10224	3336.9	2	2004	Motorcycles	France
+10237	3113.64	4	2004	Motorcycles	USA
+10252	2832	5	2004	Motorcycles	France
+10264	3330.98	6	2004	Motorcycles	USA
+10276	4304.64	8	2004	Motorcycles	USA
+10285	2600.26	8	2004	Motorcycles	USA
+10299	4382.16	9	2004	Motorcycles	Finland
+10309	4235	10	2004	Motorcycles	Norway
+10319	2626.8	11	2004	Motorcycles	USA
+10331	5026.56	11	2004	Motorcycles	USA
+10341	2201.62	11	2004	Motorcycles	Austria
+10355	4326.8	12	2004	Motorcycles	Spain
+10365	3425.18	1	2005	Motorcycles	USA
+10375	4701.88	2	2005	Motorcycles	France
+10390	2204.1	3	2005	Motorcycles	USA
+10403	5189.4	4	2005	Motorcycles	UK
+10106	1565.85	2	2003	Vintage Cars	Italy
+10120	2480.38	4	2003	Vintage Cars	Australia
+10133	1355.13	6	2003	Vintage Cars	Spain
+10143	1246.44	8	2003	Vintage Cars	USA
+10156	820.4	10	2003	Vintage Cars	Spain
+10168	2492.64	10	2003	Vintage Cars	USA
+10199	1113.6	12	2003	Vintage Cars	USA
+10210	1763.86	1	2004	Vintage Cars	Japan
+10223	1896.66	2	2004	Vintage Cars	Australia
+10235	1449.35	4	2004	Vintage Cars	Canada
+10250	1869.48	5	2004	Vintage Cars	USA
+10262	1860.53	6	2004	Vintage Cars	Spain
+10275	1724.82	7	2004	Vintage Cars	France
+10284	1713.69	8	2004	Vintage Cars	Norway
+10296	1259.44	9	2004	Vintage Cars	Germany
+10308	2051.08	10	2004	Vintage Cars	USA
+10316	1617.38	11	2004	Vintage Cars	UK
+10328	1765.62	11	2004	Vintage Cars	Italy
+10340	2024.8	11	2004	Vintage Cars	Spain
+10353	3288.4	12	2004	Vintage Cars	USA
+10361	2725.47	12	2004	Vintage Cars	Australia
+10375	3224.2	2	2005	Vintage Cars	France
+10388	3211.38	3	2005	Vintage Cars	USA
+10398	1796.34	3	2005	Vintage Cars	France
+10401	1979.6	4	2005	Vintage Cars	USA
+10416	1921.41	5	2005	Vintage Cars	Italy
+10104	3705.24	1	2003	Trucks and Buses	Spain
+10115	2843.91	4	2003	Trucks and Buses	USA
+10127	6176.42	6	2003	Trucks and Buses	USA
+10141	5500.44	8	2003	Trucks and Buses	Finland
+10151	3220.1	9	2003	Trucks and Buses	Finland
+10165	4556.16	10	2003	Trucks and Buses	Singapore
+10176	3114.89	11	2003	Trucks and Buses	Italy
+10184	4948.2	11	2003	Trucks and Buses	Spain
+10195	5161.17	11	2003	Trucks and Buses	USA
+10207	2657.76	12	2003	Trucks and Buses	USA
+10220	3983.05	2	2004	Trucks and Buses	Ireland
+10230	3974.94	3	2004	Trucks and Buses	Germany
+10246	2928.42	5	2004	Trucks and Buses	Spain
+10259	3054.57	6	2004	Trucks and Buses	Singapore
+10271	3345.26	7	2004	Trucks and Buses	USA
+10282	4310.72	8	2004	Trucks and Buses	USA
+10292	4983.14	9	2004	Trucks and Buses	USA
+10305	4618.32	10	2004	Trucks and Buses	USA
+10314	3403.12	10	2004	Trucks and Buses	Denmark
+10325	5190.42	11	2004	Trucks and Buses	Norway
+10336	3141.57	11	2004	Trucks and Buses	France
+10350	2213.4	12	2004	Trucks and Buses	Spain
+10359	4896.7	12	2004	Trucks and Buses	France
+10371	2714.4	1	2005	Trucks and Buses	USA
+10383	3087.05	2	2005	Trucks and Buses	Spain
+10395	5692.96	3	2005	Trucks and Buses	France
+10412	3460.86	5	2005	Trucks and Buses	Spain
+10425	1895.94	5	2005	Trucks and Buses	France
+10104	1705.92	1	2003	Trains	Spain
+10117	1033.41	4	2003	Trains	Singapore
+10127	3179.52	6	2003	Trains	USA
+10142	2091.18	8	2003	Trains	USA
+10153	1779.71	9	2003	Trains	Spain
+10165	2537.64	10	2003	Trains	Singapore
+10176	2448.72	11	2003	Trains	Italy
+10185	972.4	11	2003	Trains	USA
+10196	2856.14	11	2003	Trains	USA
+10208	1968.3	1	2004	Trains	France
+10220	2056.2	2	2004	Trains	Ireland
+10230	2242.02	3	2004	Trains	Germany
+10247	3128.65	5	2004	Trains	Finland
+10272	2443.26	7	2004	Trains	USA
+10282	2470.86	8	2004	Trains	USA
+10292	1927.45	9	2004	Trains	USA
+10306	2051.56	10	2004	Trains	UK
+10314	2337.38	10	2004	Trains	Denmark
+10325	5932.96	11	2004	Trains	Norway
+10337	2296.77	11	2004	Trains	USA
+10350	6490.88	12	2004	Trains	Spain
+10359	1623.25	12	2004	Trains	France
+10372	1405.92	1	2005	Trains	Japan
+10383	2282.28	2	2005	Trains	Spain
+10395	8977.05	3	2005	Trains	France
+10413	3256.35	5	2005	Trains	USA
+10108	2821.66	3	2003	Motorcycles	Philippines
+10121	3293.4	5	2003	Motorcycles	France
+10135	4224	7	2003	Motorcycles	USA
+10145	3091.68	8	2003	Motorcycles	USA
+10159	2219.6	10	2003	Motorcycles	USA
+10169	3866.4	11	2003	Motorcycles	Australia
+10180	1964.76	11	2003	Motorcycles	France
+10190	2668.8	11	2003	Motorcycles	Spain
+10211	3222	1	2004	Motorcycles	France
+10224	3864.5	2	2004	Motorcycles	France
+10237	1366.8	4	2004	Motorcycles	USA
+10252	3475.68	5	2004	Motorcycles	France
+10264	4206.5	6	2004	Motorcycles	USA
+10276	1486.38	8	2004	Motorcycles	USA
+10285	3077.88	8	2004	Motorcycles	USA
+10299	3544.2	9	2004	Motorcycles	Finland
+10309	2483.04	10	2004	Motorcycles	Norway
+10319	3478.05	11	2004	Motorcycles	USA
+10331	3657.8	11	2004	Motorcycles	USA
+10341	4682.36	11	2004	Motorcycles	Austria
+10356	3937.7	12	2004	Motorcycles	France
+10365	4984.32	1	2005	Motorcycles	USA
+10375	5406.66	2	2005	Motorcycles	France
+10390	3491.18	3	2005	Motorcycles	USA
+10403	2118.54	4	2005	Motorcycles	UK
+10105	2897.47	2	2003	Ships	Denmark
+10119	1916.75	4	2003	Ships	Austria
+10129	1860	6	2003	Ships	UK
+10142	2624	8	2003	Ships	USA
+10153	2780.81	9	2003	Ships	Spain
+10167	3239.62	10	2003	Ships	Sweden
+10177	1824	11	2003	Ships	Spain
+10185	1134	11	2003	Ships	USA
+10197	1487.41	11	2003	Ships	Spain
+10208	2837.46	1	2004	Ships	France
+10222	1942.77	2	2004	Ships	USA
+10233	2544.12	3	2004	Ships	USA
+10248	2568.24	5	2004	Ships	USA
+10261	2108	6	2004	Ships	Canada
+10273	1372.14	7	2004	Ships	Belgium
+10283	3540.15	8	2004	Ships	Canada
+10295	1958.84	9	2004	Ships	USA
+10306	2700	10	2004	Ships	UK
+10315	2542	10	2004	Ships	France
+10326	2340	11	2004	Ships	Sweden
+10339	2816.44	11	2004	Ships	Japan
+10350	3526.82	12	2004	Ships	Spain
+10373	4627.92	1	2005	Ships	Finland
+10385	1933.5	2	2005	Ships	USA
+10396	2600.13	3	2005	Ships	USA
+10414	2639.58	5	2005	Ships	USA
+10106	3312.97	2	2003	Planes	Italy
+10120	3863.87	4	2003	Planes	Australia
+10133	1863.36	6	2003	Planes	Spain
+10143	3945.96	8	2003	Planes	USA
+10156	4954.08	10	2003	Planes	Spain
+10168	2762.2	10	2003	Planes	USA
+10199	3989.76	12	2003	Planes	USA
+10210	1649.55	1	2004	Planes	Japan
+10223	2534.75	2	2004	Planes	Australia
+10235	2580.25	4	2004	Planes	Canada
+10250	2831.54	5	2004	Planes	USA
+10262	3361.2	6	2004	Planes	Spain
+10275	2864.32	7	2004	Planes	France
+10284	1994.88	8	2004	Planes	Norway
+10296	4296.6	9	2004	Planes	Germany
+10308	2224.95	10	2004	Planes	USA
+10316	2795.14	11	2004	Planes	UK
+10328	2762.1	11	2004	Planes	Italy
+10340	2658	11	2004	Planes	Spain
+10353	5043.87	12	2004	Planes	USA
+10361	1210.8	12	2004	Planes	Australia
+10375	3029.19	2	2005	Planes	France
+10388	10066.6	3	2005	Planes	USA
+10398	4121.43	3	2005	Planes	France
+10401	1135.31	4	2005	Planes	USA
+10416	2100.82	5	2005	Planes	Italy
+10105	2034.35	2	2003	Ships	Denmark
+10117	3027.84	4	2003	Ships	Singapore
+10128	3104	6	2003	Ships	Spain
+10142	3612.43	8	2003	Ships	USA
+10153	2711.88	9	2003	Ships	Spain
+10166	3013.97	10	2003	Ships	USA
+10177	2738.54	11	2003	Ships	Spain
+10185	2832	11	2003	Ships	USA
+10196	4720	11	2003	Ships	USA
+10208	3222	1	2004	Ships	France
+10221	2231	2	2004	Ships	Belgium
+10232	2296.84	3	2004	Ships	UK
+10248	4157.2	5	2004	Ships	USA
+10273	2146.2	7	2004	Ships	Belgium
+10282	3724.23	8	2004	Ships	USA
+10293	2084.81	9	2004	Ships	Italy
+10306	3488.78	10	2004	Ships	UK
+10314	1753.06	10	2004	Ships	Denmark
+10327	3469.2	11	2004	Ships	Denmark
+10337	2530.8	11	2004	Ships	USA
+10350	2924.32	12	2004	Ships	Spain
+10372	4496.8	1	2005	Ships	Japan
+10384	6397.44	2	2005	Ships	USA
+10397	2577.6	3	2005	Ships	France
+10414	3533.62	5	2005	Ships	USA
+10106	3177.3	2	2003	Ships	Italy
+10119	2730.06	4	2003	Ships	Austria
+10131	1891.78	6	2003	Ships	USA
+10143	2612.48	8	2003	Ships	USA
+10155	2925.76	10	2003	Ships	Finland
+10167	2940.02	10	2003	Ships	Sweden
+10178	3293.24	11	2003	Ships	France
+10186	2389.68	11	2003	Ships	UK
+10197	2172.48	11	2003	Ships	Spain
+10209	2927.43	1	2004	Ships	USA
+10222	2659.54	2	2004	Ships	USA
+10249	3838	5	2004	Ships	USA
+10262	4142.16	6	2004	Ships	Spain
+10274	2172.48	7	2004	Ships	USA
+10283	1882.8	8	2004	Ships	Canada
+10296	3477.86	9	2004	Ships	Germany
+10307	3323.84	10	2004	Ships	USA
+10316	4195.8	11	2004	Ships	UK
+10328	4156.58	11	2004	Ships	Italy
+10339	3918.75	11	2004	Ships	Japan
+10352	2352.67	12	2004	Ships	USA
+10361	1089.36	12	2004	Ships	Australia
+10373	2701.12	1	2005	Ships	Finland
+10386	2487.04	3	2005	Ships	Spain
+10398	3910.32	3	2005	Ships	France
+10400	4038.8	4	2005	Ships	USA
+10415	3070.4	5	2005	Ships	Australia
+10106	3763.46	2	2003	Planes	Italy
+10120	2584.8	4	2003	Planes	Australia
+10131	4427.6	6	2003	Planes	USA
+10143	2152.02	8	2003	Planes	USA
+10155	2353.4	10	2003	Planes	Finland
+10168	3431.39	10	2003	Planes	USA
+10178	1930.5	11	2003	Planes	France
+10198	4774.56	11	2003	Planes	Philippines
+10210	2592.72	1	2004	Planes	Japan
+10222	3246.75	2	2004	Planes	USA
+10235	3372.5	4	2004	Planes	Canada
+10250	3909.15	5	2004	Planes	USA
+10262	2994.75	6	2004	Planes	Spain
+10275	4472.52	7	2004	Planes	France
+10284	4576.95	8	2004	Planes	Norway
+10296	2441.04	9	2004	Planes	Germany
+10308	3106.25	10	2004	Planes	USA
+10316	2706.41	11	2004	Planes	UK
+10328	4021.53	11	2004	Planes	Italy
+10340	4826.25	11	2004	Planes	Spain
+10352	4935.28	12	2004	Planes	USA
+10361	2754.7	12	2004	Planes	Australia
+10375	3856.71	2	2005	Planes	France
+10386	3102.08	3	2005	Planes	Spain
+10398	1908.72	3	2005	Planes	France
+10401	7543.75	4	2005	Planes	USA
+10416	2457.18	5	2005	Planes	Italy
+10105	2038.87	2	2003	Ships	Denmark
+10119	2499.26	4	2003	Ships	Austria
+10129	3838.05	6	2003	Ships	UK
+10143	2643.99	8	2003	Ships	USA
+10154	2315.88	10	2003	Ships	USA
+10167	3225.06	10	2003	Ships	Sweden
+10177	2451.84	11	2003	Ships	Spain
+10185	2254.98	11	2003	Ships	USA
+10197	3939.5	11	2003	Ships	Spain
+10208	3424.7	1	2004	Ships	France
+10222	2914.2	2	2004	Ships	USA
+10233	2389.6	3	2004	Ships	USA
+10248	2428.48	5	2004	Ships	USA
+10261	3021.48	6	2004	Ships	Canada
+10273	2610.72	7	2004	Ships	Belgium
+10283	3091.19	8	2004	Ships	Canada
+10295	2576.2	9	2004	Ships	USA
+10306	3232.31	10	2004	Ships	UK
+10316	3573.6	11	2004	Ships	UK
+10327	2022.51	11	2004	Ships	Denmark
+10339	3717.5	11	2004	Ships	Japan
+10350	2185.15	12	2004	Ships	Spain
+10373	2883.53	1	2005	Ships	Finland
+10386	5017.57	3	2005	Ships	Spain
+10397	1463	3	2005	Ships	France
+10414	2352.59	5	2005	Ships	USA
+10103	4460.82	1	2003	Classic Cars	Norway
+10114	4758.18	4	2003	Classic Cars	France
+10126	4597.2	5	2003	Classic Cars	Spain
+10140	4114.8	7	2003	Classic Cars	USA
+10150	2104	9	2003	Classic Cars	Singapore
+10164	3195.27	10	2003	Classic Cars	Austria
+10175	3611.16	11	2003	Classic Cars	UK
+10183	2000.77	11	2003	Classic Cars	USA
+10194	2314.26	11	2003	Classic Cars	France
+10206	3871.89	12	2003	Classic Cars	Canada
+10217	2728	2	2004	Classic Cars	Singapore
+10229	5614	3	2004	Classic Cars	USA
+10245	4628.8	5	2004	Classic Cars	USA
+10258	3641.4	6	2004	Classic Cars	Japan
+10270	4048	7	2004	Classic Cars	Australia
+10281	2321.46	8	2004	Classic Cars	USA
+10291	3256.96	9	2004	Classic Cars	Sweden
+10304	4208	10	2004	Classic Cars	France
+10313	2973.9	10	2004	Classic Cars	Canada
+10324	4248.3	11	2004	Classic Cars	USA
+10336	9558.8	11	2004	Classic Cars	France
+10348	2650.56	11	2004	Classic Cars	Spain
+10358	3761.37	12	2004	Classic Cars	Spain
+10371	4301.34	1	2005	Classic Cars	USA
+10382	1864.56	2	2005	Classic Cars	USA
+10411	3576.8	5	2005	Classic Cars	Canada
+10424	3722.32	5	2005	Classic Cars	Spain
+10106	3986.56	2	2003	Planes	Italy
+10120	3417.12	4	2003	Planes	Australia
+10133	2691.09	6	2003	Planes	Spain
+10145	2752.6	8	2003	Planes	USA
+10168	4527.72	10	2003	Planes	USA
+10188	3957.05	11	2003	Planes	Norway
+10210	2818	1	2004	Planes	Japan
+10223	3199.86	2	2004	Planes	Australia
+10235	2402.75	4	2004	Planes	Canada
+10250	6055.72	5	2004	Planes	USA
+10263	5465.16	6	2004	Planes	USA
+10275	6378.72	7	2004	Planes	France
+10285	5392.8	8	2004	Planes	USA
+10297	3986.5	9	2004	Planes	Ireland
+10308	4009.23	10	2004	Planes	USA
+10318	7119	11	2004	Planes	USA
+10328	4072.2	11	2004	Planes	Italy
+10340	4094.51	11	2004	Planes	Spain
+10353	3302.4	12	2004	Planes	USA
+10361	3186.48	12	2004	Planes	Australia
+10375	1668.25	2	2005	Planes	France
+10388	7154.5	3	2005	Planes	USA
+10398	2810.83	3	2005	Planes	France
+10401	2018.31	4	2005	Planes	USA
+10416	5642.83	5	2005	Planes	Italy
+10106	3273.6	2	2003	Planes	Italy
+10120	3268	4	2003	Planes	Australia
+10143	2688	8	2003	Planes	USA
+10155	3715.2	10	2003	Planes	Finland
+10168	4608	10	2003	Planes	USA
+10199	3131.2	12	2003	Planes	USA
+10210	2678.4	1	2004	Planes	Japan
+10223	1747.2	2	2004	Planes	Australia
+10235	2944	4	2004	Planes	Canada
+10250	2956.8	5	2004	Planes	USA
+10262	2052	6	2004	Planes	Spain
+10275	3164.8	7	2004	Planes	France
+10284	1740	8	2004	Planes	Norway
+10296	1777.6	9	2004	Planes	Germany
+10308	1831.2	10	2004	Planes	USA
+10316	3609.6	11	2004	Planes	UK
+10328	2112	11	2004	Planes	Italy
+10341	3644.12	11	2004	Planes	Austria
+10353	3523.85	12	2004	Planes	USA
+10361	5001.92	12	2004	Planes	Australia
+10375	5208.72	2	2005	Planes	France
+10386	3018.88	3	2005	Planes	Spain
+10398	1902.4	3	2005	Planes	France
+10401	7084	4	2005	Planes	USA
+10416	2620.8	5	2005	Planes	Italy
+10105	3164.46	2	2003	Ships	Denmark
+10118	4219.2	4	2003	Ships	Spain
+10129	3828.3	6	2003	Ships	UK
+10142	2334.99	8	2003	Ships	USA
+10153	4407.5	9	2003	Ships	Spain
+10167	2812.8	10	2003	Ships	Sweden
+10177	4055.04	11	2003	Ships	Spain
+10185	3891.66	11	2003	Ships	USA
+10197	2488.32	11	2003	Ships	Spain
+10208	4447.4	1	2004	Ships	France
+10222	4187.22	2	2004	Ships	USA
+10232	4615.68	3	2004	Ships	UK
+10248	3245.4	5	2004	Ships	USA
+10261	2203.75	6	2004	Ships	Canada
+10273	3446	7	2004	Ships	Belgium
+10283	1939.3	8	2004	Ships	Canada
+10295	3473.78	9	2004	Ships	USA
+10306	2884.8	10	2004	Ships	UK
+10315	2670.65	10	2004	Ships	France
+10327	3440	11	2004	Ships	Denmark
+10337	2770.78	11	2004	Ships	USA
+10350	2397.54	12	2004	Ships	Spain
+10373	3275.56	1	2005	Ships	Finland
+10386	4143.6	3	2005	Ships	Spain
+10397	5192.64	3	2005	Ships	France
+10414	3029.04	5	2005	Ships	USA
+10105	2556.18	2	2003	Ships	Denmark
+10117	3753.9	4	2003	Ships	Singapore
+10129	2562.3	6	2003	Ships	UK
+10142	3245.58	8	2003	Ships	USA
+10153	2204.6	9	2003	Ships	Spain
+10167	3003	10	2003	Ships	Sweden
+10177	2526.48	11	2003	Ships	Spain
+10185	1747.9	11	2003	Ships	USA
+10197	3267.25	11	2003	Ships	Spain
+10208	2818.53	1	2004	Ships	France
+10222	2955.54	2	2004	Ships	USA
+10232	2885.05	3	2004	Ships	UK
+10248	3162.95	5	2004	Ships	USA
+10261	4071.5	6	2004	Ships	Canada
+10273	2969.46	7	2004	Ships	Belgium
+10283	3396.44	8	2004	Ships	Canada
+10294	4692.6	9	2004	Ships	USA
+10306	3515.7	10	2004	Ships	UK
+10315	3380.69	10	2004	Ships	France
+10327	3204.57	11	2004	Ships	Denmark
+10337	2588.04	11	2004	Ships	USA
+10350	2854.75	12	2004	Ships	Spain
+10373	4025.6	1	2005	Ships	Finland
+10386	2864.4	3	2005	Ships	Spain
+10397	3789.72	3	2005	Ships	France
+10414	2439.99	5	2005	Ships	USA
+10106	2949.12	2	2003	Planes	Italy
+10119	1539.72	4	2003	Planes	Austria
+10131	2213.38	6	2003	Planes	USA
+10143	2919.58	8	2003	Planes	USA
+10155	3778.28	10	2003	Planes	Finland
+10168	3233.49	10	2003	Planes	USA
+10178	3431.25	11	2003	Planes	France
+10198	2546.8	11	2003	Planes	Philippines
+10210	2953.86	1	2004	Planes	Japan
+10222	3183.29	2	2004	Planes	USA
+10235	2466.7	4	2004	Planes	Canada
+10250	2363.22	5	2004	Planes	USA
+10262	2487.45	6	2004	Planes	Spain
+10275	2249.05	7	2004	Planes	France
+10284	2061.12	8	2004	Planes	Norway
+10296	4071.14	9	2004	Planes	Germany
+10308	2656.29	10	2004	Planes	USA
+10316	2736.36	11	2004	Planes	UK
+10328	3348.93	11	2004	Planes	Italy
+10339	2893	11	2004	Planes	Japan
+10352	1661.22	12	2004	Planes	USA
+10361	4277.35	12	2004	Planes	Australia
+10373	2502.9	1	2005	Planes	Finland
+10386	3801.6	3	2005	Planes	Spain
+10398	3144.96	3	2005	Planes	France
+10401	2031.4	4	2005	Planes	USA
+10416	2674.17	5	2005	Planes	Italy
+10106	2526.72	2	2003	Planes	Italy
+10119	1348.76	4	2003	Planes	Austria
+10131	875.91	6	2003	Planes	USA
+10143	1874.05	8	2003	Planes	USA
+10155	1671.44	10	2003	Planes	Finland
+10167	1668.4	10	2003	Planes	Sweden
+10178	2301.75	11	2003	Planes	France
+10186	1459.92	11	2003	Planes	UK
+10197	1209.59	11	2003	Planes	Spain
+10209	2145.12	1	2004	Planes	USA
+10222	1416.39	2	2004	Planes	USA
+10249	1843.52	5	2004	Planes	USA
+10262	1199.31	6	2004	Planes	Spain
+10274	1875.2	7	2004	Planes	USA
+10283	2477.23	8	2004	Planes	Canada
+10296	948.99	9	2004	Planes	Germany
+10307	1823.42	10	2004	Planes	USA
+10316	1485.8	11	2004	Planes	UK
+10329	3789.72	11	2004	Planes	USA
+10339	2060.37	11	2004	Planes	Japan
+10352	2579.36	12	2004	Planes	USA
+10361	2189.6	12	2004	Planes	Australia
+10373	1624.25	1	2005	Planes	Finland
+10386	4357.5	3	2005	Planes	Spain
+10398	1367.48	3	2005	Planes	France
+10400	1122.4	4	2005	Planes	USA
+10415	2419.62	5	2005	Planes	Australia
+10105	1419.5	2	2003	Ships	Denmark
+10117	2184	4	2003	Ships	Singapore
+10129	2079.04	6	2003	Ships	UK
+10142	1724.97	8	2003	Ships	USA
+10153	3003	9	2003	Ships	Spain
+10167	1846.42	10	2003	Ships	Sweden
+10177	2009.2	11	2003	Ships	Spain
+10185	1804.04	11	2003	Ships	USA
+10197	2109.66	11	2003	Ships	Spain
+10208	2682.96	1	2004	Ships	France
+10222	2280.24	2	2004	Ships	USA
+10232	1192.56	3	2004	Ships	UK
+10248	1506.96	5	2004	Ships	USA
+10261	1472.62	6	2004	Ships	Canada
+10273	1696.82	7	2004	Ships	Belgium
+10283	1693.56	8	2004	Ships	Canada
+10293	1921.92	9	2004	Ships	Italy
+10306	2082.85	10	2004	Ships	UK
+10315	2227.6	10	2004	Ships	France
+10327	3209.38	11	2004	Ships	Denmark
+10337	4080.72	11	2004	Ships	USA
+10350	2244.4	12	2004	Ships	Spain
+10373	3978.51	1	2005	Ships	Finland
+10386	5417.57	3	2005	Ships	Spain
+10397	2116.16	3	2005	Ships	France
+10414	3079.44	5	2005	Ships	USA
