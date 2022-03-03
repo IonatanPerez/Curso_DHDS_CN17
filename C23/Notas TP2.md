@@ -36,12 +36,12 @@
     - Comenzar por un analisis de las variables que les parezcan mas significativas con modelos de regresion simples. Hacer graficos (porque son las pocas cosas de las que pueden hacer graficos) mostrando los resultados obtenidos.
     - Hacer una regresion lineal multiple usando statsmodel para poder interpretar la significancia estadistica de los coeficientes obtenidos. Discutir los resultados y en funcion de ellos agregar variaciones (por ejemplo terminos polinomicos, logaritmicos o de interaccion) y comparar los resultados.
     - Utilizando los metodos Lasso y Ridge evaluar si hay sobreajuste en los modelos lineales y comparar resultados. Discutir que variables parece ser relevantes y cuales no en base a los resultados.
-    - Hacer un cuadro comparativo con los resultados obtenidos. 
+    - Hacer un cuadro comparativo con los resultados obtenidos y en caso de que haya hiperparametros cuales son los elegidos.
 - Resultados de los modelos:
-    - En caso de que tengan tiempo de aplicar los modelos a mas de un dataset diferente (seleccion diferente de columnas y filas) comparar la performance en los diferentes casos.
-    - Generar una celda autoinclusiva con las mejores elecciones de modelos e hiperparametros donde se ajuste el modelo y luego se pueda predecir precios para propiedades nuevas. 
+    - En caso de que tengan tiempo de aplicar los modelos a mas de un dataset diferente (seleccion diferente de columnas y filas) comparar la performance en los diferentes casos. Seria interesante ver si la seleccion del modelo y los hiperparametros es la misma o conviene cambiarla.
+    - Generar una celda de codigo autoinclusiva con las mejores elecciones de modelos e hiperparametros donde se ajuste el modelo y luego se pueda predecir precios para propiedades nuevas (tener separado el codigo que efectivamente se quiere usar para entrenar el modelo del analisis previo). 
 - Presentacion visual:
-    - Hacer algun tipo de visualizacion donde muestren la variable target en geopandas, puede ser descriptivo (a partir del dataset y no del modelo) en caso de que no lo hayan hecho antes.
+    - Hacer algun tipo de visualizacion donde muestren la variable target en geopandas u otra visualizacion razonable, puede ser descriptivo (a partir del dataset y no del modelo) en caso de que no lo hayan hecho antes.
     - Como opcion mas avanzada se puede entrenar diferentes modelos basados en variables especificas (por ejemplo geolocalizacion o propiedades categoricas de la casa restringiendose a valores fijo de otras variables) y luego armar una visualizacion donde se recorra los valores de la variables para representar como cambia del valor de la propiedad (o del metro cuadrado) en funcion de las variables predictoras. 
 
 
