@@ -1,0 +1,1206 @@
+gender;age;education_level;institution_type;IT_student;location;electricity_supply;financial_condition;internet_type;network_type;class_duration;learning_system;device;adaptivity_level;ID_student
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Tab;Moderate;UN0
+Girl;21-25;University;Non Government;No;Yes;High;Mid;Mobile Data;4G;01-mar;Yes;Mobile;Moderate;UN1
+Girl;16-20;College;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;CG2
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN3
+Girl;16-20;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN4
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN5
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SN6
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SN7
+Boy;16-20;College;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CG8
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN9
+Girl;16-20;University;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UG10
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN11
+Boy;nov-15;School;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN12
+Girl;16-20;College;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN13
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN14
+Boy;nov-15;School;Non Government;No;Yes;High;Poor;Wifi;4G;01-mar;No;Mobile;Low;SN15
+Girl;26-30;University;Government;Yes;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Computer;Low;UG16
+Girl;21-25;University;Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UG17
+Girl;16-20;College;Non Government;No;Yes;High;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN18
+Girl;16-20;College;Non Government;No;Yes;High;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CN19
+Girl;06-oct;School;Non Government;No;Yes;Low;Rich;Wifi;4G;01-mar;No;Mobile;High;SN20
+Boy;06-oct;School;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;SG21
+Girl;16-20;College;Non Government;No;No;Low;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Low;CN22
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN23
+Boy;16-20;College;Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CG24
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN25
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN26
+Boy;26-30;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;03-jun;No;Computer;Moderate;UN27
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN28
+Girl;16-20;College;Non Government;No;Yes;High;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CN29
+Girl;06-oct;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN30
+Girl;16-20;College;Non Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CN31
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;UN32
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;CN33
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN34
+Girl;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;03-jun;Yes;Mobile;Moderate;UN35
+Girl;21-25;College;Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;CG36
+Girl;06-oct;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;High;SN37
+Girl;26-30;University;Government;No;No;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;UG38
+Girl;nov-15;School;Government;No;Yes;Low;Mid;Wifi;3G;01-mar;No;Mobile;Low;SG39
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;Yes;Computer;Moderate;UN40
+Girl;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Mobile;Moderate;UN41
+Girl;16-20;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN42
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN43
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;03-jun;Yes;Computer;Low;UN44
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;UN45
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN46
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN47
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN48
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;03-jun;Yes;Computer;Low;UN49
+Boy;16-20;College;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CG50
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN51
+Boy;21-25;University;Non Government;Yes;Yes;High;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Moderate;UN52
+Boy;26-30;University;Government;Yes;No;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;UG53
+Boy;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;SN54
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN55
+Boy;21-25;University;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UG56
+Girl;16-20;University;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;UN57
+Girl;nov-15;School;Non Government;No;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SN58
+Boy;16-20;School;Government;No;No;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SG59
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;UN60
+Boy;21-25;College;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CG61
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;Yes;Mobile;Moderate;CN62
+Boy;nov-15;School;Non Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN63
+Boy;nov-15;School;Non Government;No;Yes;High;Poor;Wifi;4G;01-mar;No;Mobile;Low;SN64
+Boy;26-30;University;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;High;UG65
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN66
+Girl;06-oct;School;Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SG67
+Girl;nov-15;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SG68
+Boy;nov-15;School;Non Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN69
+Boy;21-25;College;Government;No;No;High;Poor;Mobile Data;3G;01-mar;Yes;Mobile;Low;CG70
+Girl;16-20;College;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CG71
+Boy;21-25;University;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UG72
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN73
+Boy;nov-15;School;Non Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN74
+Girl;06-oct;School;Non Government;No;Yes;Low;Mid;Mobile Data;2G;01-mar;No;Mobile;Low;SN75
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;Yes;Mobile;Moderate;CN76
+Girl;21-25;College;Government;No;No;High;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CG77
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;03-jun;No;Mobile;Moderate;SN78
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN79
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN80
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;03-jun;No;Mobile;Moderate;SN81
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;UN82
+Girl;nov-15;School;Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SG83
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN84
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN85
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;High;SN86
+Girl;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Mobile;Moderate;UN87
+Boy;nov-15;School;Non Government;No;Yes;High;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SN88
+Boy;26-30;University;Government;No;No;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;UG89
+Boy;21-25;University;Non Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;UN90
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;03-jun;Yes;Computer;Moderate;UN91
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;03-jun;Yes;Computer;Moderate;UN92
+Boy;21-25;University;Non Government;Yes;Yes;High;Poor;Mobile Data;3G;01-mar;Yes;Mobile;Low;UN93
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN94
+Girl;16-20;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;UN95
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN96
+Girl;nov-15;School;Government;No;No;High;Poor;Mobile Data;2G;01-mar;No;Mobile;Low;SG97
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Mobile;Moderate;UN98
+Boy;16-20;College;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CG99
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SN100
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;SN101
+Girl;16-20;College;Non Government;No;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;CN102
+Boy;nov-15;School;Non Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN103
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Wifi;4G;01-mar;No;Mobile;Moderate;SN104
+Boy;nov-15;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;SG105
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN106
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;SN107
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Tab;Moderate;UN108
+Girl;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;3G;01-mar;Yes;Mobile;High;UN109
+Boy;06-oct;School;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;SG110
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN111
+Boy;nov-15;School;Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SG112
+Boy;21-25;University;Non Government;Yes;Yes;High;Poor;Mobile Data;3G;01-mar;Yes;Mobile;Moderate;UN113
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CN114
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;Yes;Computer;Moderate;UN115
+Boy;26-30;University;Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Low;UG116
+Boy;21-25;University;Non Government;Yes;Yes;High;Mid;Wifi;4G;03-jun;Yes;Computer;Low;UN117
+Boy;16-20;College;Government;No;No;High;Poor;Mobile Data;3G;01-mar;No;Mobile;Moderate;CG118
+Girl;21-25;University;Non Government;Yes;No;Low;Mid;Mobile Data;3G;01-mar;Yes;Mobile;Moderate;UN119
+Girl;16-20;College;Non Government;No;Yes;High;Mid;Wifi;4G;03-jun;No;Computer;Moderate;CN120
+Girl;16-20;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SN121
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN122
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN123
+Girl;16-20;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Computer;Moderate;UN124
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN125
+Girl;21-25;University;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UG126
+Boy;16-20;College;Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CG127
+Girl;nov-15;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SG128
+Boy;21-25;University;Non Government;Yes;Yes;Low;Rich;Wifi;4G;01-mar;Yes;Computer;High;UN129
+Girl;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;03-jun;Yes;Mobile;Moderate;UN130
+Boy;21-25;University;Government;Yes;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;UG131
+Boy;21-25;University;Non Government;Yes;No;High;Mid;Mobile Data;3G;03-jun;Yes;Mobile;High;UN132
+Boy;16-20;College;Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;CG133
+Boy;21-25;University;Non Government;Yes;Yes;High;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Moderate;UN134
+Boy;21-25;University;Government;Yes;Yes;Low;Mid;Wifi;4G;03-jun;No;Computer;Low;UG135
+Girl;16-20;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN136
+Girl;21-25;University;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;UN137
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN138
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN139
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN140
+Boy;21-25;University;Non Government;Yes;Yes;High;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Moderate;UN141
+Girl;nov-15;School;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN142
+Girl;16-20;College;Non Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;CN143
+Boy;21-25;University;Government;No;No;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;UG144
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Computer;Moderate;UN145
+Boy;21-25;University;Non Government;Yes;Yes;High;Poor;Wifi;3G;03-jun;No;Computer;Moderate;UN146
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SN147
+Girl;21-25;University;Non Government;No;Yes;High;Poor;Wifi;4G;03-jun;No;Mobile;Low;UN148
+Girl;21-25;University;Government;No;No;Low;Mid;Mobile Data;2G;01-mar;No;Mobile;Low;UG149
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN150
+Boy;16-20;College;Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CG151
+Boy;nov-15;School;Non Government;No;Yes;Low;Rich;Mobile Data;4G;01-mar;No;Mobile;High;SN152
+Boy;06-oct;School;Non Government;No;Yes;Low;Rich;Wifi;4G;01-mar;No;Mobile;Moderate;SN153
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;03-jun;No;Computer;Low;UN154
+Boy;21-25;University;Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Computer;Low;UG155
+Boy;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;SN156
+Boy;26-30;University;Government;Yes;Yes;Low;Rich;Wifi;4G;01-mar;No;Computer;High;UG157
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN158
+Boy;21-25;University;Non Government;Yes;Yes;High;Mid;Mobile Data;3G;01-mar;Yes;Computer;Moderate;UN159
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;01-mar;Yes;Mobile;Low;UN160
+Boy;21-25;University;Non Government;Yes;No;High;Mid;Mobile Data;3G;03-jun;Yes;Mobile;High;UN161
+Boy;16-20;University;Government;No;No;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;UG162
+Boy;06-oct;School;Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SG163
+Girl;16-20;College;Government;No;No;High;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;CG164
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN165
+Boy;21-25;College;Government;No;No;High;Poor;Mobile Data;3G;01-mar;Yes;Mobile;Low;CG166
+Boy;26-30;University;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;High;UG167
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN168
+Boy;16-20;College;Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;Yes;Mobile;Low;CG169
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;01-mar;Yes;Computer;Moderate;UN170
+Girl;26-30;University;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UG171
+Girl;16-20;College;Non Government;No;Yes;High;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN172
+Boy;21-25;University;Non Government;Yes;Yes;Low;Rich;Wifi;4G;01-mar;Yes;Computer;High;UN173
+Boy;nov-15;School;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SG174
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;03-jun;No;Computer;Low;UN175
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Wifi;3G;01-mar;No;Mobile;Moderate;SN176
+Boy;16-20;College;Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;Yes;Mobile;Low;CG177
+Girl;16-20;University;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;UN178
+Girl;16-20;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN179
+Boy;nov-15;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;SG180
+Boy;01-may;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SN181
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SN182
+Girl;21-25;University;Non Government;No;Yes;Low;Rich;Wifi;4G;03-jun;No;Computer;Moderate;UN183
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN184
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN185
+Girl;nov-15;School;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN186
+Girl;21-25;University;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UG187
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN188
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Tab;Moderate;UN189
+Boy;nov-15;School;Non Government;No;Yes;High;Poor;Wifi;4G;01-mar;No;Mobile;Low;SN190
+Boy;21-25;University;Non Government;Yes;Yes;High;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Moderate;UN191
+Boy;21-25;University;Non Government;Yes;Yes;High;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Moderate;UN192
+Boy;16-20;School;Government;No;No;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SG193
+Girl;16-20;College;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CG194
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;01-mar;Yes;Mobile;Low;UN195
+Boy;16-20;College;Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;CG196
+Boy;nov-15;School;Non Government;Yes;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN197
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN198
+Girl;nov-15;School;Government;No;Yes;Low;Mid;Wifi;3G;01-mar;No;Mobile;Low;SG199
+Boy;06-oct;School;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;SG200
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN201
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN202
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Mobile;Moderate;UN203
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN204
+Boy;nov-15;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;High;SG205
+Boy;26-30;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;03-jun;No;Computer;Moderate;UN206
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN207
+Girl;26-30;University;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UG208
+Girl;21-25;University;Non Government;Yes;Yes;High;Mid;Wifi;3G;03-jun;Yes;Mobile;Low;UN209
+Girl;nov-15;School;Government;No;No;High;Poor;Mobile Data;2G;01-mar;No;Mobile;Low;SG210
+Girl;16-20;School;Government;No;No;Low;Rich;Mobile Data;4G;01-mar;No;Mobile;High;SG211
+Girl;16-20;College;Government;No;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;CG212
+Girl;16-20;College;Non Government;No;Yes;High;Mid;Wifi;4G;03-jun;No;Computer;Moderate;CN213
+Girl;21-25;College;Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;CG214
+Boy;16-20;School;Government;No;Yes;Low;Rich;Mobile Data;4G;01-mar;No;Mobile;Moderate;SG215
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN216
+Girl;16-20;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN217
+Boy;21-25;University;Non Government;Yes;Yes;High;Poor;Wifi;3G;03-jun;No;Mobile;Low;UN218
+Boy;nov-15;School;Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SG219
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;03-jun;Yes;Computer;Moderate;UN220
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;03-jun;No;Mobile;Moderate;SN221
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN222
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN223
+Girl;21-25;University;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UN224
+Girl;nov-15;School;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN225
+Boy;21-25;University;Non Government;Yes;Yes;High;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Moderate;UN226
+Boy;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;SN227
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN228
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN229
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Wifi;3G;01-mar;No;Mobile;Moderate;SN230
+Girl;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Mobile;Moderate;UN231
+Girl;16-20;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SN232
+Boy;nov-15;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;High;SG233
+Boy;21-25;University;Non Government;Yes;No;Low;Mid;Wifi;4G;03-jun;Yes;Computer;Moderate;UN234
+Boy;21-25;University;Non Government;Yes;No;High;Poor;Mobile Data;3G;03-jun;Yes;Mobile;Moderate;UN235
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Computer;Moderate;UN236
+Girl;26-30;University;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UG237
+Girl;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;2G;03-jun;No;Mobile;Moderate;UN238
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UN239
+Girl;21-25;University;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UG240
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN241
+Girl;nov-15;School;Government;No;Yes;Low;Rich;Wifi;4G;01-mar;No;Mobile;Moderate;SG242
+Girl;16-20;College;Non Government;No;No;High;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CN243
+Girl;nov-15;School;Non Government;No;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SN244
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Wifi;4G;01-mar;No;Mobile;Moderate;SN245
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;03-jun;Yes;Computer;Moderate;UN246
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN247
+Boy;21-25;University;Non Government;Yes;Yes;High;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Moderate;UN248
+Boy;21-25;University;Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;Yes;Mobile;Moderate;UG249
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Computer;Moderate;UN250
+Girl;16-20;College;Non Government;No;Yes;High;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN251
+Boy;16-20;College;Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CG252
+Boy;21-25;University;Government;No;No;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;UG253
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Wifi;3G;01-mar;No;Mobile;Moderate;SN254
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN255
+Boy;16-20;College;Government;No;Yes;High;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;CG256
+Girl;21-25;University;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;UN257
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN258
+Boy;26-30;University;Government;Yes;Yes;Low;Rich;Wifi;4G;01-mar;No;Mobile;High;UG259
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN260
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Low;UN261
+Girl;16-20;College;Non Government;No;Yes;High;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CN262
+Boy;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;SN263
+Boy;16-20;College;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CG264
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Wifi;4G;01-mar;No;Mobile;Moderate;SN265
+Girl;16-20;College;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;CG266
+Girl;16-20;University;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Mobile;Low;UG267
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;CN268
+Boy;21-25;University;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;Yes;Mobile;High;UN269
+Boy;nov-15;School;Non Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN270
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;UN271
+Boy;nov-15;School;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SG272
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN273
+Girl;06-oct;School;Non Government;No;Yes;Low;Mid;Mobile Data;2G;01-mar;No;Mobile;Low;SN274
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN275
+Girl;16-20;University;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;UN276
+Girl;21-25;University;Government;No;No;Low;Mid;Mobile Data;2G;01-mar;No;Mobile;Low;UG277
+Boy;21-25;University;Non Government;No;No;Low;Poor;Mobile Data;4G;01-mar;Yes;Mobile;Low;UN278
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SN279
+Boy;26-30;University;Government;No;No;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;UG280
+Girl;16-20;College;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CG281
+Girl;21-25;University;Non Government;Yes;Yes;High;Mid;Wifi;4G;01-mar;No;Mobile;Low;UN282
+Boy;21-25;University;Non Government;Yes;Yes;High;Poor;Wifi;4G;01-mar;Yes;Computer;High;UN283
+Boy;21-25;University;Non Government;No;No;Low;Mid;Mobile Data;4G;01-mar;Yes;Mobile;Moderate;UN284
+Boy;21-25;College;Government;Yes;No;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;CG285
+Boy;21-25;University;Non Government;Yes;Yes;High;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Moderate;UN286
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SN287
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SN288
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN289
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN290
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SN291
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN292
+Girl;21-25;University;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;Yes;Mobile;Moderate;UG293
+Girl;01-may;School;Government;No;Yes;Low;Rich;Mobile Data;4G;01-mar;Yes;Mobile;Low;SG294
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN295
+Boy;21-25;University;Non Government;No;Yes;Low;Rich;Wifi;4G;03-jun;No;Tab;High;UN296
+Girl;16-20;College;Government;No;No;High;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;CG297
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN298
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SN299
+Boy;21-25;University;Non Government;No;Yes;Low;Rich;Wifi;4G;03-jun;No;Computer;High;UN300
+Boy;21-25;University;Non Government;Yes;Yes;High;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Moderate;UN301
+Boy;01-may;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SN302
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN303
+Boy;21-25;University;Government;No;No;High;Poor;Mobile Data;4G;03-jun;No;Mobile;Moderate;UG304
+Girl;16-20;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Low;SN305
+Boy;16-20;College;Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Tab;Moderate;CG306
+Boy;nov-15;School;Non Government;No;Yes;Low;Rich;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN307
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Tab;Moderate;UN308
+Boy;21-25;University;Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;Yes;Mobile;Moderate;UG309
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN310
+Girl;16-20;College;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN311
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN312
+Boy;nov-15;School;Non Government;No;Yes;High;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SN313
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;CN314
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN315
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Tab;Moderate;UN316
+Girl;21-25;University;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UG317
+Girl;16-20;College;Non Government;No;Yes;High;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN318
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN319
+Boy;nov-15;School;Non Government;No;Yes;Low;Rich;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN320
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UN321
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN322
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN323
+Girl;16-20;College;Non Government;No;No;Low;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Low;CN324
+Boy;21-25;University;Government;Yes;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;UG325
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN326
+Boy;nov-15;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SG327
+Boy;21-25;University;Non Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;UN328
+Girl;21-25;College;Government;No;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;CG329
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN330
+Boy;21-25;University;Government;Yes;Yes;Low;Mid;Wifi;3G;01-mar;No;Mobile;Low;UG331
+Girl;21-25;University;Non Government;No;Yes;High;Poor;Wifi;4G;03-jun;No;Mobile;Low;UN332
+Girl;21-25;University;Non Government;Yes;No;Low;Mid;Mobile Data;3G;01-mar;Yes;Mobile;Moderate;UN333
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CN334
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Mobile;Moderate;UN335
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UN336
+Boy;16-20;College;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CG337
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN338
+Girl;26-30;University;Government;No;No;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;UG339
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN340
+Girl;21-25;College;Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;CG341
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN342
+Boy;16-20;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SG343
+Girl;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;03-jun;Yes;Computer;Low;UN344
+Boy;21-25;University;Non Government;Yes;No;High;Poor;Mobile Data;3G;01-mar;Yes;Mobile;Moderate;UN345
+Girl;26-30;University;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UG346
+Boy;06-oct;School;Non Government;No;Yes;Low;Rich;Wifi;4G;01-mar;No;Mobile;Moderate;SN347
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN348
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;03-jun;No;Mobile;Moderate;SN349
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN350
+Girl;26-30;University;Government;No;No;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;UG351
+Girl;16-20;College;Non Government;No;Yes;High;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CN352
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;Yes;Computer;Moderate;UN353
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN354
+Boy;16-20;College;Government;Yes;No;Low;Rich;Wifi;4G;01-mar;No;Mobile;Low;CG355
+Boy;16-20;College;Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;CG356
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN357
+Girl;06-oct;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN358
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN359
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN360
+Girl;06-oct;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;High;SN361
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;03-jun;No;Computer;Low;UN362
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN363
+Boy;21-25;University;Non Government;Yes;Yes;High;Poor;Mobile Data;3G;01-mar;Yes;Mobile;Low;UN364
+Boy;21-25;University;Non Government;No;Yes;Low;Rich;Wifi;4G;03-jun;No;Computer;High;UN365
+Girl;16-20;College;Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;CG366
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN367
+Girl;16-20;College;Government;No;Yes;Low;Mid;Wifi;3G;01-mar;No;Mobile;Moderate;CG368
+Girl;16-20;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SN369
+Boy;16-20;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SG370
+Boy;21-25;University;Non Government;Yes;Yes;High;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Moderate;UN371
+Girl;16-20;University;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Mobile;Low;UG372
+Boy;26-30;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;01-mar;Yes;Mobile;Moderate;UN373
+Boy;21-25;College;Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;CG374
+Girl;06-oct;School;Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SG375
+Girl;nov-15;School;Non Government;No;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SN376
+Boy;21-25;University;Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;Yes;Mobile;Moderate;UG377
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN378
+Girl;26-30;University;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UG379
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SN380
+Boy;21-25;University;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;UG381
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SN382
+Boy;21-25;University;Non Government;Yes;No;Low;Mid;Wifi;4G;03-jun;Yes;Computer;Moderate;UN383
+Boy;16-20;College;Government;No;Yes;Low;Mid;Wifi;3G;01-mar;Yes;Mobile;Moderate;CG384
+Boy;21-25;University;Government;Yes;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;UG385
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN386
+Boy;nov-15;School;Non Government;No;Yes;High;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SN387
+Boy;26-30;University;Non Government;Yes;Yes;High;Poor;Mobile Data;3G;01-mar;Yes;Computer;Moderate;UN388
+Girl;nov-15;School;Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SG389
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Mobile;High;CN390
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN391
+Girl;16-20;College;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN392
+Girl;26-30;University;Government;No;No;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;UG393
+Girl;16-20;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Low;SN394
+Boy;21-25;University;Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;UG395
+Girl;21-25;University;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UN396
+Boy;21-25;University;Non Government;Yes;Yes;Low;Rich;Wifi;4G;03-jun;No;Mobile;Low;UN397
+Boy;21-25;University;Non Government;Yes;Yes;High;Poor;Wifi;4G;01-mar;Yes;Computer;High;UN398
+Girl;26-30;University;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UG399
+Boy;16-20;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SG400
+Boy;16-20;College;Government;No;Yes;Low;Mid;Wifi;3G;01-mar;Yes;Mobile;Moderate;CG401
+Boy;26-30;University;Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Low;UG402
+Boy;16-20;College;Government;No;Yes;High;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;CG403
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UN404
+Girl;26-30;University;Government;No;No;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;UG405
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Computer;High;UN406
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN407
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN408
+Boy;26-30;University;Government;Yes;Yes;Low;Rich;Wifi;4G;01-mar;No;Mobile;High;UG409
+Boy;21-25;University;Non Government;Yes;Yes;Low;Rich;Wifi;4G;01-mar;Yes;Computer;High;UN410
+Boy;21-25;University;Non Government;Yes;Yes;High;Poor;Wifi;4G;01-mar;Yes;Computer;High;UN411
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Tab;Moderate;UN412
+Girl;16-20;College;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN413
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN414
+Boy;26-30;University;Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Low;UG415
+Boy;16-20;College;Government;No;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;CG416
+Boy;26-30;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;01-mar;Yes;Mobile;Moderate;UN417
+Boy;16-20;University;Government;No;Yes;Low;Mid;Wifi;3G;01-mar;Yes;Computer;Moderate;UG418
+Girl;16-20;University;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Mobile;Low;UG419
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN420
+Girl;06-oct;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN421
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;SN422
+Girl;16-20;College;Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;CG423
+Boy;01-may;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SN424
+Girl;26-30;University;Government;No;No;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;UG425
+Boy;21-25;University;Non Government;Yes;Yes;High;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Moderate;UN426
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Computer;High;UN427
+Boy;nov-15;School;Non Government;No;Yes;High;Mid;Wifi;4G;01-mar;No;Computer;Low;SN428
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN429
+Boy;21-25;University;Government;No;No;High;Poor;Mobile Data;4G;03-jun;No;Mobile;Moderate;UG430
+Girl;26-30;University;Government;Yes;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Computer;Low;UG431
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;High;SN432
+Girl;21-25;University;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UG433
+Girl;21-25;University;Non Government;Yes;No;Low;Mid;Mobile Data;3G;01-mar;Yes;Mobile;Moderate;UN434
+Girl;21-25;University;Non Government;Yes;Yes;High;Mid;Wifi;4G;01-mar;No;Mobile;Low;UN435
+Girl;26-30;University;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UG436
+Girl;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Tab;Moderate;UN437
+Boy;nov-15;School;Non Government;No;Yes;High;Poor;Wifi;4G;01-mar;No;Mobile;Low;SN438
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;Yes;Mobile;Moderate;CN439
+Boy;21-25;University;Non Government;Yes;Yes;High;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Moderate;UN440
+Boy;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;CN441
+Girl;26-30;University;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UG442
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN443
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN444
+Girl;21-25;University;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;Yes;Mobile;Moderate;UG445
+Boy;21-25;College;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CG446
+Girl;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;3G;01-mar;Yes;Mobile;High;UN447
+Boy;21-25;University;Non Government;Yes;Yes;Low;Rich;Wifi;4G;03-jun;No;Mobile;Low;UN448
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN449
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;03-jun;No;Mobile;Moderate;SN450
+Girl;21-25;University;Non Government;Yes;Yes;Low;Rich;Wifi;4G;03-jun;No;Computer;High;UN451
+Boy;01-may;School;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;SG452
+Girl;16-20;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN453
+Boy;21-25;University;Government;No;No;High;Poor;Mobile Data;4G;03-jun;No;Mobile;Moderate;UG454
+Girl;21-25;University;Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;UG455
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN456
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UN457
+Boy;21-25;University;Government;No;No;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;UG458
+Boy;21-25;University;Non Government;Yes;Yes;High;Poor;Wifi;3G;03-jun;No;Computer;Moderate;UN459
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN460
+Boy;21-25;University;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;Yes;Mobile;High;UN461
+Boy;21-25;University;Non Government;Yes;No;High;Mid;Mobile Data;3G;03-jun;Yes;Mobile;High;UN462
+Boy;21-25;University;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;Yes;Mobile;High;UN463
+Girl;nov-15;School;Non Government;No;Yes;Low;Rich;Wifi;3G;01-mar;No;Mobile;High;SN464
+Boy;21-25;University;Non Government;Yes;No;Low;Mid;Mobile Data;3G;01-mar;Yes;Computer;Moderate;UN465
+Boy;21-25;College;Government;No;No;High;Poor;Mobile Data;3G;01-mar;Yes;Mobile;Low;CG466
+Boy;nov-15;School;Government;No;No;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SG467
+Girl;16-20;College;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;CG468
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;01-mar;Yes;Mobile;Low;UN469
+Boy;21-25;University;Non Government;Yes;No;High;Poor;Mobile Data;3G;01-mar;Yes;Mobile;Moderate;UN470
+Boy;21-25;University;Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;Yes;Mobile;Low;UG471
+Boy;nov-15;School;Government;No;No;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SG472
+Boy;21-25;University;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;UN473
+Girl;16-20;College;Non Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;CN474
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SN475
+Boy;21-25;University;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;Yes;Mobile;High;UN476
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN477
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SN478
+Boy;26-30;University;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Mobile;Moderate;UN479
+Girl;16-20;College;Government;No;Yes;Low;Mid;Wifi;3G;01-mar;No;Mobile;Moderate;CG480
+Boy;21-25;University;Government;No;No;High;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UG481
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN482
+Boy;16-20;College;Government;No;Yes;High;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CG483
+Boy;21-25;College;Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;CG484
+Boy;16-20;School;Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SG485
+Girl;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Computer;Moderate;UN486
+Boy;21-25;University;Non Government;Yes;Yes;High;Mid;Mobile Data;3G;01-mar;Yes;Computer;Moderate;UN487
+Girl;21-25;University;Non Government;Yes;Yes;High;Mid;Wifi;4G;01-mar;No;Mobile;Low;UN488
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Wifi;3G;01-mar;No;Mobile;Moderate;SN489
+Boy;21-25;University;Non Government;Yes;Yes;High;Poor;Wifi;4G;01-mar;Yes;Computer;High;UN490
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN491
+Boy;16-20;College;Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;CG492
+Girl;21-25;University;Non Government;Yes;Yes;Low;Rich;Wifi;4G;03-jun;No;Computer;High;UN493
+Boy;21-25;University;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UG494
+Girl;16-20;College;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN495
+Boy;nov-15;School;Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SG496
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;01-mar;Yes;Mobile;Moderate;UN497
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;UN498
+Boy;21-25;University;Non Government;Yes;No;Low;Mid;Wifi;4G;03-jun;Yes;Computer;Moderate;UN499
+Girl;16-20;College;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN500
+Girl;16-20;College;Non Government;No;Yes;High;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN501
+Girl;16-20;College;Non Government;No;Yes;High;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN502
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;03-jun;Yes;Computer;Low;UN503
+Girl;16-20;College;Government;No;No;High;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;CG504
+Boy;16-20;College;Government;No;No;High;Poor;Mobile Data;2G;01-mar;No;Mobile;Low;CG505
+Girl;06-oct;School;Non Government;No;Yes;Low;Rich;Wifi;4G;01-mar;No;Mobile;High;SN506
+Boy;21-25;University;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;UG507
+Girl;16-20;College;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN508
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN509
+Girl;16-20;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SN510
+Girl;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Tab;Moderate;UN511
+Girl;16-20;College;Non Government;No;Yes;High;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN512
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN513
+Girl;nov-15;School;Government;No;No;High;Poor;Mobile Data;2G;01-mar;No;Mobile;Low;SG514
+Girl;16-20;College;Non Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;CN515
+Boy;21-25;University;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UG516
+Boy;21-25;University;Non Government;Yes;Yes;Low;Rich;Wifi;4G;01-mar;Yes;Computer;High;UN517
+Girl;21-25;University;Non Government;Yes;Yes;High;Mid;Wifi;4G;01-mar;No;Mobile;Low;UN518
+Boy;21-25;University;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;UG519
+Girl;16-20;College;Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;CG520
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN521
+Boy;nov-15;School;Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SG522
+Girl;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;03-jun;Yes;Mobile;Moderate;UN523
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UN524
+Girl;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Tab;Moderate;UN525
+Boy;21-25;University;Non Government;Yes;Yes;High;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Moderate;UN526
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;UN527
+Boy;16-20;College;Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CG528
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN529
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;UN530
+Girl;16-20;College;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CG531
+Boy;21-25;University;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UG532
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN533
+Boy;16-20;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SG534
+Boy;16-20;University;Government;No;Yes;Low;Mid;Wifi;3G;01-mar;Yes;Computer;Moderate;UG535
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN536
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN537
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SN538
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN539
+Boy;16-20;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SG540
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN541
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN542
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;CN543
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN544
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN545
+Girl;06-oct;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;High;SN546
+Boy;nov-15;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SG547
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN548
+Boy;26-30;University;Non Government;Yes;Yes;High;Poor;Mobile Data;3G;01-mar;Yes;Computer;Moderate;UN549
+Boy;21-25;University;Non Government;Yes;Yes;High;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Moderate;UN550
+Girl;16-20;College;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CG551
+Boy;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;CN552
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN553
+Boy;21-25;University;Non Government;Yes;No;Low;Mid;Mobile Data;3G;01-mar;Yes;Computer;Moderate;UN554
+Girl;nov-15;School;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN555
+Girl;26-30;University;Government;No;No;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;UG556
+Girl;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;2G;03-jun;No;Mobile;Moderate;UN557
+Girl;21-25;College;Government;No;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;CG558
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN559
+Boy;06-oct;School;Non Government;No;Yes;Low;Rich;Wifi;4G;03-jun;No;Mobile;High;SN560
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SN561
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN562
+Boy;21-25;University;Government;No;No;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;UG563
+Boy;21-25;University;Government;Yes;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;UG564
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;01-mar;No;Computer;Moderate;UN565
+Girl;26-30;University;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UG566
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN567
+Boy;16-20;College;Government;No;No;High;Poor;Mobile Data;3G;01-mar;No;Mobile;Moderate;CG568
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;03-jun;No;Mobile;Moderate;SN569
+Boy;26-30;University;Non Government;Yes;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;UN570
+Boy;nov-15;School;Non Government;No;Yes;Low;Rich;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN571
+Boy;21-25;University;Non Government;Yes;Yes;High;Poor;Wifi;4G;01-mar;Yes;Computer;High;UN572
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;SN573
+Girl;16-20;College;Non Government;No;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;CN574
+Boy;21-25;University;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UG575
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SN576
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UN577
+Girl;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;03-jun;Yes;Mobile;Moderate;UN578
+Boy;16-20;College;Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CG579
+Boy;21-25;University;Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Computer;Low;UG580
+Boy;21-25;University;Government;Yes;Yes;Low;Mid;Wifi;4G;03-jun;No;Computer;Low;UG581
+Boy;16-20;College;Government;No;No;High;Poor;Mobile Data;2G;01-mar;No;Mobile;Low;CG582
+Boy;16-20;College;Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;CG583
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Computer;High;UN584
+Girl;21-25;University;Non Government;Yes;No;High;Poor;Wifi;2G;03-jun;Yes;Tab;Low;UN585
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN586
+Girl;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Computer;Moderate;UN587
+Boy;21-25;University;Non Government;Yes;Yes;High;Poor;Wifi;3G;03-jun;No;Mobile;Low;UN588
+Boy;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;CN589
+Boy;16-20;School;Government;No;Yes;Low;Rich;Mobile Data;4G;01-mar;No;Mobile;Moderate;SG590
+Girl;21-25;University;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UG591
+Boy;26-30;University;Government;Yes;Yes;Low;Rich;Wifi;4G;01-mar;No;Computer;High;UG592
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;03-jun;Yes;Computer;Low;UN593
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN594
+Boy;16-20;College;Government;Yes;No;Low;Rich;Wifi;4G;01-mar;No;Mobile;Low;CG595
+Boy;26-30;University;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Mobile;Moderate;UN596
+Boy;21-25;University;Government;No;No;High;Poor;Mobile Data;4G;03-jun;No;Mobile;Moderate;UG597
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;03-jun;No;Mobile;Moderate;SN598
+Girl;26-30;University;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UG599
+Girl;01-may;School;Government;No;Yes;Low;Rich;Mobile Data;4G;01-mar;Yes;Mobile;Low;SG600
+Girl;21-25;University;Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;UG601
+Girl;21-25;University;Non Government;No;Yes;Low;Rich;Wifi;4G;03-jun;No;Tab;Moderate;UN602
+Girl;21-25;College;Government;No;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;CG603
+Boy;21-25;University;Government;Yes;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;UG604
+Boy;21-25;University;Government;No;No;High;Poor;Mobile Data;4G;03-jun;No;Mobile;Moderate;UG605
+Boy;nov-15;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;High;SG606
+Girl;16-20;College;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CG607
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN608
+Boy;01-may;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SN609
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;SN610
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN611
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Computer;Moderate;UN612
+Boy;21-25;University;Government;No;No;High;Mid;Wifi;4G;01-mar;No;Mobile;Low;UG613
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN614
+Girl;06-oct;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;High;SN615
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN616
+Girl;06-oct;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN617
+Girl;21-25;University;Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;UG618
+Boy;21-25;University;Non Government;No;Yes;Low;Rich;Wifi;4G;03-jun;No;Computer;High;UN619
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;High;SN620
+Girl;21-25;University;Non Government;Yes;No;Low;Mid;Mobile Data;3G;01-mar;Yes;Mobile;Moderate;UN621
+Boy;21-25;University;Non Government;Yes;Yes;High;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Moderate;UN622
+Girl;nov-15;School;Non Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN623
+Boy;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;SN624
+Boy;nov-15;School;Non Government;No;Yes;High;Mid;Wifi;4G;01-mar;No;Computer;Low;SN625
+Boy;16-20;College;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CG626
+Boy;nov-15;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;High;SG627
+Boy;06-oct;School;Non Government;No;Yes;Low;Rich;Wifi;4G;03-jun;No;Mobile;High;SN628
+Boy;26-30;University;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;UG629
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN630
+Girl;16-20;College;Non Government;No;No;High;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CN631
+Girl;21-25;University;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;UN632
+Girl;16-20;University;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;UN633
+Girl;21-25;University;Government;No;Yes;Low;Mid;Wifi;3G;01-mar;Yes;Mobile;Low;UG634
+Boy;nov-15;School;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SG635
+Girl;26-30;University;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UG636
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN637
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN638
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN639
+Boy;nov-15;School;Non Government;No;Yes;Low;Rich;Mobile Data;4G;01-mar;No;Mobile;High;SN640
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN641
+Boy;16-20;College;Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CG642
+Girl;06-oct;School;Non Government;No;Yes;Low;Rich;Wifi;4G;01-mar;No;Mobile;High;SN643
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SN644
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN645
+Boy;26-30;University;Government;No;No;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;UG646
+Boy;26-30;University;Government;Yes;No;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;UG647
+Boy;21-25;University;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;Yes;Mobile;High;UN648
+Boy;16-20;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SG649
+Girl;nov-15;School;Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SG650
+Boy;26-30;University;Government;Yes;No;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;UG651
+Boy;16-20;College;Government;Yes;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CG652
+Girl;21-25;University;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UG653
+Boy;21-25;University;Non Government;Yes;Yes;High;Mid;Wifi;4G;03-jun;Yes;Computer;Low;UN654
+Boy;nov-15;School;Non Government;No;Yes;Low;Rich;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN655
+Boy;nov-15;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;High;SG656
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN657
+Girl;16-20;University;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;UN658
+Girl;16-20;University;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Mobile;Low;UG659
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SN660
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN661
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SN662
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN663
+Boy;21-25;University;Non Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;UN664
+Girl;16-20;University;Non Government;Yes;No;Low;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Moderate;UN665
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SN666
+Girl;nov-15;School;Government;No;Yes;Low;Rich;Wifi;4G;01-mar;No;Mobile;Moderate;SG667
+Boy;26-30;University;Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Low;UG668
+Boy;nov-15;School;Non Government;No;Yes;Low;Rich;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN669
+Girl;16-20;College;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN670
+Girl;21-25;University;Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UG671
+Girl;16-20;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SN672
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;UN673
+Girl;16-20;University;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Mobile;Low;UG674
+Boy;21-25;University;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;UG675
+Boy;21-25;University;Non Government;Yes;No;Low;Mid;Mobile Data;3G;01-mar;Yes;Computer;Moderate;UN676
+Boy;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;SN677
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN678
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;UN679
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;03-jun;No;Computer;Low;UN680
+Girl;06-oct;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;High;SN681
+Girl;21-25;University;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;UN682
+Boy;26-30;University;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Mobile;Moderate;UN683
+Boy;nov-15;School;Government;No;No;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SG684
+Girl;16-20;College;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN685
+Boy;nov-15;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SG686
+Boy;21-25;University;Non Government;Yes;Yes;High;Poor;Wifi;3G;03-jun;No;Mobile;Low;UN687
+Boy;16-20;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SG688
+Boy;21-25;University;Non Government;Yes;Yes;High;Poor;Wifi;4G;01-mar;Yes;Computer;High;UN689
+Boy;26-30;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;03-jun;No;Computer;Moderate;UN690
+Boy;nov-15;School;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN691
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;03-jun;Yes;Computer;Moderate;UN692
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SN693
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Low;UN694
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;03-jun;No;Mobile;Moderate;SN695
+Girl;06-oct;School;Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SG696
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;03-jun;Yes;Computer;Low;UN697
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN698
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN699
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN700
+Girl;16-20;College;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CG701
+Girl;nov-15;School;Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SG702
+Girl;01-may;School;Government;No;Yes;Low;Rich;Mobile Data;4G;01-mar;Yes;Mobile;Low;SG703
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN704
+Girl;21-25;University;Non Government;Yes;No;High;Mid;Wifi;4G;01-mar;Yes;Computer;Moderate;UN705
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CN706
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN707
+Boy;21-25;University;Non Government;No;Yes;High;Mid;Mobile Data;3G;01-mar;Yes;Mobile;Moderate;UN708
+Boy;16-20;College;Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;CG709
+Boy;16-20;College;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CG710
+Boy;21-25;College;Government;Yes;No;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;CG711
+Boy;16-20;College;Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;Yes;Mobile;Low;CG712
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN713
+Girl;26-30;University;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UG714
+Girl;nov-15;School;Non Government;No;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SN715
+Girl;nov-15;School;Non Government;No;Yes;Low;Rich;Wifi;3G;01-mar;No;Mobile;High;SN716
+Girl;26-30;University;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UG717
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN718
+Boy;21-25;University;Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;Yes;Mobile;Moderate;UG719
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN720
+Girl;16-20;College;Government;No;No;High;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;CG721
+Boy;21-25;University;Non Government;Yes;No;High;Poor;Mobile Data;3G;03-jun;Yes;Mobile;Moderate;UN722
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN723
+Girl;16-20;College;Non Government;No;Yes;High;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN724
+Boy;16-20;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SG725
+Girl;16-20;University;Non Government;Yes;No;Low;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Moderate;UN726
+Girl;nov-15;School;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN727
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN728
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN729
+Girl;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;03-jun;Yes;Mobile;Moderate;UN730
+Girl;16-20;University;Non Government;Yes;No;High;Poor;Mobile Data;3G;01-mar;Yes;Mobile;Moderate;UN731
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN732
+Boy;21-25;University;Non Government;Yes;Yes;High;Poor;Wifi;4G;01-mar;Yes;Computer;High;UN733
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN734
+Boy;nov-15;School;Non Government;No;Yes;Low;Rich;Wifi;4G;01-mar;No;Mobile;High;SN735
+Girl;16-20;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;SN736
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;UN737
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN738
+Boy;26-30;University;Government;No;No;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;UG739
+Boy;16-20;College;Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Tab;Moderate;CG740
+Boy;nov-15;School;Non Government;Yes;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN741
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UN742
+Girl;16-20;University;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;UN743
+Girl;16-20;College;Government;No;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;CG744
+Boy;21-25;University;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UG745
+Boy;16-20;College;Government;No;Yes;Low;Mid;Wifi;3G;01-mar;Yes;Mobile;Moderate;CG746
+Boy;16-20;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SG747
+Boy;21-25;University;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;Yes;Mobile;High;UN748
+Boy;21-25;University;Non Government;Yes;No;High;Poor;Mobile Data;3G;03-jun;Yes;Mobile;Moderate;UN749
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN750
+Boy;21-25;University;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;UG751
+Boy;nov-15;School;Non Government;No;Yes;High;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SN752
+Boy;21-25;University;Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;UG753
+Girl;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;2G;03-jun;No;Mobile;Moderate;UN754
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SN755
+Boy;16-20;University;Government;No;Yes;Low;Mid;Wifi;3G;01-mar;Yes;Computer;Moderate;UG756
+Boy;21-25;University;Government;Yes;Yes;Low;Mid;Wifi;3G;01-mar;No;Mobile;Low;UG757
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN758
+Boy;21-25;College;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CG759
+Boy;16-20;College;Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CG760
+Girl;21-25;University;Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UG761
+Girl;21-25;University;Non Government;Yes;Yes;Low;Rich;Wifi;4G;03-jun;No;Computer;Moderate;UN762
+Girl;16-20;University;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;UN763
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;UN764
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN765
+Girl;16-20;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SN766
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN767
+Boy;16-20;College;Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;CG768
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Mobile;High;CN769
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN770
+Girl;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Computer;Moderate;UN771
+Girl;21-25;University;Non Government;Yes;No;High;Poor;Wifi;2G;03-jun;Yes;Tab;Low;UN772
+Girl;16-20;College;Non Government;No;Yes;High;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN773
+Boy;21-25;University;Non Government;Yes;Yes;High;Poor;Wifi;3G;03-jun;No;Mobile;Low;UN774
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CN775
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN776
+Girl;21-25;University;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UG777
+Girl;06-oct;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN778
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SN779
+Boy;21-25;University;Non Government;Yes;No;Low;Mid;Wifi;4G;03-jun;Yes;Computer;Moderate;UN780
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN781
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;SN782
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;UN783
+Boy;21-25;University;Non Government;No;No;Low;Poor;Mobile Data;4G;01-mar;Yes;Mobile;Low;UN784
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;UN785
+Girl;16-20;College;Non Government;No;Yes;High;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN786
+Girl;16-20;College;Government;No;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;CG787
+Boy;06-oct;School;Non Government;No;Yes;Low;Rich;Wifi;4G;03-jun;No;Mobile;High;SN788
+Girl;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Computer;Moderate;UN789
+Girl;26-30;University;Government;No;No;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;UG790
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN791
+Girl;nov-15;School;Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SG792
+Girl;nov-15;School;Non Government;No;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SN793
+Boy;21-25;University;Government;No;No;High;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UG794
+Girl;16-20;College;Non Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;CN795
+Boy;21-25;University;Non Government;Yes;Yes;High;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Moderate;UN796
+Boy;21-25;University;Government;No;Yes;Low;Mid;Mobile Data;4G;03-jun;No;Mobile;Moderate;UG797
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN798
+Girl;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Computer;Moderate;UN799
+Girl;16-20;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;UN800
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SN801
+Boy;nov-15;School;Non Government;No;Yes;High;Mid;Wifi;4G;01-mar;No;Computer;Low;SN802
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN803
+Boy;21-25;University;Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;Yes;Mobile;Low;UG804
+Boy;06-oct;School;Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SG805
+Girl;nov-15;School;Government;No;Yes;Low;Rich;Wifi;4G;01-mar;No;Mobile;Moderate;SG806
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN807
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Tab;Moderate;UN808
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;UN809
+Boy;26-30;University;Government;Yes;Yes;Low;Rich;Wifi;4G;01-mar;No;Computer;High;UG810
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CN811
+Girl;16-20;College;Non Government;No;Yes;High;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CN812
+Boy;21-25;University;Government;Yes;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;UG813
+Boy;nov-15;School;Non Government;No;Yes;Low;Rich;Mobile Data;3G;01-mar;No;Mobile;High;SN814
+Girl;nov-15;School;Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SG815
+Boy;16-20;School;Government;No;Yes;Low;Rich;Mobile Data;4G;01-mar;No;Mobile;Moderate;SG816
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN817
+Girl;16-20;College;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CG818
+Boy;nov-15;School;Government;No;No;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SG819
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN820
+Girl;06-oct;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN821
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;High;SN822
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Tab;Moderate;UN823
+Girl;16-20;University;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;UN824
+Boy;nov-15;School;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN825
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;UN826
+Girl;21-25;University;Non Government;Yes;No;High;Mid;Wifi;4G;01-mar;Yes;Computer;Moderate;UN827
+Boy;21-25;University;Non Government;Yes;No;Low;Mid;Wifi;4G;03-jun;Yes;Computer;Moderate;UN828
+Boy;16-20;School;Government;No;Yes;Low;Rich;Mobile Data;4G;01-mar;No;Mobile;Moderate;SG829
+Boy;16-20;College;Government;No;Yes;High;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CG830
+Boy;nov-15;School;Non Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SN831
+Boy;nov-15;School;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN832
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN833
+Girl;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;03-jun;Yes;Computer;Low;UN834
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN835
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN836
+Boy;16-20;College;Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CG837
+Boy;21-25;University;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;UG838
+Girl;06-oct;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN839
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SN840
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Mobile;High;CN841
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN842
+Boy;16-20;University;Government;No;Yes;Low;Mid;Wifi;3G;01-mar;Yes;Computer;Moderate;UG843
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;High;SN844
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN845
+Girl;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Tab;Moderate;UN846
+Girl;16-20;College;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN847
+Girl;06-oct;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;High;SN848
+Girl;nov-15;School;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN849
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN850
+Girl;16-20;College;Government;No;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;CG851
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN852
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN853
+Girl;16-20;School;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;SG854
+Girl;21-25;College;Government;No;No;High;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CG855
+Girl;nov-15;School;Government;No;Yes;Low;Mid;Wifi;3G;01-mar;No;Mobile;Low;SG856
+Girl;16-20;College;Government;No;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;CG857
+Boy;26-30;University;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;UG858
+Girl;16-20;College;Non Government;No;Yes;High;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN859
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UN860
+Boy;21-25;University;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;UN861
+Girl;26-30;University;Government;No;No;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;UG862
+Girl;06-oct;School;Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SG863
+Girl;21-25;University;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UN864
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN865
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SN866
+Girl;16-20;University;Non Government;Yes;No;Low;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Moderate;UN867
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN868
+Girl;06-oct;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN869
+Boy;16-20;College;Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CG870
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Tab;Moderate;UN871
+Boy;16-20;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SG872
+Girl;16-20;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN873
+Girl;16-20;College;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;CG874
+Girl;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Mobile;Moderate;UN875
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN876
+Girl;16-20;College;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN877
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SN878
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN879
+Girl;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Tab;Moderate;UN880
+Girl;nov-15;School;Government;No;Yes;Low;Rich;Wifi;4G;01-mar;No;Mobile;Low;SG881
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SN882
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;03-jun;No;Mobile;Moderate;SN883
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;UN884
+Boy;16-20;School;Government;No;Yes;Low;Rich;Mobile Data;4G;01-mar;No;Mobile;Moderate;SG885
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN886
+Boy;21-25;University;Non Government;Yes;Yes;High;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Moderate;UN887
+Girl;16-20;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Computer;Moderate;UN888
+Boy;26-30;University;Non Government;Yes;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;UN889
+Boy;16-20;University;Government;No;Yes;Low;Mid;Wifi;3G;01-mar;Yes;Computer;Moderate;UG890
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;CN891
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Wifi;3G;01-mar;No;Mobile;Moderate;SN892
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN893
+Girl;06-oct;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN894
+Girl;21-25;University;Non Government;Yes;No;High;Mid;Wifi;4G;01-mar;Yes;Computer;Moderate;UN895
+Girl;21-25;University;Non Government;Yes;Yes;High;Mid;Wifi;4G;01-mar;No;Mobile;Low;UN896
+Boy;16-20;School;Government;No;Yes;Low;Rich;Mobile Data;4G;01-mar;No;Mobile;Moderate;SG897
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;03-jun;No;Computer;Low;UN898
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;UN899
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;CN900
+Boy;21-25;University;Non Government;No;No;Low;Mid;Mobile Data;4G;01-mar;Yes;Mobile;Moderate;UN901
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SN902
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;Yes;Mobile;Moderate;CN903
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;High;SN904
+Boy;06-oct;School;Non Government;No;Yes;Low;Rich;Wifi;4G;03-jun;No;Mobile;High;SN905
+Girl;nov-15;School;Government;No;Yes;Low;Mid;Wifi;3G;01-mar;No;Mobile;Low;SG906
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN907
+Boy;06-oct;School;Non Government;No;Yes;Low;Rich;Wifi;4G;01-mar;No;Mobile;Moderate;SN908
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SN909
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN910
+Boy;16-20;University;Government;No;Yes;Low;Mid;Wifi;4G;03-jun;Yes;Computer;Low;UG911
+Boy;21-25;College;Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;CG912
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN913
+Girl;06-oct;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN914
+Boy;21-25;College;Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;CG915
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN916
+Boy;26-30;University;Government;Yes;No;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;UG917
+Boy;21-25;University;Non Government;Yes;Yes;High;Poor;Wifi;4G;01-mar;Yes;Computer;High;UN918
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN919
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN920
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN921
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;01-mar;No;Computer;Moderate;UN922
+Boy;16-20;College;Government;Yes;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CG923
+Girl;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;3G;01-mar;Yes;Mobile;High;UN924
+Girl;21-25;College;Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;CG925
+Boy;21-25;University;Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;UG926
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN927
+Boy;06-oct;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SN928
+Girl;nov-15;School;Government;No;Yes;Low;Rich;Wifi;4G;01-mar;No;Mobile;Moderate;SG929
+Girl;nov-15;School;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN930
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN931
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN932
+Boy;21-25;University;Non Government;Yes;Yes;High;Poor;Wifi;3G;03-jun;No;Computer;Moderate;UN933
+Boy;06-oct;School;Government;No;No;High;Mid;Mobile Data;2G;01-mar;No;Mobile;Low;SG934
+Boy;16-20;College;Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Tab;Moderate;CG935
+Boy;21-25;University;Non Government;No;Yes;Low;Rich;Wifi;4G;03-jun;No;Tab;High;UN936
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN937
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN938
+Girl;06-oct;School;Non Government;No;Yes;Low;Rich;Wifi;4G;01-mar;No;Mobile;High;SN939
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SN940
+Boy;21-25;University;Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;UG941
+Girl;16-20;College;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN942
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;High;SN943
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;03-jun;Yes;Computer;Moderate;UN944
+Boy;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;CN945
+Boy;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;CN946
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN947
+Boy;16-20;College;Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CG948
+Boy;21-25;University;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;UN949
+Boy;21-25;University;Non Government;Yes;Yes;High;Poor;Wifi;3G;03-jun;No;Mobile;Low;UN950
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;03-jun;No;Computer;Low;UN951
+Boy;16-20;College;Government;No;Yes;Low;Mid;Wifi;3G;01-mar;Yes;Mobile;Moderate;CG952
+Boy;16-20;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SG953
+Girl;06-oct;School;Non Government;No;Yes;Low;Mid;Wifi;3G;01-mar;No;Mobile;High;SN954
+Boy;nov-15;School;Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SG955
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;High;SN956
+Boy;21-25;University;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;UG957
+Boy;06-oct;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SN958
+Girl;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Tab;Moderate;UN959
+Girl;16-20;University;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Mobile;Low;UG960
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Tab;Moderate;UN961
+Boy;21-25;University;Non Government;Yes;Yes;Low;Rich;Wifi;4G;01-mar;Yes;Computer;High;UN962
+Girl;21-25;University;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;UN963
+Girl;16-20;College;Non Government;No;Yes;High;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CN964
+Boy;16-20;College;Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CG965
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UN966
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UN967
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN968
+Boy;26-30;University;Government;Yes;No;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;UG969
+Girl;nov-15;School;Government;No;Yes;Low;Rich;Wifi;4G;01-mar;No;Mobile;Moderate;SG970
+Girl;nov-15;School;Non Government;No;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SN971
+Girl;26-30;University;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UG972
+Boy;16-20;School;Government;No;Yes;Low;Rich;Mobile Data;4G;01-mar;No;Mobile;Moderate;SG973
+Boy;21-25;University;Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;Yes;Mobile;Low;UG974
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN975
+Boy;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;CN976
+Boy;06-oct;School;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;SG977
+Boy;06-oct;School;Government;No;No;High;Mid;Mobile Data;2G;01-mar;No;Mobile;Low;SG978
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN979
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN980
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN981
+Boy;21-25;University;Government;Yes;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;UG982
+Boy;16-20;College;Government;No;Yes;Low;Mid;Wifi;3G;01-mar;Yes;Mobile;Moderate;CG983
+Girl;21-25;College;Government;No;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;CG984
+Boy;nov-15;School;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN985
+Boy;nov-15;School;Non Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN986
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;High;SN987
+Boy;21-25;University;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UG988
+Boy;26-30;University;Government;No;No;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;UG989
+Girl;21-25;University;Non Government;No;Yes;High;Poor;Wifi;4G;03-jun;No;Mobile;Low;UN990
+Boy;nov-15;School;Non Government;No;Yes;High;Mid;Wifi;4G;01-mar;No;Computer;Low;SN991
+Girl;16-20;College;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CG992
+Boy;16-20;University;Government;No;Yes;Low;Mid;Wifi;4G;03-jun;Yes;Computer;Low;UG993
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN994
+Girl;16-20;School;Government;No;No;Low;Rich;Mobile Data;4G;01-mar;No;Mobile;High;SG995
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UN996
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN997
+Girl;nov-15;School;Government;No;Yes;Low;Rich;Wifi;4G;01-mar;No;Mobile;Low;SG998
+Boy;16-20;University;Government;No;No;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;UG999
+Boy;nov-15;School;Non Government;No;Yes;High;Poor;Wifi;4G;01-mar;No;Mobile;Low;SN1000
+Girl;16-20;College;Non Government;No;No;High;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CN1001
+Boy;21-25;University;Non Government;Yes;Yes;High;Poor;Mobile Data;3G;01-mar;Yes;Mobile;Moderate;UN1002
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN1003
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN1004
+Boy;nov-15;School;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN1005
+Girl;21-25;University;Non Government;No;Yes;Low;Rich;Wifi;4G;03-jun;No;Computer;Moderate;UN1006
+Girl;21-25;University;Non Government;No;Yes;High;Mid;Mobile Data;4G;01-mar;Yes;Mobile;Moderate;UN1007
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN1008
+Boy;nov-15;School;Non Government;No;Yes;High;Poor;Wifi;4G;01-mar;No;Mobile;Low;SN1009
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;03-jun;Yes;Computer;Moderate;UN1010
+Girl;nov-15;School;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN1011
+Girl;21-25;University;Government;No;No;Low;Mid;Mobile Data;2G;01-mar;No;Mobile;Low;UG1012
+Girl;26-30;University;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UG1013
+Girl;16-20;College;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CG1014
+Boy;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;CN1015
+Boy;16-20;College;Government;No;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;CG1016
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN1017
+Girl;16-20;College;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CG1018
+Boy;nov-15;School;Non Government;No;Yes;Low;Rich;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN1019
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Tab;Moderate;UN1020
+Boy;21-25;University;Non Government;Yes;No;Low;Mid;Mobile Data;3G;01-mar;Yes;Computer;Moderate;UN1021
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;03-jun;No;Mobile;Moderate;SN1022
+Boy;21-25;University;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UG1023
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;UN1024
+Boy;26-30;University;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;High;UG1025
+Boy;nov-15;School;Non Government;No;Yes;High;Mid;Wifi;4G;01-mar;No;Computer;Low;SN1026
+Girl;16-20;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;SN1027
+Girl;16-20;College;Government;No;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;CG1028
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CN1029
+Girl;nov-15;School;Government;No;Yes;Low;Mid;Wifi;3G;01-mar;No;Mobile;Low;SG1030
+Girl;06-oct;School;Non Government;No;Yes;Low;Mid;Wifi;3G;01-mar;No;Mobile;High;SN1031
+Girl;16-20;College;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN1032
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;High;SN1033
+Girl;21-25;University;Non Government;Yes;Yes;Low;Rich;Wifi;4G;03-jun;No;Computer;Moderate;UN1034
+Girl;21-25;University;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UN1035
+Boy;01-may;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SN1036
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Mobile;Moderate;UN1037
+Girl;16-20;College;Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;CG1038
+Girl;nov-15;School;Non Government;No;Yes;Low;Rich;Wifi;3G;01-mar;No;Mobile;High;SN1039
+Boy;nov-15;School;Non Government;No;Yes;High;Poor;Wifi;4G;01-mar;No;Mobile;Low;SN1040
+Girl;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Tab;Moderate;UN1041
+Boy;21-25;University;Non Government;No;Yes;High;Mid;Mobile Data;3G;01-mar;Yes;Mobile;Moderate;UN1042
+Boy;21-25;University;Government;Yes;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;UG1043
+Girl;16-20;College;Non Government;No;Yes;High;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CN1044
+Boy;21-25;University;Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Computer;Low;UG1045
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Tab;Moderate;UN1046
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN1047
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN1048
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN1049
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN1050
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;01-mar;Yes;Mobile;Moderate;UN1051
+Girl;nov-15;School;Government;No;Yes;Low;Rich;Wifi;4G;01-mar;No;Mobile;Moderate;SG1052
+Boy;nov-15;School;Non Government;No;Yes;High;Poor;Wifi;4G;01-mar;No;Mobile;Low;SN1053
+Boy;01-may;School;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;SG1054
+Girl;nov-15;School;Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SG1055
+Girl;21-25;University;Non Government;No;Yes;Low;Rich;Wifi;4G;03-jun;No;Tab;Moderate;UN1056
+Boy;16-20;College;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CG1057
+Girl;21-25;University;Non Government;Yes;Yes;Low;Rich;Wifi;4G;03-jun;No;Computer;Moderate;UN1058
+Boy;nov-15;School;Non Government;No;Yes;High;Poor;Wifi;4G;01-mar;No;Mobile;Low;SN1059
+Boy;26-30;University;Government;No;No;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;UG1060
+Boy;21-25;University;Non Government;Yes;No;Low;Mid;Mobile Data;3G;01-mar;Yes;Computer;Moderate;UN1061
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;01-mar;No;Computer;Moderate;UN1062
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;CN1063
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN1064
+Boy;26-30;University;Government;Yes;Yes;Low;Rich;Wifi;4G;01-mar;No;Computer;High;UG1065
+Boy;nov-15;School;Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SG1066
+Boy;21-25;University;Government;No;No;High;Mid;Wifi;4G;01-mar;No;Mobile;Low;UG1067
+Boy;21-25;University;Non Government;Yes;Yes;High;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Moderate;UN1068
+Girl;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;03-jun;Yes;Mobile;Moderate;UN1069
+Girl;16-20;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;UN1070
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;High;SN1071
+Boy;nov-15;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;High;SG1072
+Girl;21-25;University;Government;No;Yes;Low;Mid;Wifi;3G;01-mar;Yes;Mobile;Low;UG1073
+Girl;nov-15;School;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN1074
+Boy;21-25;University;Non Government;Yes;Yes;High;Mid;Wifi;4G;03-jun;Yes;Computer;Low;UN1075
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;High;SN1076
+Boy;16-20;College;Government;No;Yes;High;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;CG1077
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN1078
+Boy;16-20;College;Government;No;No;High;Poor;Mobile Data;2G;01-mar;No;Mobile;Low;CG1079
+Girl;16-20;College;Non Government;No;No;Low;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Low;CN1080
+Boy;16-20;College;Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CG1081
+Boy;21-25;University;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;UN1082
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN1083
+Girl;16-20;University;Non Government;Yes;No;High;Poor;Mobile Data;3G;01-mar;Yes;Mobile;Moderate;UN1084
+Boy;06-oct;School;Non Government;No;Yes;Low;Rich;Wifi;4G;01-mar;No;Mobile;Moderate;SN1085
+Boy;16-20;College;Government;Yes;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CG1086
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;UN1087
+Boy;21-25;University;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UG1088
+Girl;16-20;College;Government;No;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;CG1089
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN1090
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN1091
+Girl;16-20;College;Non Government;No;No;Low;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Low;CN1092
+Boy;16-20;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SG1093
+Girl;16-20;College;Non Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CN1094
+Girl;21-25;University;Non Government;Yes;Yes;Low;Rich;Wifi;4G;03-jun;No;Computer;High;UN1095
+Girl;21-25;University;Non Government;Yes;Yes;High;Mid;Wifi;3G;03-jun;Yes;Mobile;Moderate;UN1096
+Boy;21-25;University;Non Government;Yes;Yes;Low;Rich;Wifi;4G;03-jun;No;Mobile;Low;UN1097
+Girl;16-20;College;Non Government;No;No;High;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CN1098
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Wifi;3G;01-mar;No;Mobile;Moderate;SN1099
+Boy;nov-15;School;Non Government;No;Yes;High;Poor;Wifi;4G;01-mar;No;Mobile;Low;SN1100
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN1101
+Girl;16-20;College;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;CG1102
+Girl;nov-15;School;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN1103
+Boy;nov-15;School;Non Government;No;Yes;Low;Rich;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN1104
+Boy;16-20;School;Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SG1105
+Girl;06-oct;School;Non Government;No;Yes;Low;Mid;Wifi;3G;01-mar;No;Mobile;High;SN1106
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN1107
+Boy;06-oct;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SN1108
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;03-jun;No;Mobile;Moderate;SN1109
+Boy;16-20;College;Government;No;Yes;Low;Mid;Wifi;3G;01-mar;Yes;Mobile;Moderate;CG1110
+Boy;16-20;College;Government;No;No;High;Poor;Mobile Data;3G;01-mar;No;Mobile;Moderate;CG1111
+Boy;nov-15;School;Non Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SN1112
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN1113
+Girl;nov-15;School;Non Government;No;Yes;Low;Rich;Wifi;3G;01-mar;No;Mobile;High;SN1114
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN1115
+Boy;16-20;College;Government;No;Yes;High;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;CG1116
+Girl;21-25;University;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;Yes;Mobile;Moderate;UG1117
+Girl;16-20;College;Non Government;No;No;High;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CN1118
+Girl;nov-15;School;Non Government;Yes;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN1119
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN1120
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN1121
+Boy;16-20;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SG1122
+Boy;16-20;College;Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Tab;Moderate;CG1123
+Boy;21-25;University;Non Government;Yes;No;High;Mid;Mobile Data;3G;03-jun;No;Computer;Low;UN1124
+Girl;nov-15;School;Government;No;Yes;Low;Rich;Wifi;4G;01-mar;No;Mobile;Moderate;SG1125
+Boy;21-25;University;Non Government;Yes;No;High;Mid;Mobile Data;3G;03-jun;No;Computer;Low;UN1126
+Boy;06-oct;School;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;SG1127
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;SN1128
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN1129
+Boy;nov-15;School;Non Government;No;Yes;High;Poor;Wifi;4G;01-mar;No;Mobile;Low;SN1130
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN1131
+Boy;16-20;College;Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;CG1132
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN1133
+Girl;16-20;College;Non Government;No;Yes;High;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN1134
+Girl;16-20;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;UN1135
+Girl;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Computer;Moderate;UN1136
+Girl;21-25;University;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;UN1137
+Girl;21-25;University;Non Government;Yes;No;Low;Mid;Mobile Data;3G;01-mar;Yes;Mobile;Moderate;UN1138
+Boy;21-25;University;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;UG1139
+Girl;21-25;University;Non Government;Yes;No;Low;Mid;Mobile Data;3G;01-mar;Yes;Mobile;Moderate;UN1140
+Boy;nov-15;School;Non Government;No;Yes;Low;Rich;Mobile Data;3G;01-mar;No;Mobile;High;SN1141
+Girl;16-20;School;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;SG1142
+Girl;16-20;College;Non Government;No;No;Low;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Low;CN1143
+Boy;16-20;College;Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CG1144
+Boy;16-20;College;Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;Yes;Tab;Moderate;CG1145
+Boy;21-25;University;Non Government;No;Yes;Low;Mid;Wifi;4G;03-jun;No;Computer;Moderate;UN1146
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN1147
+Boy;16-20;College;Government;No;Yes;High;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;CG1148
+Girl;16-20;College;Non Government;No;No;Low;Mid;Mobile Data;3G;01-mar;Yes;Mobile;Low;CN1149
+Girl;16-20;College;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CG1150
+Girl;nov-15;School;Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;SG1151
+Girl;01-may;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN1152
+Girl;nov-15;School;Non Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN1153
+Boy;21-25;University;Non Government;Yes;No;High;Mid;Mobile Data;3G;03-jun;No;Computer;Low;UN1154
+Girl;01-may;School;Non Government;No;Yes;Low;Poor;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN1155
+Boy;16-20;College;Government;Yes;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Moderate;CG1156
+Boy;26-30;University;Government;Yes;Yes;Low;Rich;Wifi;4G;01-mar;No;Computer;High;UG1157
+Girl;21-25;University;Government;No;No;Low;Mid;Mobile Data;2G;01-mar;No;Mobile;Low;UG1158
+Boy;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN1159
+Boy;21-25;University;Non Government;Yes;No;High;Mid;Mobile Data;3G;01-mar;Yes;Mobile;Moderate;UN1160
+Girl;nov-15;School;Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SG1161
+Girl;16-20;University;Non Government;Yes;No;High;Poor;Mobile Data;3G;01-mar;Yes;Mobile;Moderate;UN1162
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;03-jun;No;Mobile;Moderate;SN1163
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;03-jun;No;Mobile;Moderate;SN1164
+Boy;21-25;University;Non Government;Yes;No;High;Mid;Mobile Data;3G;01-mar;Yes;Mobile;Moderate;UN1165
+Girl;nov-15;School;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Computer;Moderate;SN1166
+Girl;21-25;University;Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UG1167
+Boy;21-25;University;Non Government;Yes;No;Low;Mid;Wifi;4G;03-jun;Yes;Computer;Moderate;UN1168
+Girl;16-20;College;Non Government;No;No;Low;Mid;Mobile Data;3G;03-jun;Yes;Mobile;Low;CN1169
+Boy;21-25;University;Non Government;Yes;No;High;Poor;Mobile Data;3G;03-jun;Yes;Mobile;Moderate;UN1170
+Boy;26-30;University;Government;Yes;Yes;Low;Rich;Wifi;4G;01-mar;No;Mobile;High;UG1171
+Boy;21-25;University;Government;No;No;High;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;UG1172
+Girl;16-20;College;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CG1173
+Boy;21-25;University;Government;No;Yes;Low;Mid;Mobile Data;4G;03-jun;No;Mobile;Moderate;UG1174
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN1175
+Boy;26-30;University;Government;Yes;Yes;Low;Rich;Wifi;4G;01-mar;No;Computer;High;UG1176
+Boy;06-oct;School;Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SG1177
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Moderate;SN1178
+Girl;nov-15;School;Non Government;No;Yes;Low;Rich;Wifi;3G;01-mar;No;Mobile;High;SN1179
+Boy;01-may;School;Government;No;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;SG1180
+Boy;16-20;College;Government;Yes;Yes;Low;Mid;Mobile Data;4G;01-mar;Yes;Mobile;Low;CG1181
+Boy;21-25;University;Non Government;Yes;No;Low;Mid;Mobile Data;3G;01-mar;Yes;Computer;Moderate;UN1182
+Girl;16-20;College;Government;No;No;High;Poor;Mobile Data;4G;01-mar;No;Mobile;Low;CG1183
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN1184
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Low;SN1185
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN1186
+Girl;16-20;College;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN1187
+Boy;06-oct;School;Non Government;No;Yes;Low;Rich;Wifi;4G;01-mar;No;Mobile;Moderate;SN1188
+Girl;21-25;University;Non Government;Yes;Yes;High;Mid;Wifi;4G;01-mar;No;Mobile;Low;UN1189
+Boy;26-30;University;Non Government;Yes;Yes;Low;Mid;Wifi;3G;01-mar;Yes;Mobile;Moderate;UN1190
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN1191
+Boy;16-20;College;Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CG1192
+Boy;21-25;University;Non Government;Yes;Yes;High;Poor;Wifi;4G;01-mar;Yes;Computer;High;UN1193
+Boy;nov-15;School;Non Government;No;No;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;SN1194
+Boy;21-25;University;Non Government;Yes;Yes;High;Poor;Wifi;4G;01-mar;Yes;Computer;High;UN1195
+Boy;16-20;College;Government;No;No;High;Mid;Mobile Data;3G;01-mar;No;Mobile;Low;CG1196
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Mobile Data;4G;03-jun;No;Computer;Moderate;UN1197
+Boy;16-20;College;Government;Yes;No;Low;Mid;Mobile Data;4G;01-mar;No;Mobile;Low;CG1198
+Boy;21-25;University;Non Government;Yes;Yes;Low;Mid;Wifi;4G;03-jun;No;Computer;Low;UN1199
+Girl;16-20;College;Non Government;No;Yes;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN1200
+Girl;16-20;College;Non Government;No;No;High;Mid;Wifi;4G;03-jun;No;Mobile;Moderate;CN1201
+Boy;nov-15;School;Non Government;No;Yes;Low;Mid;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN1202
+Girl;16-20;College;Non Government;No;No;Low;Mid;Wifi;4G;01-mar;No;Mobile;Low;CN1203
+Girl;nov-15;School;Non Government;No;Yes;Low;Poor;Mobile Data;3G;01-mar;No;Mobile;Moderate;SN1204

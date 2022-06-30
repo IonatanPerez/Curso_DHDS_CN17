@@ -6,8 +6,10 @@ import pandas as pd
 #import matplotlib.pyplot as plt
 
 localpath = './SubRepos/Curso_DHDS_CN17/Cosas/Dani/'
+localpath = ''
 
 data_raw = pd.read_csv(localpath + "data_raw_final.csv",sep=';')  #leemos el archio csv desde la raiz
+
 st.title("Nivel de Adaptabilidad Grupo 6")  #Titulo en streamlit
 st.write(data_raw.head(4))  # visualize my dataframe in the Streamlit app 
 
@@ -107,20 +109,20 @@ st.subheader('Ingrese Parametros')
 st.subheader(model)
 
 # st.write(df)
-
 while st.button('RUN'):
     X = data_raw.drop(columns = ['adaptivity_level','ID_student'])
-    X.iloc[0] = pd.from_dict(dict_datos_ingresados)
-    print (X.head())
+    for key in dict_datos_ingresados:
+        X.iloc[0][key] = dict_datos_ingresados[key]
     X = pd.get_dummies(X)
+    print (X.iloc[0])
     if model == 'Linear Regression':
-        st.success(classify(lin_reg.predict(data)))
+        st.success(classify(lin_reg.predict([X.iloc[0]])))
         break
     elif model == 'Logistic Regression':
-        st.success(classify(log_reg.predict(data)))
+        st.success(classify(log_reg.predict([X.iloc[0]])))
         break
     else:
-        st.success(classify(forest.predict(data)))
+        st.success(classify(forest.predict([X.iloc[0]])))
         break
     # else model == 'forest':
     # st.print('hola2')

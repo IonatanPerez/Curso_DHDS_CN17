@@ -6,11 +6,11 @@ from sklearn.linear_model import LinearRegression, LogisticRegression
 import pandas as pd
 import pickle
 
-localpath = './SubRepos/Curso_DHDS_CN17/Cosas/Dani/'
+# localpath = './SubRepos/Curso_DHDS_CN17/Cosas/Dani/'
+localpath = ''
 data_raw = pd.read_csv(localpath + 'data_raw_final.csv',sep=';')  #leemos el archio csv desde la raiz
 
 y = data_raw['adaptivity_level'] == 'Moderate' #target
-print (y)
 X = data_raw.drop(columns = ['adaptivity_level','ID_student'])
 X = pd.get_dummies(X)
 
@@ -38,5 +38,4 @@ with open(localpath + 'forest.pkl', 'wb') as fo:
     pickle.dump(forest, fo)
 
 
-print (forest.predict([X.iloc[1]]))
-print (X.iloc[1])
+print (x_test.iloc[0])
