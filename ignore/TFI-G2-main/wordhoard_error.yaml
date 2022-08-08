@@ -1,0 +1,226 @@
+2022-06-21 12:44:56:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word about
+2022-06-21 12:44:59:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word fireplace
+2022-06-21 12:45:00:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:45:00:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:45:00:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word i
+2022-06-21 12:45:01:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:45:01:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:45:02:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:45:02:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:45:04:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:45:04:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:45:05:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:45:05:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:45:05:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word of
+2022-06-21 12:45:08:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:45:08:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:45:08:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word agent
+2022-06-21 12:45:09:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:45:09:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:45:13:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:45:13:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:45:14:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:45:14:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:45:16:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:45:16:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:45:16:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word this
+2022-06-21 12:45:17:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word feels
+2022-06-21 12:45:18:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:45:18:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:45:21:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:45:21:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:45:23:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:45:23:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:45:24:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:45:24:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:45:25:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:45:25:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:45:27:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:45:27:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:45:28:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:45:28:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:45:31:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:45:31:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:45:31:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word and
+2022-06-21 12:45:32:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:45:32:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:45:33:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:45:33:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:57:50:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word fireplace
+2022-06-21 12:57:51:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:57:51:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:57:51:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word i
+2022-06-21 12:57:52:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:57:52:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:58:23:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word fireplace
+2022-06-21 12:58:23:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:58:24:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:58:24:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word i
+2022-06-21 12:58:25:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:58:25:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:58:37:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word fireplace
+2022-06-21 12:58:38:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:58:38:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:58:38:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word i
+2022-06-21 12:58:39:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:58:39:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:59:11:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word fireplace
+2022-06-21 12:59:12:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:59:12:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 12:59:12:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word i
+2022-06-21 12:59:13:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 12:59:13:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 13:00:18:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word fireplace
+2022-06-21 13:00:20:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 13:00:20:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-21 13:00:20:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word i
+2022-06-21 13:00:21:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-21 13:00:21:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-23 16:43:18:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word about
+2022-06-23 16:43:21:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word fireplace
+2022-06-23 16:43:22:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-23 16:43:22:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-23 16:43:22:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word i
+2022-06-23 16:43:23:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-23 16:43:23:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-23 16:43:24:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-23 16:43:24:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-23 16:43:25:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-23 16:43:25:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-23 16:43:27:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-23 16:43:27:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-23 16:43:27:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word of
+2022-06-23 16:43:29:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-23 16:43:29:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-23 16:43:30:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word agent
+2022-06-23 16:43:31:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-23 16:43:31:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-23 16:43:34:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-23 16:43:34:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-23 16:43:35:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-23 16:43:35:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-23 16:43:37:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-23 16:43:37:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-23 16:43:37:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word this
+2022-06-23 16:43:38:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word feels
+2022-06-23 16:43:39:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-23 16:43:39:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-23 16:43:42:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-23 16:43:42:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-23 16:43:44:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-23 16:43:44:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-23 16:43:45:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-23 16:43:45:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-23 16:43:46:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-23 16:43:46:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-23 16:43:48:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-23 16:43:48:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-23 16:43:49:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-23 16:43:49:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-23 16:43:51:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-23 16:43:51:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-23 16:43:51:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word and
+2022-06-23 16:43:52:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-23 16:43:52:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
+2022-06-23 16:43:54:wordhoard.antonyms:ERROR: A TypeError occurred in the following code segment:
+2022-06-23 16:43:54:wordhoard.antonyms:ERROR:   File "c:\Users\Ionatan\anaconda3\envs\DH\lib\site-packages\wordhoard\antonyms.py", line 330, in _query_wordhippo
+    for href_link in table_row.find('a', href=True):
+
